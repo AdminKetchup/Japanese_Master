@@ -71,7 +71,7 @@ function ProtectedHome() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-4xl px-4">
 
         {/* Daily Check-in Section */}
-        <div className="p-8 bg-gray-800 rounded-2xl shadow-xl border border-gray-700 flex flex-col items-center justify-center">
+        <div className="p-6 md:p-8 bg-gray-800 rounded-2xl shadow-xl border border-gray-700 flex flex-col items-center justify-center">
           <h2 className="text-2xl font-bold mb-6 flex items-center gap-2">
             <span>📅</span> Daily Attendance
           </h2>

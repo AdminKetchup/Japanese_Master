@@ -145,8 +145,8 @@ export default function TypingPage() {
     if (!currentQuote) return <div className="text-center mt-20">Loading...</div>;
 
     return (
-        <div className="flex flex-col items-center justify-center min-h-[85vh] px-4 py-12">
-            <div className="bg-gray-800/80 backdrop-blur-xl p-12 rounded-3xl shadow-2xl max-w-6xl w-full text-center relative border border-gray-700/50">
+        <div className="flex flex-col items-center justify-center min-h-[85vh] px-4 py-6 md:py-12">
+            <div className="bg-gray-800/80 backdrop-blur-xl p-6 md:p-12 rounded-3xl shadow-2xl max-w-6xl w-full text-center relative border border-gray-700/50">
                 <button
                     onClick={() => setSelectedCategory(null)}
                     className="absolute top-6 left-8 text-gray-400 hover:text-white text-lg transition-colors flex items-center gap-2"
@@ -175,7 +175,7 @@ export default function TypingPage() {
                     type="text"
                     value={input}
                     onChange={handleInput}
-                    className={`w-full p-6 text-3xl md:text-4xl text-center bg-gray-700/50 rounded-xl focus:outline-none focus:ring-4 transition-all shadow-lg placeholder-gray-500 ${isCorrect
+                    className={`w-full p-4 md:p-6 text-2xl md:text-4xl text-center bg-gray-700/50 rounded-xl focus:outline-none focus:ring-4 transition-all shadow-lg placeholder-gray-500 ${isCorrect
                         ? "ring-green-500 bg-gray-800 text-green-400"
                         : isError
                             ? "ring-red-500 bg-gray-800 text-red-300 animate-shake"

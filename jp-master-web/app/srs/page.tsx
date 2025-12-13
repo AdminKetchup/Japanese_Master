@@ -267,7 +267,7 @@ export default function SRSPage() {
             >
                 ← Change Deck
             </button>
-            <div className="bg-gray-800 p-8 rounded-2xl shadow-2xl max-w-md w-full text-center relative min-h-[600px] flex flex-col justify-between">
+            <div className="bg-gray-800 p-6 md:p-8 rounded-2xl shadow-2xl max-w-md w-full text-center relative min-h-[600px] flex flex-col justify-between">
 
                 {/* Progress Indicator */}
                 <div className="absolute top-4 right-4 text-sm text-gray-500">
