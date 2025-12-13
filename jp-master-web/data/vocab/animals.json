@@ -1,0 +1,345 @@
+[
+    {
+        "id": 1,
+        "category": "Animals",
+        "kanji": "猫",
+        "kana": "ねこ",
+        "meaning": "고양이"
+    },
+    {
+        "id": 2,
+        "category": "Animals",
+        "kanji": "犬",
+        "kana": "いぬ",
+        "meaning": "개"
+    },
+    {
+        "id": 142,
+        "category": "Animals",
+        "kanji": "牛",
+        "kana": "うし",
+        "meaning": "소"
+    },
+    {
+        "id": 143,
+        "category": "Animals",
+        "kanji": "豚",
+        "kana": "ぶた",
+        "meaning": "돼지"
+    },
+    {
+        "id": 144,
+        "category": "Animals",
+        "kanji": "鶏",
+        "kana": "にわとり",
+        "meaning": "닭"
+    },
+    {
+        "id": 145,
+        "category": "Animals",
+        "kanji": "馬",
+        "kana": "うま",
+        "meaning": "말"
+    },
+    {
+        "id": 146,
+        "category": "Animals",
+        "kanji": "山羊",
+        "kana": "やぎ",
+        "meaning": "염소"
+    },
+    {
+        "id": 147,
+        "category": "Animals",
+        "kanji": "羊",
+        "kana": "ひつじ",
+        "meaning": "양"
+    },
+    {
+        "id": 148,
+        "category": "Animals",
+        "kanji": "虎",
+        "kana": "とら",
+        "meaning": "호랑이"
+    },
+    {
+        "id": 149,
+        "category": "Animals",
+        "kanji": "熊",
+        "kana": "くま",
+        "meaning": "곰"
+    },
+    {
+        "id": 150,
+        "category": "Animals",
+        "kanji": "ライオン",
+        "kana": "らいおん",
+        "meaning": "사자"
+    },
+    {
+        "id": 151,
+        "category": "Animals",
+        "kanji": "狼",
+        "kana": "おおかみ",
+        "meaning": "늑대"
+    },
+    {
+        "id": 152,
+        "category": "Animals",
+        "kanji": "狐",
+        "kana": "きつね",
+        "meaning": "여우"
+    },
+    {
+        "id": 153,
+        "category": "Animals",
+        "kanji": "猪",
+        "kana": "いのしし",
+        "meaning": "멧돼지"
+    },
+    {
+        "id": 154,
+        "category": "Animals",
+        "kanji": "鹿",
+        "kana": "しか",
+        "meaning": "사슴"
+    },
+    {
+        "id": 155,
+        "category": "Animals",
+        "kanji": "キバノロ",
+        "kana": "きばのろ",
+        "meaning": "고라니"
+    },
+    {
+        "id": 156,
+        "category": "Animals",
+        "kanji": "鵲",
+        "kana": "かささぎ",
+        "meaning": "까치"
+    },
+    {
+        "id": 157,
+        "category": "Animals",
+        "kanji": "雀",
+        "kana": "すずめ",
+        "meaning": "참새"
+    },
+    {
+        "id": 158,
+        "category": "Animals",
+        "kanji": "鳩",
+        "kana": "はと",
+        "meaning": "비둘기"
+    },
+    {
+        "id": 159,
+        "category": "Animals",
+        "kanji": "カラス",
+        "kana": "からす",
+        "meaning": "까마귀"
+    },
+    {
+        "id": 160,
+        "category": "Animals",
+        "kanji": "鷲",
+        "kana": "わし",
+        "meaning": "독수리"
+    },
+    {
+        "id": 161,
+        "category": "Animals",
+        "kanji": "フクロウ",
+        "kana": "ふくろう",
+        "meaning": "부엉이"
+    },
+    {
+        "id": 162,
+        "category": "Animals",
+        "kanji": "鼠",
+        "kana": "ねずみ",
+        "meaning": "쥐"
+    },
+    {
+        "id": 163,
+        "category": "Animals",
+        "kanji": "兎",
+        "kana": "うさぎ",
+        "meaning": "토끼"
+    },
+    {
+        "id": 164,
+        "category": "Animals",
+        "kanji": "蛇",
+        "kana": "へび",
+        "meaning": "뱀"
+    },
+    {
+        "id": 165,
+        "category": "Animals",
+        "kanji": "トカゲ",
+        "kana": "とかげ",
+        "meaning": "도마뱀"
+    },
+    {
+        "id": 166,
+        "category": "Animals",
+        "kanji": "亀",
+        "kana": "かめ",
+        "meaning": "거북이"
+    },
+    {
+        "id": 167,
+        "category": "Animals",
+        "kanji": "蛙",
+        "kana": "かえる",
+        "meaning": "개구리"
+    },
+    {
+        "id": 168,
+        "category": "Animals",
+        "kanji": "蝦蟇",
+        "kana": "がま",
+        "meaning": "두꺼비"
+    },
+    {
+        "id": 169,
+        "category": "Animals",
+        "kanji": "鯉",
+        "kana": "こい",
+        "meaning": "잉어"
+    },
+    {
+        "id": 170,
+        "category": "Animals",
+        "kanji": "鮒",
+        "kana": "ふな",
+        "meaning": "붕어"
+    },
+    {
+        "id": 171,
+        "category": "Animals",
+        "kanji": "泥鰌",
+        "kana": "どじょう",
+        "meaning": "미꾸라지"
+    },
+    {
+        "id": 172,
+        "category": "Animals",
+        "kanji": "鮫",
+        "kana": "さめ",
+        "meaning": "상어"
+    },
+    {
+        "id": 173,
+        "category": "Animals",
+        "kanji": "鯨",
+        "kana": "くじら",
+        "meaning": "고래"
+    },
+    {
+        "id": 174,
+        "category": "Animals",
+        "kanji": "イルカ",
+        "kana": "いるか",
+        "meaning": "돌고래"
+    },
+    {
+        "id": 175,
+        "category": "Animals",
+        "kanji": "蛸",
+        "kana": "たこ",
+        "meaning": "문어"
+    },
+    {
+        "id": 176,
+        "category": "Animals",
+        "kanji": "イカ",
+        "kana": "いか",
+        "meaning": "오징어"
+    },
+    {
+        "id": 177,
+        "category": "Animals",
+        "kanji": "蟹",
+        "kana": "かに",
+        "meaning": "게"
+    },
+    {
+        "id": 178,
+        "category": "Animals",
+        "kanji": "海老",
+        "kana": "えび",
+        "meaning": "새우"
+    },
+    {
+        "id": 179,
+        "category": "Animals",
+        "kanji": "貝",
+        "kana": "かい",
+        "meaning": "조개"
+    },
+    {
+        "id": 180,
+        "category": "Animals",
+        "kanji": "蟻",
+        "kana": "あり",
+        "meaning": "개미"
+    },
+    {
+        "id": 181,
+        "category": "Animals",
+        "kanji": "蜂",
+        "kana": "はち",
+        "meaning": "벌"
+    },
+    {
+        "id": 182,
+        "category": "Animals",
+        "kanji": "スズメバチ",
+        "kana": "すずめばち",
+        "meaning": "말벌"
+    },
+    {
+        "id": 183,
+        "category": "Animals",
+        "kanji": "蝶",
+        "kana": "ちょう",
+        "meaning": "나비"
+    },
+    {
+        "id": 184,
+        "category": "Animals",
+        "kanji": "トンボ",
+        "kana": "とんぼ",
+        "meaning": "잠자리"
+    },
+    {
+        "id": 185,
+        "category": "Animals",
+        "kanji": "蚊",
+        "kana": "か",
+        "meaning": "모기"
+    },
+    {
+        "id": 186,
+        "category": "Animals",
+        "kanji": "蝿",
+        "kana": "はえ",
+        "meaning": "파리"
+    },
+    {
+        "id": 187,
+        "category": "Animals",
+        "kanji": "ゴキブリ",
+        "kana": "ごきぶり",
+        "meaning": "바퀴벌레"
+    },
+    {
+        "id": 188,
+        "category": "Animals",
+        "kanji": "蜘蛛",
+        "kana": "くも",
+        "meaning": "거미"
+    }
+]

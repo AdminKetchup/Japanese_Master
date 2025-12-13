@@ -1,0 +1,695 @@
+[
+    {
+        "category": "Anime",
+        "origin": "Naruto",
+        "sentence": "諦めねぇ。それが俺の忍道だ！",
+        "kana": "あきらめねぇ。それがおれのにんどうだ！",
+        "meaning": "포기하지 않아. 그게 내 닌자의 길이다!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Slam Dunk",
+        "sentence": "諦めたらそこで試合終了だよ",
+        "kana": "あきらめたらそこでしあいしゅうりょうだよ",
+        "meaning": "포기하면 거기서 시합 종료야."
+    },
+    {
+        "category": "Anime",
+        "origin": "One Piece",
+        "sentence": "海賊王に俺はなる！",
+        "kana": "かいぞくおうにおれはなる！",
+        "meaning": "나는 해적왕이 될 거야!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Demon Slayer",
+        "sentence": "心を燃やせ！",
+        "kana": "こころをもやせ！",
+        "meaning": "마음을 불태워라!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Fullmetal Alchemist",
+        "sentence": "立って歩け。前へ進め。あんたには立派な足がついているじゃないか。",
+        "kana": "たってあるけ。まえへすすめ。あんたにはりっぱなあしがついているじゃないか。",
+        "meaning": "일어서서 걸어. 앞으로 나아가. 너에게는 훌륭한 다리가 붙어있잖아."
+    },
+    {
+        "category": "Anime",
+        "origin": "Attack on Titan",
+        "sentence": "駆逐してやる！この世から一匹残らず！",
+        "kana": "くちくしてやる！このよからいっぴきのこらず！",
+        "meaning": "구축해주마! 이 세상에서 한 마리도 남기지 않고!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Evangelion",
+        "sentence": "逃げちゃダメだ、逃げちゃダメだ、逃げちゃダメだ",
+        "kana": "にげちゃだめだ、にげちゃだめだ、にげちゃだめだ",
+        "meaning": "도망치면 안 돼, 도망치면 안 돼, 도망치면 안 돼."
+    },
+    {
+        "category": "Anime",
+        "origin": "Gintama",
+        "sentence": "美しく最後を飾りつける暇があるなら、最後まで美しく生きようじゃねーか。",
+        "kana": "うつくしくさいごをかざりつけるひまがあるなら、さいごまでうつくしくいきようじゃねーか。",
+        "meaning": "아름답게 최후를 장식할 틈이 있다면, 최후까지 아름답게 살아가자고."
+    },
+    {
+        "category": "Anime",
+        "origin": "Bleach",
+        "sentence": "あまり強い言葉を使うなよ。弱く見えるぞ。",
+        "kana": "あまりつよいことばをつかうなよ。よわくみえるぞ。",
+        "meaning": "너무 강한 말은 쓰지 마. 약해 보인다구."
+    },
+    {
+        "category": "Anime",
+        "origin": "One Piece",
+        "sentence": "背中の傷は剣士の恥だ。",
+        "kana": "せなかのきずはけんしのはじだ。",
+        "meaning": "등의 상처는 검사의 수치다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Death Note",
+        "sentence": "僕は新世界の神となる！",
+        "kana": "ぼくはしんせかいのかみとなる！",
+        "meaning": "나는 신세계의 신이 된다!"
+    },
+    {
+        "category": "Anime",
+        "origin": "My Hero Academia",
+        "sentence": "君はヒーローになれる。",
+        "kana": "きみはひーろーになれる。",
+        "meaning": "너는 히어로가 될 수 있다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Haikyuu!!",
+        "sentence": "負けたくないことに理由っている？",
+        "kana": "まけたくないことにりゆうっている？",
+        "meaning": "지기 싫은 데 이유가 필요해?"
+    },
+    {
+        "category": "Anime",
+        "origin": "Jojo's Bizarre Adventure",
+        "sentence": "だが断る。",
+        "kana": "だがことわる。",
+        "meaning": "하지만 거절한다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Dragon Ball",
+        "sentence": "クリリンのことかーっ！",
+        "kana": "くりりんのことかーっ！",
+        "meaning": "크리링을 말하는 거냐—!!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Neon Genesis Evangelion",
+        "sentence": "笑えばいいと思うよ。",
+        "kana": "わらえばいいとおもうよ。",
+        "meaning": "웃으면 된다고 생각해."
+    },
+    {
+        "category": "Anime",
+        "origin": "Your Name",
+        "sentence": "君の名前は？",
+        "kana": "きみのなまえは？",
+        "meaning": "너의 이름은?"
+    },
+    {
+        "category": "Anime",
+        "origin": "Spirited Away",
+        "sentence": "一度あったことは忘れないものさ。思い出せないだけで。",
+        "kana": "いちどあったことはわすれないものさ。おもいだせないだけで。",
+        "meaning": "한 번 있었던 일은 잊지 않는 법이야. 기억해내지 못할 뿐이지."
+    },
+    {
+        "category": "Anime",
+        "origin": "Code Geass",
+        "sentence": "撃っていいのは撃たれる覚悟のある奴だけだ。",
+        "kana": "うっていいのはうたれるかくごのあるやつだけだ。",
+        "meaning": "쏴도 되는 건 맞을 각오가 되어 있는 녀석뿐이다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Sword Art Online",
+        "sentence": "これはゲームであっても遊びではない。",
+        "kana": "これはげーむであってもあそびではない。",
+        "meaning": "이것은 게임이지만 놀이가 아니다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Fate/stay night",
+        "sentence": "いくぞ英雄王、武器の貯蔵は十分か。",
+        "kana": "いくぞえいゆうおう、ぶきのちょぞうはじゅうぶんか。",
+        "meaning": "간다 영웅왕, 무기 저장은 충분한가."
+    },
+    {
+        "category": "Anime",
+        "origin": "Hunter x Hunter",
+        "sentence": "その人を知りたければ、その人が何に対して怒りを感じるかを知れ。",
+        "kana": "そのひとをしりたければ、そのひとがなににたいしていかりをかんじるかをしれ。",
+        "meaning": "그 사람을 알고 싶다면, 그 사람이 무엇에 분노를 느끼는지 알아라."
+    },
+    {
+        "category": "Anime",
+        "origin": "Detective Conan",
+        "sentence": "真実はいつもひとつ！",
+        "kana": "しんじつはいつもひとつ！",
+        "meaning": "진실은 언제나 하나!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Kuroko's Basketball",
+        "sentence": "ボクは影だ。",
+        "kana": "ぼくはかげだ。",
+        "meaning": "나는 그림자다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Tokyo Ghoul",
+        "sentence": "僕を喰おうとしたんだ、僕に喰われても仕方ないよね？",
+        "kana": "ぼくをくおうとしたんだ、ぼくにくわれてもしかたないよね？",
+        "meaning": "나를 먹으려고 했잖아, 나한테 먹혀도 어쩔 수 없지?"
+    },
+    {
+        "category": "Anime",
+        "origin": "Naruto",
+        "sentence": "火影は俺の夢だからだ！",
+        "kana": "ほかげはおれのゆめだからだ！",
+        "meaning": "호카게는 내 꿈이기 때문이다!"
+    },
+    {
+        "category": "Anime",
+        "origin": "One Piece",
+        "sentence": "人の夢は終わらねェ！",
+        "kana": "ひとのゆめはおわらねェ！",
+        "meaning": "사람의 꿈은 끝나지 않아!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Cowboy Bebop",
+        "sentence": "過去は流れる水のようなものだ。",
+        "kana": "かこはながれるみずのようなものだ。",
+        "meaning": "과거는 흐르는 물과 같은 것이다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Fullmetal Alchemist",
+        "sentence": "等価交換だ！俺の人生半分やるから、お前の人生半分くれ！",
+        "kana": "とうかこうかんだ！おれのじんせいはんぶんやるから、おまえのじんせいはんぶんくれ！",
+        "meaning": "등가교환이다! 내 인생 반 줄 테니까, 네 인생 반 줘!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Death Note",
+        "sentence": "計画通り。",
+        "kana": "けいかくどおり。",
+        "meaning": "계획대로."
+    },
+    {
+        "category": "Anime",
+        "origin": "Attack on Titan",
+        "sentence": "心臓を捧げよ！",
+        "kana": "しんぞうをささげよ！",
+        "meaning": "심장을 바쳐라!"
+    },
+    {
+        "category": "Anime",
+        "origin": "JoJo's Bizarre Adventure",
+        "sentence": "オラオラオラオラ！",
+        "kana": "おらおらおらおら！",
+        "meaning": "오라오라오라오라!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Re:Zero",
+        "sentence": "鬼がかってますね。",
+        "kana": "おにがかってますね。",
+        "meaning": "귀신 들렸네요 (엄청나네요)."
+    },
+    {
+        "category": "Anime",
+        "origin": "No Game No Life",
+        "sentence": "さあ、ゲームを始めよう。",
+        "kana": "さあ、げーむをはじめよう。",
+        "meaning": "자, 게임을 시작하자."
+    },
+    {
+        "category": "Anime",
+        "origin": "Violet Evergarden",
+        "sentence": "愛してるを知りたいのです。",
+        "kana": "あいしてるをしりたいのです。",
+        "meaning": "'사랑해'를 알고 싶습니다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Assassination Classroom",
+        "sentence": "殺せるといいですね、卒業までに。",
+        "kana": "ころせるといいですね、そつぎょうまでに。",
+        "meaning": "죽일 수 있으면 좋겠네요, 졸업까지."
+    },
+    {
+        "category": "Anime",
+        "origin": "Fairy Tail",
+        "sentence": "仲間を売るくらいなら死んだほうがマシだ！",
+        "kana": "なかまをうるくらいならしんだほうがましだ！",
+        "meaning": "동료를 팔 바엔 죽는 게 낫다!"
+    },
+    {
+        "category": "Anime",
+        "origin": "One Punch Man",
+        "sentence": "趣味でヒーローをやっている者だ。",
+        "kana": "しゅみでひーろーをやっているものだ。",
+        "meaning": "취미로 히어로를 하고 있는 사람이다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Naruto",
+        "sentence": "オレは自分に嘘をつくような奴は嫌いだ。",
+        "kana": "おれはじぶんにうそをつくようなやつはきらいだ。",
+        "meaning": "나는 자신에게 거짓말을 하는 녀석은 싫다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Your Lie in April",
+        "sentence": "君は春の中にいる。",
+        "kana": "きみははるのなかにいる。",
+        "meaning": "너는 봄 안에 있어."
+    },
+    {
+        "category": "Anime",
+        "origin": "Gurenn Lagann",
+        "sentence": "お前が信じるお前を信じろ！",
+        "kana": "おまえがしんじるおまえをしんじろ！",
+        "meaning": "네가 믿는 너를 믿어라!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Psycho-Pass",
+        "sentence": "社会が必ずしも正しいわけではない。",
+        "kana": "しゃかいがかならずしもただしいわけではない。",
+        "meaning": "사회가 반드시 올바른 것은 아니다."
+    },
+    {
+        "category": "Anime",
+        "origin": "Tokyo Revengers",
+        "sentence": "日和ってる奴いる？",
+        "kana": "ひよってるやついる？",
+        "meaning": "쫄은 녀석 있어?"
+    },
+    {
+        "category": "Anime",
+        "origin": "Jujutsu Kaisen",
+        "sentence": "生き様で後悔はしたくない。",
+        "kana": "いきざまでこうかいはしたくない。",
+        "meaning": "삶의 방식으로 후회하고 싶진 않아."
+    },
+    {
+        "category": "Anime",
+        "origin": "Spy x Family",
+        "sentence": "ワクワク！",
+        "kana": "わくわく！",
+        "meaning": "두근두근!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Chainsaw Man",
+        "sentence": "夢バトルしようぜ！",
+        "kana": "ゆめばとるしようぜ！",
+        "meaning": "꿈 배틀 하자고!"
+    },
+    {
+        "category": "Anime",
+        "origin": "Mob Psycho 100",
+        "sentence": "嫌な時は逃げたっていいんだよ。",
+        "kana": "いやなときはにげたっていいんだよ。",
+        "meaning": "싫을 때는 도망쳐도 돼."
+    },
+    {
+        "category": "Anime",
+        "origin": "Oshi no Ko",
+        "sentence": "嘘はとびきりの愛なんだよ？",
+        "kana": "うそはとびきりのあいなんだよ？",
+        "meaning": "거짓말은 최고의 사랑이라구?"
+    },
+    {
+        "category": "Anime",
+        "origin": "Frieren",
+        "sentence": "人の人生はもっと短い。",
+        "kana": "ひとのじんせいはもっとみじかい。",
+        "meaning": "사람의 인생은 훨씬 짧아."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "おはようございます。",
+        "kana": "おはようございます。",
+        "meaning": "안녕하세요 (아침)."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "こんにちは。",
+        "kana": "こんにちは。",
+        "meaning": "안녕하세요 (점심)."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "こんばんは。",
+        "kana": "こんばんは。",
+        "meaning": "안녕하세요 (저녁)."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "おやすみなさい。",
+        "kana": "おやすみなさい。",
+        "meaning": "안녕히 주무세요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "さようなら。",
+        "kana": "さようなら。",
+        "meaning": "안녕히 가세요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "またね。",
+        "kana": "またね。",
+        "meaning": "또 봐."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "ありがとうございます。",
+        "kana": "ありがとうございます。",
+        "meaning": "고맙습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "すみません。",
+        "kana": "すみません。",
+        "meaning": "죄송합니다 / 저기요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "ごめんなさい。",
+        "kana": "ごめんなさい。",
+        "meaning": "미안합니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "いただきます。",
+        "kana": "いただきます。",
+        "meaning": "잘 먹겠습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "ごちそうさまでした。",
+        "kana": "ごちそうさまでした。",
+        "meaning": "잘 먹었습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "いってきます。",
+        "kana": "いってきます。",
+        "meaning": "다녀오겠습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "いってらっしゃい。",
+        "kana": "いってらっしゃい。",
+        "meaning": "다녀오세요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "ただいま。",
+        "kana": "ただいま。",
+        "meaning": "다녀왔습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "おかえりなさい。",
+        "kana": "おかえりなさい。",
+        "meaning": "다녀오셨어요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "はじめまして。",
+        "kana": "はじめまして。",
+        "meaning": "처음 뵙겠습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "よろしくお願いします。",
+        "kana": "よろしくおねがいします。",
+        "meaning": "잘 부탁드립니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "お元気ですか？",
+        "kana": "おげんきですか？",
+        "meaning": "잘 지내시나요?"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "天気がいいですね。",
+        "kana": "てんきがいいですね。",
+        "meaning": "날씨가 좋네요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "暑いですね。",
+        "kana": "あついですね。",
+        "meaning": "덥네요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "寒いですね。",
+        "kana": "さむいですね。",
+        "meaning": "춥네요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "美味しいですね。",
+        "kana": "おいしいですね。",
+        "meaning": "맛있네요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "お腹が空きました。",
+        "kana": "おなかがすきました。",
+        "meaning": "배가 고파요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "喉が渇きました。",
+        "kana": "のどがかわきました。",
+        "meaning": "목이 말라요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "これは何ですか？",
+        "kana": "これはなんですか？",
+        "meaning": "이것은 무엇입니까?"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "いくらですか？",
+        "kana": "いくらですか？",
+        "meaning": "얼마입니까?"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "トイレはどこですか？",
+        "kana": "といれはどこですか？",
+        "meaning": "화장실은 어디입니까?"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "駅はどこですか？",
+        "kana": "えきはどこですか？",
+        "meaning": "역은 어디입니까?"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "ちょっと待ってください。",
+        "kana": "ちょっとまってください。",
+        "meaning": "잠시만 기다려 주세요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "助けてください！",
+        "kana": "たすけてください！",
+        "meaning": "도와주세요!"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "わかりません。",
+        "kana": "わかりません。",
+        "meaning": "모르겠습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "知っています。",
+        "kana": "しっています。",
+        "meaning": "알고 있습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "もう一度お願いします。",
+        "kana": "もういちどおねがいします。",
+        "meaning": "한 번 더 부탁드립니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "ゆっくり話してください。",
+        "kana": "ゆっくりはなしてください。",
+        "meaning": "천천히 말해 주세요."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "英語を話せますか？",
+        "kana": "えいごをはなせますか？",
+        "meaning": "영어를 할 수 있습니까?"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "大丈夫です。",
+        "kana": "だいじょうぶです。",
+        "meaning": "괜찮습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "もちろん。",
+        "kana": "もちろん。",
+        "meaning": "물론이죠."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "何時ですか？",
+        "kana": "なんじですか？",
+        "meaning": "몇 시입니까?"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "今日",
+        "kana": "きょう",
+        "meaning": "오늘"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "明日",
+        "kana": "あした",
+        "meaning": "내일"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "昨日",
+        "kana": "きのう",
+        "meaning": "어제"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "誕生日おめでとう。",
+        "kana": "たんじょうびおめでとう。",
+        "meaning": "생일 축하해."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "愛しています。",
+        "kana": "あいしています。",
+        "meaning": "사랑합니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "好きです。",
+        "kana": "すきです。",
+        "meaning": "좋아합니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "楽しかったです。",
+        "kana": "たのしかったです。",
+        "meaning": "즐거웠습니다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "疲れた。",
+        "kana": "つかれた。",
+        "meaning": "피곤하다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "眠い。",
+        "kana": "ねむい。",
+        "meaning": "졸리다."
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "痛い！",
+        "kana": "いたい！",
+        "meaning": "아파!"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "危ない！",
+        "kana": "あぶない！",
+        "meaning": "위험해!"
+    },
+    {
+        "category": "Daily",
+        "origin": "Daily",
+        "sentence": "頑張ってください。",
+        "kana": "がんばってください。",
+        "meaning": "힘내세요."
+    }
+]

@@ -1,0 +1,4713 @@
+[
+    {
+        "id": 3,
+        "category": "JLPT N5",
+        "kanji": "会う",
+        "kana": "あう",
+        "meaning": "만나다"
+    },
+    {
+        "id": 4,
+        "category": "JLPT N5",
+        "kanji": "青い",
+        "kana": "あおい",
+        "meaning": "파랗다"
+    },
+    {
+        "id": 5,
+        "category": "JLPT N5",
+        "kanji": "赤い",
+        "kana": "あかい",
+        "meaning": "빨갛다"
+    },
+    {
+        "id": 6,
+        "category": "JLPT N5",
+        "kanji": "明るい",
+        "kana": "あかるい",
+        "meaning": "밝다"
+    },
+    {
+        "id": 7,
+        "category": "JLPT N5",
+        "kanji": "秋",
+        "kana": "あき",
+        "meaning": "가을"
+    },
+    {
+        "id": 8,
+        "category": "JLPT N5",
+        "kanji": "開く",
+        "kana": "あく",
+        "meaning": "열리다"
+    },
+    {
+        "id": 9,
+        "category": "JLPT N5",
+        "kanji": "開ける",
+        "kana": "あける",
+        "meaning": "열다"
+    },
+    {
+        "id": 10,
+        "category": "JLPT N5",
+        "kanji": "上げる",
+        "kana": "あげる",
+        "meaning": "주다 / 올리다"
+    },
+    {
+        "id": 11,
+        "category": "JLPT N5",
+        "kanji": "朝",
+        "kana": "あさ",
+        "meaning": "아침"
+    },
+    {
+        "id": 12,
+        "category": "JLPT N5",
+        "kanji": "朝ご飯",
+        "kana": "あさごはん",
+        "meaning": "아침밥"
+    },
+    {
+        "id": 13,
+        "category": "JLPT N5",
+        "kanji": "明後日",
+        "kana": "あさって",
+        "meaning": "모레"
+    },
+    {
+        "id": 14,
+        "category": "JLPT N5",
+        "kanji": "足",
+        "kana": "あし",
+        "meaning": "발 / 다리"
+    },
+    {
+        "id": 15,
+        "category": "JLPT N5",
+        "kanji": "明日",
+        "kana": "あした",
+        "meaning": "내일"
+    },
+    {
+        "id": 16,
+        "category": "JLPT N5",
+        "kanji": "遊ぶ",
+        "kana": "あそぶ",
+        "meaning": "놀다"
+    },
+    {
+        "id": 17,
+        "category": "JLPT N5",
+        "kanji": "暖かい",
+        "kana": "あたたかい",
+        "meaning": "따뜻하다"
+    },
+    {
+        "id": 18,
+        "category": "JLPT N5",
+        "kanji": "頭",
+        "kana": "あたま",
+        "meaning": "머리"
+    },
+    {
+        "id": 19,
+        "category": "JLPT N5",
+        "kanji": "新しい",
+        "kana": "あたらしい",
+        "meaning": "새롭다"
+    },
+    {
+        "id": 20,
+        "category": "JLPT N5",
+        "kanji": "暑い",
+        "kana": "あつい",
+        "meaning": "덥다"
+    },
+    {
+        "id": 21,
+        "category": "JLPT N5",
+        "kanji": "熱い",
+        "kana": "あつい",
+        "meaning": "뜨겁다"
+    },
+    {
+        "id": 22,
+        "category": "JLPT N5",
+        "kanji": "厚い",
+        "kana": "あつい",
+        "meaning": "두껍다"
+    },
+    {
+        "id": 23,
+        "category": "JLPT N5",
+        "kanji": "後",
+        "kana": "あと",
+        "meaning": "뒤 / 후"
+    },
+    {
+        "id": 24,
+        "category": "JLPT N5",
+        "kanji": "兄",
+        "kana": "あに",
+        "meaning": "형 / 오빠 (자신의)"
+    },
+    {
+        "id": 25,
+        "category": "JLPT N5",
+        "kanji": "姉",
+        "kana": "あね",
+        "meaning": "누나 / 언니 (자신의)"
+    },
+    {
+        "id": 26,
+        "category": "JLPT N5",
+        "kanji": "あのアパート",
+        "kana": "あのあぱーと",
+        "meaning": "저 아파트"
+    },
+    {
+        "id": 27,
+        "category": "JLPT N5",
+        "kanji": "浴びる",
+        "kana": "あびる",
+        "meaning": "뒤집어쓰다 / 샤워하다"
+    },
+    {
+        "id": 28,
+        "category": "JLPT N5",
+        "kanji": "危ない",
+        "kana": "あぶない",
+        "meaning": "위험하다"
+    },
+    {
+        "id": 29,
+        "category": "JLPT N5",
+        "kanji": "甘い",
+        "kana": "あまい",
+        "meaning": "달다"
+    },
+    {
+        "id": 30,
+        "category": "JLPT N5",
+        "kanji": "あまり",
+        "kana": "あまり",
+        "meaning": "그다지 / 별로"
+    },
+    {
+        "id": 31,
+        "category": "JLPT N5",
+        "kanji": "雨",
+        "kana": "あめ",
+        "meaning": "비"
+    },
+    {
+        "id": 32,
+        "category": "JLPT N5",
+        "kanji": "洗う",
+        "kana": "あらう",
+        "meaning": "씻다"
+    },
+    {
+        "id": 33,
+        "category": "JLPT N5",
+        "kanji": "ある",
+        "kana": "ある",
+        "meaning": "있다 (사물)"
+    },
+    {
+        "id": 34,
+        "category": "JLPT N5",
+        "kanji": "歩く",
+        "kana": "あるく",
+        "meaning": "걷다"
+    },
+    {
+        "id": 35,
+        "category": "JLPT N5",
+        "kanji": "言う",
+        "kana": "いう",
+        "meaning": "말하다"
+    },
+    {
+        "id": 36,
+        "category": "JLPT N5",
+        "kanji": "家",
+        "kana": "いえ",
+        "meaning": "집"
+    },
+    {
+        "id": 37,
+        "category": "JLPT N5",
+        "kanji": "行く",
+        "kana": "いく",
+        "meaning": "가다"
+    },
+    {
+        "id": 38,
+        "category": "JLPT N5",
+        "kanji": "幾つ",
+        "kana": "いくつ",
+        "meaning": "몇 개"
+    },
+    {
+        "id": 39,
+        "category": "JLPT N5",
+        "kanji": "幾ら",
+        "kana": "いくら",
+        "meaning": "얼마"
+    },
+    {
+        "id": 40,
+        "category": "JLPT N5",
+        "kanji": "池",
+        "kana": "いけ",
+        "meaning": "연못"
+    },
+    {
+        "id": 41,
+        "category": "JLPT N5",
+        "kanji": "医者",
+        "kana": "いしゃ",
+        "meaning": "의사"
+    },
+    {
+        "id": 42,
+        "category": "JLPT N5",
+        "kanji": "椅子",
+        "kana": "いす",
+        "meaning": "의자"
+    },
+    {
+        "id": 43,
+        "category": "JLPT N5",
+        "kanji": "忙しい",
+        "kana": "いそがしい",
+        "meaning": "바쁘다"
+    },
+    {
+        "id": 44,
+        "category": "JLPT N5",
+        "kanji": "痛い",
+        "kana": "いたい",
+        "meaning": "아프다"
+    },
+    {
+        "id": 45,
+        "category": "JLPT N5",
+        "kanji": "一",
+        "kana": "いち",
+        "meaning": "일 (하나)"
+    },
+    {
+        "id": 46,
+        "category": "JLPT N5",
+        "kanji": "一日",
+        "kana": "いちにち",
+        "meaning": "하루"
+    },
+    {
+        "id": 47,
+        "category": "JLPT N5",
+        "kanji": "一番",
+        "kana": "いちばん",
+        "meaning": "가장 / 제일"
+    },
+    {
+        "id": 48,
+        "category": "JLPT N5",
+        "kanji": "いつ",
+        "kana": "いつ",
+        "meaning": "언제"
+    },
+    {
+        "id": 49,
+        "category": "JLPT N5",
+        "kanji": "五日",
+        "kana": "いつか",
+        "meaning": "5일"
+    },
+    {
+        "id": 50,
+        "category": "JLPT N5",
+        "kanji": "一緒",
+        "kana": "いっしょ",
+        "meaning": "함께"
+    },
+    {
+        "id": 51,
+        "category": "JLPT N5",
+        "kanji": "五つ",
+        "kana": "いつつ",
+        "meaning": "다섯 개"
+    },
+    {
+        "id": 52,
+        "category": "JLPT N5",
+        "kanji": "いつも",
+        "kana": "いつも",
+        "meaning": "항상"
+    },
+    {
+        "id": 53,
+        "category": "JLPT N5",
+        "kanji": "今",
+        "kana": "いま",
+        "meaning": "지금"
+    },
+    {
+        "id": 54,
+        "category": "JLPT N5",
+        "kanji": "意味",
+        "kana": "いみ",
+        "meaning": "의미"
+    },
+    {
+        "id": 55,
+        "category": "JLPT N5",
+        "kanji": "妹",
+        "kana": "いもうと",
+        "meaning": "여동생"
+    },
+    {
+        "id": 56,
+        "category": "JLPT N5",
+        "kanji": "嫌",
+        "kana": "いや",
+        "meaning": "싫음"
+    },
+    {
+        "id": 57,
+        "category": "JLPT N5",
+        "kanji": "入口",
+        "kana": "いりぐち",
+        "meaning": "입구"
+    },
+    {
+        "id": 58,
+        "category": "JLPT N5",
+        "kanji": "居る",
+        "kana": "いる",
+        "meaning": "있다 (사람/동물)"
+    },
+    {
+        "id": 59,
+        "category": "JLPT N5",
+        "kanji": "要る",
+        "kana": "いる",
+        "meaning": "필요하다"
+    },
+    {
+        "id": 60,
+        "category": "JLPT N5",
+        "kanji": "入れる",
+        "kana": "いれる",
+        "meaning": "넣다"
+    },
+    {
+        "id": 61,
+        "category": "JLPT N5",
+        "kanji": "色",
+        "kana": "いろ",
+        "meaning": "색"
+    },
+    {
+        "id": 62,
+        "category": "JLPT N5",
+        "kanji": "色々",
+        "kana": "いろいろ",
+        "meaning": "여러 가지"
+    },
+    {
+        "id": 63,
+        "category": "JLPT N5",
+        "kanji": "上",
+        "kana": "うえ",
+        "meaning": "위"
+    },
+    {
+        "id": 64,
+        "category": "JLPT N5",
+        "kanji": "後ろ",
+        "kana": "うしろ",
+        "meaning": "뒤"
+    },
+    {
+        "id": 65,
+        "category": "JLPT N5",
+        "kanji": "薄い",
+        "kana": "うすい",
+        "meaning": "얇다 / 연하다"
+    },
+    {
+        "id": 66,
+        "category": "JLPT N5",
+        "kanji": "歌",
+        "kana": "うた",
+        "meaning": "노래"
+    },
+    {
+        "id": 67,
+        "category": "JLPT N5",
+        "kanji": "歌う",
+        "kana": "うたう",
+        "meaning": "노래하다"
+    },
+    {
+        "id": 68,
+        "category": "JLPT N5",
+        "kanji": "生まれる",
+        "kana": "うまれる",
+        "meaning": "태어나다"
+    },
+    {
+        "id": 69,
+        "category": "JLPT N5",
+        "kanji": "海",
+        "kana": "うみ",
+        "meaning": "바다"
+    },
+    {
+        "id": 70,
+        "category": "JLPT N5",
+        "kanji": "売る",
+        "kana": "うる",
+        "meaning": "팔다"
+    },
+    {
+        "id": 71,
+        "category": "JLPT N5",
+        "kanji": "煩い",
+        "kana": "うるさい",
+        "meaning": "시끄럽다"
+    },
+    {
+        "id": 72,
+        "category": "JLPT N5",
+        "kanji": "上着",
+        "kana": "うわぎ",
+        "meaning": "겉옷 / 상의"
+    },
+    {
+        "id": 73,
+        "category": "JLPT N5",
+        "kanji": "絵",
+        "kana": "え",
+        "meaning": "그림"
+    },
+    {
+        "id": 74,
+        "category": "JLPT N5",
+        "kanji": "映画",
+        "kana": "えいが",
+        "meaning": "영화"
+    },
+    {
+        "id": 75,
+        "category": "JLPT N5",
+        "kanji": "映画館",
+        "kana": "えいがかん",
+        "meaning": "영화관"
+    },
+    {
+        "id": 76,
+        "category": "JLPT N5",
+        "kanji": "英語",
+        "kana": "えいご",
+        "meaning": "영어"
+    },
+    {
+        "id": 77,
+        "category": "JLPT N5",
+        "kanji": "駅",
+        "kana": "えき",
+        "meaning": "역"
+    },
+    {
+        "id": 78,
+        "category": "JLPT N5",
+        "kanji": "鉛筆",
+        "kana": "えんぴつ",
+        "meaning": "연필"
+    },
+    {
+        "id": 79,
+        "category": "JLPT N5",
+        "kanji": "おいしい",
+        "kana": "おいしい",
+        "meaning": "맛있다"
+    },
+    {
+        "id": 80,
+        "category": "JLPT N5",
+        "kanji": "大きい",
+        "kana": "おおきい",
+        "meaning": "크다"
+    },
+    {
+        "id": 81,
+        "category": "JLPT N5",
+        "kanji": "大勢",
+        "kana": "おおぜい",
+        "meaning": "많은 사람 (여럿이)"
+    },
+    {
+        "id": 82,
+        "category": "JLPT N5",
+        "kanji": "お母さん",
+        "kana": "おかあさん",
+        "meaning": "어머니 (남의 어머니 포함)"
+    },
+    {
+        "id": 83,
+        "category": "JLPT N5",
+        "kanji": "お菓子",
+        "kana": "おかし",
+        "meaning": "과자"
+    },
+    {
+        "id": 84,
+        "category": "JLPT N5",
+        "kanji": "お金",
+        "kana": "おかね",
+        "meaning": "돈"
+    },
+    {
+        "id": 85,
+        "category": "JLPT N5",
+        "kanji": "起きる",
+        "kana": "おきる",
+        "meaning": "일어나다"
+    },
+    {
+        "id": 86,
+        "category": "JLPT N5",
+        "kanji": "置く",
+        "kana": "おく",
+        "meaning": "두다 / 놓다"
+    },
+    {
+        "id": 87,
+        "category": "JLPT N5",
+        "kanji": "奥さん",
+        "kana": "おくさん",
+        "meaning": "부인 (남의 아내)"
+    },
+    {
+        "id": 88,
+        "category": "JLPT N5",
+        "kanji": "お酒",
+        "kana": "おさけ",
+        "meaning": "술"
+    },
+    {
+        "id": 89,
+        "category": "JLPT N5",
+        "kanji": "お皿",
+        "kana": "おさら",
+        "meaning": "접시"
+    },
+    {
+        "id": 90,
+        "category": "JLPT N5",
+        "kanji": "伯父さん",
+        "kana": "おじさん",
+        "meaning": "아저씨 / 삼촌"
+    },
+    {
+        "id": 91,
+        "category": "JLPT N5",
+        "kanji": "お祖父さん",
+        "kana": "おじいさん",
+        "meaning": "할아버지"
+    },
+    {
+        "id": 92,
+        "category": "JLPT N5",
+        "kanji": "教える",
+        "kana": "おしえる",
+        "meaning": "가르치다"
+    },
+    {
+        "id": 93,
+        "category": "JLPT N5",
+        "kanji": "押す",
+        "kana": "おす",
+        "meaning": "밀다 / 누르다"
+    },
+    {
+        "id": 94,
+        "category": "JLPT N5",
+        "kanji": "遅い",
+        "kana": "おそい",
+        "meaning": "늦다 / 느리다"
+    },
+    {
+        "id": 95,
+        "category": "JLPT N5",
+        "kanji": "お茶",
+        "kana": "おちゃ",
+        "meaning": "차 (마시는)"
+    },
+    {
+        "id": 96,
+        "category": "JLPT N5",
+        "kanji": "お手洗い",
+        "kana": "おてあらい",
+        "meaning": "화장실"
+    },
+    {
+        "id": 97,
+        "category": "JLPT N5",
+        "kanji": "お父さん",
+        "kana": "おとうさん",
+        "meaning": "아버지 (남의 아버지 포함)"
+    },
+    {
+        "id": 98,
+        "category": "JLPT N5",
+        "kanji": "弟",
+        "kana": "おとうと",
+        "meaning": "남동생"
+    },
+    {
+        "id": 99,
+        "category": "JLPT N5",
+        "kanji": "男",
+        "kana": "おとこ",
+        "meaning": "남자"
+    },
+    {
+        "id": 100,
+        "category": "JLPT N5",
+        "kanji": "男の子",
+        "kana": "おとこのこ",
+        "meaning": "남자 아이"
+    },
+    {
+        "id": 101,
+        "category": "JLPT N5",
+        "kanji": "一昨日",
+        "kana": "おととい",
+        "meaning": "그저께"
+    },
+    {
+        "id": 102,
+        "category": "JLPT N5",
+        "kanji": "一昨年",
+        "kana": "おととし",
+        "meaning": "재작년"
+    },
+    {
+        "id": 103,
+        "category": "JLPT N5",
+        "kanji": "大人",
+        "kana": "おとな",
+        "meaning": "어른"
+    },
+    {
+        "id": 104,
+        "category": "JLPT N5",
+        "kanji": "お腹",
+        "kana": "おなか",
+        "meaning": "배 (복부)"
+    },
+    {
+        "id": 105,
+        "category": "JLPT N5",
+        "kanji": "同じ",
+        "kana": "おなじ",
+        "meaning": "같다"
+    },
+    {
+        "id": 106,
+        "category": "JLPT N5",
+        "kanji": "お兄さん",
+        "kana": "おにいさん",
+        "meaning": "형 / 오빠 (남의)"
+    },
+    {
+        "id": 107,
+        "category": "JLPT N5",
+        "kanji": "お姉さん",
+        "kana": "おねえさん",
+        "meaning": "누나 / 언니 (남의)"
+    },
+    {
+        "id": 108,
+        "category": "JLPT N5",
+        "kanji": "伯母さん",
+        "kana": "おばさん",
+        "meaning": "아주머니 / 이모 / 고모"
+    },
+    {
+        "id": 109,
+        "category": "JLPT N5",
+        "kanji": "お祖母さん",
+        "kana": "おばあさん",
+        "meaning": "할머니"
+    },
+    {
+        "id": 110,
+        "category": "JLPT N5",
+        "kanji": "お風呂",
+        "kana": "おふろ",
+        "meaning": "목욕 (욕조)"
+    },
+    {
+        "id": 111,
+        "category": "JLPT N5",
+        "kanji": "お弁当",
+        "kana": "おべんとう",
+        "meaning": "도시락"
+    },
+    {
+        "id": 112,
+        "category": "JLPT N5",
+        "kanji": "覚える",
+        "kana": "おぼえる",
+        "meaning": "기억하다 / 외우다"
+    },
+    {
+        "id": 113,
+        "category": "JLPT N5",
+        "kanji": "思い出す",
+        "kana": "おもいだす",
+        "meaning": "떠올리다 / 기억해내다"
+    },
+    {
+        "id": 114,
+        "category": "JLPT N5",
+        "kanji": "重い",
+        "kana": "おもい",
+        "meaning": "무겁다"
+    },
+    {
+        "id": 115,
+        "category": "JLPT N5",
+        "kanji": "面白い",
+        "kana": "おもしろい",
+        "meaning": "재미있다"
+    },
+    {
+        "id": 116,
+        "category": "JLPT N5",
+        "kanji": "泳ぐ",
+        "kana": "およぐ",
+        "meaning": "헤엄치다 / 수영하다"
+    },
+    {
+        "id": 117,
+        "category": "JLPT N5",
+        "kanji": "降りる",
+        "kana": "おりる",
+        "meaning": "내리다 (탈것에서)"
+    },
+    {
+        "id": 118,
+        "category": "JLPT N5",
+        "kanji": "終わる",
+        "kana": "おわる",
+        "meaning": "끝나다"
+    },
+    {
+        "id": 119,
+        "category": "JLPT N5",
+        "kanji": "音楽",
+        "kana": "おんがく",
+        "meaning": "음악"
+    },
+    {
+        "id": 120,
+        "category": "JLPT N5",
+        "kanji": "女",
+        "kana": "おんな",
+        "meaning": "여자"
+    },
+    {
+        "id": 121,
+        "category": "JLPT N5",
+        "kanji": "女の子",
+        "kana": "おんなのこ",
+        "meaning": "여자 아이"
+    },
+    {
+        "id": 122,
+        "category": "JLPT N5",
+        "kanji": "明い",
+        "kana": "あかるい",
+        "meaning": "선명한"
+    },
+    {
+        "id": 123,
+        "category": "JLPT N5",
+        "kanji": "朝御飯",
+        "kana": "あさごはん",
+        "meaning": "아침밥"
+    },
+    {
+        "id": 124,
+        "category": "JLPT N5",
+        "kanji": "あさって",
+        "kana": "あさって",
+        "meaning": "모레"
+    },
+    {
+        "id": 125,
+        "category": "JLPT N5",
+        "kanji": "あそこ",
+        "kana": "あそこ",
+        "meaning": "저기"
+    },
+    {
+        "id": 126,
+        "category": "JLPT N5",
+        "kanji": "あちら",
+        "kana": "あちら",
+        "meaning": "저쪽"
+    },
+    {
+        "id": 127,
+        "category": "JLPT N5",
+        "kanji": "あっち",
+        "kana": "あっち",
+        "meaning": "저기"
+    },
+    {
+        "id": 128,
+        "category": "JLPT N5",
+        "kanji": "あなた",
+        "kana": "あなた",
+        "meaning": "당신"
+    },
+    {
+        "id": 129,
+        "category": "JLPT N5",
+        "kanji": "あの",
+        "kana": "あの",
+        "meaning": "그"
+    },
+    {
+        "id": 130,
+        "category": "JLPT N5",
+        "kanji": "アパート",
+        "kana": "アパート",
+        "meaning": "아파트"
+    },
+    {
+        "id": 131,
+        "category": "JLPT N5",
+        "kanji": "あびる",
+        "kana": "あびる",
+        "meaning": "목욕하다"
+    },
+    {
+        "id": 132,
+        "category": "JLPT N5",
+        "kanji": "飴",
+        "kana": "あめ",
+        "meaning": "사탕"
+    },
+    {
+        "id": 133,
+        "category": "JLPT N5",
+        "kanji": "あれ",
+        "kana": "あれ",
+        "meaning": "그것"
+    },
+    {
+        "id": 134,
+        "category": "JLPT N5",
+        "kanji": "いい",
+        "kana": "いい",
+        "meaning": "좋은"
+    },
+    {
+        "id": 135,
+        "category": "JLPT N5",
+        "kanji": "いいえ",
+        "kana": "いいえ",
+        "meaning": "아니오"
+    },
+    {
+        "id": 136,
+        "category": "JLPT N5",
+        "kanji": "いかが",
+        "kana": "いかが",
+        "meaning": "어떻게"
+    },
+    {
+        "id": 137,
+        "category": "JLPT N5",
+        "kanji": "いくつ",
+        "kana": "いくつ",
+        "meaning": "몇"
+    },
+    {
+        "id": 138,
+        "category": "JLPT N5",
+        "kanji": "いくら",
+        "kana": "いくら",
+        "meaning": "얼마"
+    },
+    {
+        "id": 139,
+        "category": "JLPT N5",
+        "kanji": "いす",
+        "kana": "いす",
+        "meaning": "의자"
+    },
+    {
+        "id": 140,
+        "category": "JLPT N5",
+        "kanji": "いちばん",
+        "kana": "いちばん",
+        "meaning": "가장"
+    },
+    {
+        "id": 141,
+        "category": "JLPT N5",
+        "kanji": "犬",
+        "kana": "いぬ",
+        "meaning": "개"
+    },
+    {
+        "id": 142,
+        "category": "JLPT N5",
+        "kanji": "いろいろ",
+        "kana": "いろいろ",
+        "meaning": "여러가지"
+    },
+    {
+        "id": 143,
+        "category": "JLPT N5",
+        "kanji": "ええ",
+        "kana": "ええ",
+        "meaning": "예"
+    },
+    {
+        "id": 144,
+        "category": "JLPT N5",
+        "kanji": "エレベーター",
+        "kana": "エレベーター",
+        "meaning": "엘리베이터"
+    },
+    {
+        "id": 145,
+        "category": "JLPT N5",
+        "kanji": "多い",
+        "kana": "おおい",
+        "meaning": "많은"
+    },
+    {
+        "id": 146,
+        "category": "JLPT N5",
+        "kanji": "大きな",
+        "kana": "おおきな",
+        "meaning": "큰"
+    },
+    {
+        "id": 147,
+        "category": "JLPT N5",
+        "kanji": "おなか",
+        "kana": "おなか",
+        "meaning": "배"
+    },
+    {
+        "id": 148,
+        "category": "JLPT N5",
+        "kanji": "おばあさん",
+        "kana": "おばあさん",
+        "meaning": "할머니"
+    },
+    {
+        "id": 149,
+        "category": "JLPT N5",
+        "kanji": "おまわりさん",
+        "kana": "おまわりさん",
+        "meaning": "경찰"
+    },
+    {
+        "id": 150,
+        "category": "JLPT N5",
+        "kanji": "おもしろい",
+        "kana": "おもしろい",
+        "meaning": "재미"
+    },
+    {
+        "id": 151,
+        "category": "JLPT N5",
+        "kanji": "終る",
+        "kana": "おわる",
+        "meaning": "끝나다"
+    },
+    {
+        "id": 152,
+        "category": "JLPT N5",
+        "kanji": "外国",
+        "kana": "がいこく",
+        "meaning": "외국"
+    },
+    {
+        "id": 153,
+        "category": "JLPT N5",
+        "kanji": "外国人",
+        "kana": "がいこくじん",
+        "meaning": "외국인"
+    },
+    {
+        "id": 154,
+        "category": "JLPT N5",
+        "kanji": "会社",
+        "kana": "かいしゃ",
+        "meaning": "회사"
+    },
+    {
+        "id": 155,
+        "category": "JLPT N5",
+        "kanji": "階段",
+        "kana": "かいだん",
+        "meaning": "계단"
+    },
+    {
+        "id": 156,
+        "category": "JLPT N5",
+        "kanji": "買い物",
+        "kana": "かいもの",
+        "meaning": "쇼핑"
+    },
+    {
+        "id": 157,
+        "category": "JLPT N5",
+        "kanji": "買う",
+        "kana": "かう",
+        "meaning": "구매"
+    },
+    {
+        "id": 158,
+        "category": "JLPT N5",
+        "kanji": "返す",
+        "kana": "かえす",
+        "meaning": "반환하다"
+    },
+    {
+        "id": 159,
+        "category": "JLPT N5",
+        "kanji": "帰る",
+        "kana": "かえる",
+        "meaning": "돌아"
+    },
+    {
+        "id": 160,
+        "category": "JLPT N5",
+        "kanji": "かかる",
+        "kana": "かかる",
+        "meaning": "걸리다"
+    },
+    {
+        "id": 161,
+        "category": "JLPT N5",
+        "kanji": "かぎ",
+        "kana": "かぎ",
+        "meaning": "열쇠"
+    },
+    {
+        "id": 162,
+        "category": "JLPT N5",
+        "kanji": "書く",
+        "kana": "かく",
+        "meaning": "쓰기"
+    },
+    {
+        "id": 163,
+        "category": "JLPT N5",
+        "kanji": "学生",
+        "kana": "がくせい",
+        "meaning": "학생"
+    },
+    {
+        "id": 164,
+        "category": "JLPT N5",
+        "kanji": "かける",
+        "kana": "かける",
+        "meaning": "걸다"
+    },
+    {
+        "id": 165,
+        "category": "JLPT N5",
+        "kanji": "傘",
+        "kana": "かさ",
+        "meaning": "우산"
+    },
+    {
+        "id": 166,
+        "category": "JLPT N5",
+        "kanji": "貸す",
+        "kana": "かす",
+        "meaning": "빌려"
+    },
+    {
+        "id": 167,
+        "category": "JLPT N5",
+        "kanji": "風",
+        "kana": "かぜ",
+        "meaning": "바람"
+    },
+    {
+        "id": 168,
+        "category": "JLPT N5",
+        "kanji": "風邪",
+        "kana": "かぜ",
+        "meaning": "감기"
+    },
+    {
+        "id": 169,
+        "category": "JLPT N5",
+        "kanji": "家族",
+        "kana": "かぞく",
+        "meaning": "가족"
+    },
+    {
+        "id": 170,
+        "category": "JLPT N5",
+        "kanji": "方",
+        "kana": "かた",
+        "meaning": "방법"
+    },
+    {
+        "id": 171,
+        "category": "JLPT N5",
+        "kanji": "学校",
+        "kana": "がっこう",
+        "meaning": "학교"
+    },
+    {
+        "id": 172,
+        "category": "JLPT N5",
+        "kanji": "カップ",
+        "kana": "カップ",
+        "meaning": "컵"
+    },
+    {
+        "id": 173,
+        "category": "JLPT N5",
+        "kanji": "家庭",
+        "kana": "かてい",
+        "meaning": "가정"
+    },
+    {
+        "id": 174,
+        "category": "JLPT N5",
+        "kanji": "角",
+        "kana": "かど",
+        "meaning": "모서리"
+    },
+    {
+        "id": 175,
+        "category": "JLPT N5",
+        "kanji": "かばん",
+        "kana": "かばん",
+        "meaning": "가방"
+    },
+    {
+        "id": 176,
+        "category": "JLPT N5",
+        "kanji": "花瓶",
+        "kana": "かびん",
+        "meaning": "꽃병"
+    },
+    {
+        "id": 177,
+        "category": "JLPT N5",
+        "kanji": "紙",
+        "kana": "かみ",
+        "meaning": "종이"
+    },
+    {
+        "id": 178,
+        "category": "JLPT N5",
+        "kanji": "カメラ",
+        "kana": "カメラ",
+        "meaning": "카메라"
+    },
+    {
+        "id": 179,
+        "category": "JLPT N5",
+        "kanji": "火曜日",
+        "kana": "かようび",
+        "meaning": "화요일"
+    },
+    {
+        "id": 180,
+        "category": "JLPT N5",
+        "kanji": "辛い",
+        "kana": "からい",
+        "meaning": "맵다"
+    },
+    {
+        "id": 181,
+        "category": "JLPT N5",
+        "kanji": "体",
+        "kana": "からだ",
+        "meaning": "몸"
+    },
+    {
+        "id": 182,
+        "category": "JLPT N5",
+        "kanji": "借りる",
+        "kana": "かりる",
+        "meaning": "빌리다"
+    },
+    {
+        "id": 183,
+        "category": "JLPT N5",
+        "kanji": "軽い",
+        "kana": "かるい",
+        "meaning": "가볍다"
+    },
+    {
+        "id": 184,
+        "category": "JLPT N5",
+        "kanji": "カレー",
+        "kana": "カレー",
+        "meaning": "카레"
+    },
+    {
+        "id": 185,
+        "category": "JLPT N5",
+        "kanji": "カレンダー",
+        "kana": "カレンダー",
+        "meaning": "달력"
+    },
+    {
+        "id": 186,
+        "category": "JLPT N5",
+        "kanji": "川",
+        "kana": "かわ",
+        "meaning": "강"
+    },
+    {
+        "id": 187,
+        "category": "JLPT N5",
+        "kanji": "かわいい",
+        "kana": "かわいい",
+        "meaning": "귀엽다"
+    },
+    {
+        "id": 188,
+        "category": "JLPT N5",
+        "kanji": "漢字",
+        "kana": "かんじ",
+        "meaning": "한자"
+    },
+    {
+        "id": 189,
+        "category": "JLPT N5",
+        "kanji": "木",
+        "kana": "き",
+        "meaning": "나무"
+    },
+    {
+        "id": 190,
+        "category": "JLPT N5",
+        "kanji": "黄色い",
+        "kana": "きいろい",
+        "meaning": "노랗다"
+    },
+    {
+        "id": 191,
+        "category": "JLPT N5",
+        "kanji": "消える",
+        "kana": "きえる",
+        "meaning": "사라"
+    },
+    {
+        "id": 192,
+        "category": "JLPT N5",
+        "kanji": "聞く",
+        "kana": "きく",
+        "meaning": "듣다"
+    },
+    {
+        "id": 193,
+        "category": "JLPT N5",
+        "kanji": "北",
+        "kana": "きた",
+        "meaning": "북"
+    },
+    {
+        "id": 194,
+        "category": "JLPT N5",
+        "kanji": "ギター",
+        "kana": "ギター",
+        "meaning": "기타"
+    },
+    {
+        "id": 195,
+        "category": "JLPT N5",
+        "kanji": "汚い",
+        "kana": "きたない",
+        "meaning": "더러운"
+    },
+    {
+        "id": 196,
+        "category": "JLPT N5",
+        "kanji": "喫茶店",
+        "kana": "きっさてん",
+        "meaning": "커피숖"
+    },
+    {
+        "id": 197,
+        "category": "JLPT N5",
+        "kanji": "切手",
+        "kana": "きって",
+        "meaning": "우표"
+    },
+    {
+        "id": 198,
+        "category": "JLPT N5",
+        "kanji": "切符",
+        "kana": "きっぷ",
+        "meaning": "티켓"
+    },
+    {
+        "id": 199,
+        "category": "JLPT N5",
+        "kanji": "昨日",
+        "kana": "きのう",
+        "meaning": "어제"
+    },
+    {
+        "id": 200,
+        "category": "JLPT N5",
+        "kanji": "九",
+        "kana": "きゅう",
+        "meaning": "아홉"
+    },
+    {
+        "id": 201,
+        "category": "JLPT N5",
+        "kanji": "牛肉",
+        "kana": "ぎゅうにく",
+        "meaning": "쇠고기"
+    },
+    {
+        "id": 202,
+        "category": "JLPT N5",
+        "kanji": "牛乳",
+        "kana": "ぎゅうにゅう",
+        "meaning": "우유"
+    },
+    {
+        "id": 203,
+        "category": "JLPT N5",
+        "kanji": "今日",
+        "kana": "きょう",
+        "meaning": "오늘"
+    },
+    {
+        "id": 204,
+        "category": "JLPT N5",
+        "kanji": "教室",
+        "kana": "きょうしつ",
+        "meaning": "교실"
+    },
+    {
+        "id": 205,
+        "category": "JLPT N5",
+        "kanji": "兄弟",
+        "kana": "きょうだい",
+        "meaning": "형제"
+    },
+    {
+        "id": 206,
+        "category": "JLPT N5",
+        "kanji": "去年",
+        "kana": "きょねん",
+        "meaning": "작년"
+    },
+    {
+        "id": 207,
+        "category": "JLPT N5",
+        "kanji": "嫌い",
+        "kana": "きらい",
+        "meaning": "싫음"
+    },
+    {
+        "id": 208,
+        "category": "JLPT N5",
+        "kanji": "切る",
+        "kana": "きる",
+        "meaning": "자르다"
+    },
+    {
+        "id": 209,
+        "category": "JLPT N5",
+        "kanji": "着る",
+        "kana": "きる",
+        "meaning": "옷을 입다"
+    },
+    {
+        "id": 210,
+        "category": "JLPT N5",
+        "kanji": "きれい",
+        "kana": "きれい",
+        "meaning": "예쁨"
+    },
+    {
+        "id": 211,
+        "category": "JLPT N5",
+        "kanji": "キロ",
+        "kana": "キロ",
+        "meaning": "킬로그램"
+    },
+    {
+        "id": 212,
+        "category": "JLPT N5",
+        "kanji": "銀行",
+        "kana": "ぎんこう",
+        "meaning": "은행"
+    },
+    {
+        "id": 213,
+        "category": "JLPT N5",
+        "kanji": "金曜日",
+        "kana": "きんようび",
+        "meaning": "금요일"
+    },
+    {
+        "id": 214,
+        "category": "JLPT N5",
+        "kanji": "薬",
+        "kana": "くすり",
+        "meaning": "약"
+    },
+    {
+        "id": 215,
+        "category": "JLPT N5",
+        "kanji": "ください",
+        "kana": "ください",
+        "meaning": "~해 주세요"
+    },
+    {
+        "id": 216,
+        "category": "JLPT N5",
+        "kanji": "果物",
+        "kana": "くだもの",
+        "meaning": "과일"
+    },
+    {
+        "id": 217,
+        "category": "JLPT N5",
+        "kanji": "口",
+        "kana": "くち",
+        "meaning": "입"
+    },
+    {
+        "id": 218,
+        "category": "JLPT N5",
+        "kanji": "靴",
+        "kana": "くつ",
+        "meaning": "신발"
+    },
+    {
+        "id": 219,
+        "category": "JLPT N5",
+        "kanji": "靴下",
+        "kana": "くつした",
+        "meaning": "양말"
+    },
+    {
+        "id": 220,
+        "category": "JLPT N5",
+        "kanji": "国",
+        "kana": "くに",
+        "meaning": "국가"
+    },
+    {
+        "id": 221,
+        "category": "JLPT N5",
+        "kanji": "曇り",
+        "kana": "くもり",
+        "meaning": "흐림"
+    },
+    {
+        "id": 222,
+        "category": "JLPT N5",
+        "kanji": "曇る",
+        "kana": "くもる",
+        "meaning": "흐리다"
+    },
+    {
+        "id": 223,
+        "category": "JLPT N5",
+        "kanji": "暗い",
+        "kana": "くらい",
+        "meaning": "어둡다"
+    },
+    {
+        "id": 224,
+        "category": "JLPT N5",
+        "kanji": "クラス",
+        "kana": "クラス",
+        "meaning": "클래스"
+    },
+    {
+        "id": 225,
+        "category": "JLPT N5",
+        "kanji": "グラム",
+        "kana": "グラム",
+        "meaning": "그램"
+    },
+    {
+        "id": 226,
+        "category": "JLPT N5",
+        "kanji": "来る",
+        "kana": "くる",
+        "meaning": "오다"
+    },
+    {
+        "id": 227,
+        "category": "JLPT N5",
+        "kanji": "車",
+        "kana": "くるま",
+        "meaning": "자동차"
+    },
+    {
+        "id": 228,
+        "category": "JLPT N5",
+        "kanji": "黒",
+        "kana": "くろ",
+        "meaning": "검정"
+    },
+    {
+        "id": 229,
+        "category": "JLPT N5",
+        "kanji": "黒い",
+        "kana": "くろい",
+        "meaning": "검은"
+    },
+    {
+        "id": 230,
+        "category": "JLPT N5",
+        "kanji": "警官",
+        "kana": "けいかん",
+        "meaning": "경찰"
+    },
+    {
+        "id": 231,
+        "category": "JLPT N5",
+        "kanji": "今朝",
+        "kana": "けさ",
+        "meaning": "오늘 아침"
+    },
+    {
+        "id": 232,
+        "category": "JLPT N5",
+        "kanji": "消す",
+        "kana": "けす",
+        "meaning": "지우"
+    },
+    {
+        "id": 233,
+        "category": "JLPT N5",
+        "kanji": "結構",
+        "kana": "けっこう",
+        "meaning": "훌륭함"
+    },
+    {
+        "id": 234,
+        "category": "JLPT N5",
+        "kanji": "結婚",
+        "kana": "けっこん",
+        "meaning": "결혼"
+    },
+    {
+        "id": 235,
+        "category": "JLPT N5",
+        "kanji": "月曜日",
+        "kana": "げつようび",
+        "meaning": "월요일"
+    },
+    {
+        "id": 236,
+        "category": "JLPT N5",
+        "kanji": "玄関",
+        "kana": "げんかん",
+        "meaning": "현관"
+    },
+    {
+        "id": 237,
+        "category": "JLPT N5",
+        "kanji": "元気",
+        "kana": "げんき",
+        "meaning": "건강"
+    },
+    {
+        "id": 238,
+        "category": "JLPT N5",
+        "kanji": "五",
+        "kana": "ご",
+        "meaning": "다섯"
+    },
+    {
+        "id": 239,
+        "category": "JLPT N5",
+        "kanji": "公園",
+        "kana": "こうえん",
+        "meaning": "공원"
+    },
+    {
+        "id": 240,
+        "category": "JLPT N5",
+        "kanji": "交差点",
+        "kana": "こうさてん",
+        "meaning": "교차로"
+    },
+    {
+        "id": 241,
+        "category": "JLPT N5",
+        "kanji": "紅茶",
+        "kana": "こうちゃ",
+        "meaning": "차"
+    },
+    {
+        "id": 242,
+        "category": "JLPT N5",
+        "kanji": "交番",
+        "kana": "こうばん",
+        "meaning": "파출소"
+    },
+    {
+        "id": 243,
+        "category": "JLPT N5",
+        "kanji": "声",
+        "kana": "こえ",
+        "meaning": "목소리"
+    },
+    {
+        "id": 244,
+        "category": "JLPT N5",
+        "kanji": "コート",
+        "kana": "コート",
+        "meaning": "코트"
+    },
+    {
+        "id": 245,
+        "category": "JLPT N5",
+        "kanji": "コーヒー",
+        "kana": "コーヒー",
+        "meaning": "커피"
+    },
+    {
+        "id": 246,
+        "category": "JLPT N5",
+        "kanji": "ここ",
+        "kana": "ここ",
+        "meaning": "여기"
+    },
+    {
+        "id": 247,
+        "category": "JLPT N5",
+        "kanji": "午後",
+        "kana": "ごご",
+        "meaning": "오후"
+    },
+    {
+        "id": 248,
+        "category": "JLPT N5",
+        "kanji": "九日",
+        "kana": "ここのか",
+        "meaning": "9일"
+    },
+    {
+        "id": 249,
+        "category": "JLPT N5",
+        "kanji": "九つ",
+        "kana": "ここのつ",
+        "meaning": "아홉"
+    },
+    {
+        "id": 250,
+        "category": "JLPT N5",
+        "kanji": "午前",
+        "kana": "ごぜん",
+        "meaning": "오전"
+    },
+    {
+        "id": 251,
+        "category": "JLPT N5",
+        "kanji": "答える",
+        "kana": "こたえる",
+        "meaning": "대답하다"
+    },
+    {
+        "id": 252,
+        "category": "JLPT N5",
+        "kanji": "こちら",
+        "kana": "こちら",
+        "meaning": "이쪽"
+    },
+    {
+        "id": 253,
+        "category": "JLPT N5",
+        "kanji": "こっち",
+        "kana": "こっち",
+        "meaning": "여기"
+    },
+    {
+        "id": 254,
+        "category": "JLPT N5",
+        "kanji": "コップ",
+        "kana": "コップ",
+        "meaning": "컵"
+    },
+    {
+        "id": 255,
+        "category": "JLPT N5",
+        "kanji": "今年",
+        "kana": "ことし",
+        "meaning": "올해"
+    },
+    {
+        "id": 256,
+        "category": "JLPT N5",
+        "kanji": "言葉",
+        "kana": "ことば",
+        "meaning": "말"
+    },
+    {
+        "id": 257,
+        "category": "JLPT N5",
+        "kanji": "子供",
+        "kana": "こども",
+        "meaning": "아이"
+    },
+    {
+        "id": 258,
+        "category": "JLPT N5",
+        "kanji": "この",
+        "kana": "この",
+        "meaning": "이"
+    },
+    {
+        "id": 259,
+        "category": "JLPT N5",
+        "kanji": "御飯",
+        "kana": "ごはん",
+        "meaning": "밥"
+    },
+    {
+        "id": 260,
+        "category": "JLPT N5",
+        "kanji": "コピーする",
+        "kana": "コピーする",
+        "meaning": "복사"
+    },
+    {
+        "id": 261,
+        "category": "JLPT N5",
+        "kanji": "困る",
+        "kana": "こまる",
+        "meaning": "곤란하다"
+    },
+    {
+        "id": 262,
+        "category": "JLPT N5",
+        "kanji": "これ",
+        "kana": "これ",
+        "meaning": "이것"
+    },
+    {
+        "id": 263,
+        "category": "JLPT N5",
+        "kanji": "今月",
+        "kana": "こんげつ",
+        "meaning": "금월"
+    },
+    {
+        "id": 264,
+        "category": "JLPT N5",
+        "kanji": "今週",
+        "kana": "こんしゅう",
+        "meaning": "이번 주"
+    },
+    {
+        "id": 265,
+        "category": "JLPT N5",
+        "kanji": "こんな",
+        "kana": "こんな",
+        "meaning": "이러한"
+    },
+    {
+        "id": 266,
+        "category": "JLPT N5",
+        "kanji": "今晩",
+        "kana": "こんばん",
+        "meaning": "오늘 밤"
+    },
+    {
+        "id": 267,
+        "category": "JLPT N5",
+        "kanji": "さあ",
+        "kana": "さあ",
+        "meaning": "잘…"
+    },
+    {
+        "id": 268,
+        "category": "JLPT N5",
+        "kanji": "財布",
+        "kana": "さいふ",
+        "meaning": "지갑"
+    },
+    {
+        "id": 269,
+        "category": "JLPT N5",
+        "kanji": "魚",
+        "kana": "さかな",
+        "meaning": "물고기"
+    },
+    {
+        "id": 270,
+        "category": "JLPT N5",
+        "kanji": "先",
+        "kana": "さき",
+        "meaning": "앞"
+    },
+    {
+        "id": 271,
+        "category": "JLPT N5",
+        "kanji": "咲く",
+        "kana": "さく",
+        "meaning": "피다"
+    },
+    {
+        "id": 272,
+        "category": "JLPT N5",
+        "kanji": "作文",
+        "kana": "さくぶん",
+        "meaning": "작문"
+    },
+    {
+        "id": 273,
+        "category": "JLPT N5",
+        "kanji": "差す",
+        "kana": "さす",
+        "meaning": "가리다"
+    },
+    {
+        "id": 274,
+        "category": "JLPT N5",
+        "kanji": "雑誌",
+        "kana": "ざっし",
+        "meaning": "잡지"
+    },
+    {
+        "id": 275,
+        "category": "JLPT N5",
+        "kanji": "砂糖",
+        "kana": "さとう",
+        "meaning": "설탕"
+    },
+    {
+        "id": 276,
+        "category": "JLPT N5",
+        "kanji": "寒い",
+        "kana": "さむい",
+        "meaning": "춥다"
+    },
+    {
+        "id": 277,
+        "category": "JLPT N5",
+        "kanji": "さ来年",
+        "kana": "さらいねん",
+        "meaning": "다음 해"
+    },
+    {
+        "id": 278,
+        "category": "JLPT N5",
+        "kanji": "三",
+        "kana": "さん",
+        "meaning": "셋"
+    },
+    {
+        "id": 279,
+        "category": "JLPT N5",
+        "kanji": "散歩する",
+        "kana": "さんぽする",
+        "meaning": "산책"
+    },
+    {
+        "id": 280,
+        "category": "JLPT N5",
+        "kanji": "四",
+        "kana": "し",
+        "meaning": "넷"
+    },
+    {
+        "id": 281,
+        "category": "JLPT N5",
+        "kanji": "塩",
+        "kana": "しお",
+        "meaning": "소금"
+    },
+    {
+        "id": 282,
+        "category": "JLPT N5",
+        "kanji": "しかし",
+        "kana": "しかし",
+        "meaning": "그러나"
+    },
+    {
+        "id": 283,
+        "category": "JLPT N5",
+        "kanji": "時間",
+        "kana": "じかん",
+        "meaning": "시간"
+    },
+    {
+        "id": 284,
+        "category": "JLPT N5",
+        "kanji": "仕事",
+        "kana": "しごと",
+        "meaning": "일"
+    },
+    {
+        "id": 285,
+        "category": "JLPT N5",
+        "kanji": "辞書",
+        "kana": "じしょ",
+        "meaning": "사전"
+    },
+    {
+        "id": 286,
+        "category": "JLPT N5",
+        "kanji": "静か",
+        "kana": "しずか",
+        "meaning": "조용"
+    },
+    {
+        "id": 287,
+        "category": "JLPT N5",
+        "kanji": "下",
+        "kana": "した",
+        "meaning": "아래"
+    },
+    {
+        "id": 288,
+        "category": "JLPT N5",
+        "kanji": "七",
+        "kana": "しち",
+        "meaning": "칠"
+    },
+    {
+        "id": 289,
+        "category": "JLPT N5",
+        "kanji": "質問",
+        "kana": "しつもん",
+        "meaning": "질문"
+    },
+    {
+        "id": 290,
+        "category": "JLPT N5",
+        "kanji": "自転車",
+        "kana": "じてんしゃ",
+        "meaning": "자전거"
+    },
+    {
+        "id": 291,
+        "category": "JLPT N5",
+        "kanji": "自動車",
+        "kana": "じどうしゃ",
+        "meaning": "자동차"
+    },
+    {
+        "id": 292,
+        "category": "JLPT N5",
+        "kanji": "死ぬ",
+        "kana": "しぬ",
+        "meaning": "죽다"
+    },
+    {
+        "id": 293,
+        "category": "JLPT N5",
+        "kanji": "字引",
+        "kana": "じびき",
+        "meaning": "사전"
+    },
+    {
+        "id": 294,
+        "category": "JLPT N5",
+        "kanji": "自分",
+        "kana": "じぶん",
+        "meaning": "자신"
+    },
+    {
+        "id": 295,
+        "category": "JLPT N5",
+        "kanji": "閉まる",
+        "kana": "しまる",
+        "meaning": "꼭 닫히다"
+    },
+    {
+        "id": 296,
+        "category": "JLPT N5",
+        "kanji": "閉める",
+        "kana": "しめる",
+        "meaning": "닫다"
+    },
+    {
+        "id": 297,
+        "category": "JLPT N5",
+        "kanji": "締める",
+        "kana": "しめる",
+        "meaning": "닫다"
+    },
+    {
+        "id": 298,
+        "category": "JLPT N5",
+        "kanji": "じゃ",
+        "kana": "じゃ",
+        "meaning": "그럼"
+    },
+    {
+        "id": 299,
+        "category": "JLPT N5",
+        "kanji": "写真",
+        "kana": "しゃしん",
+        "meaning": "사진"
+    },
+    {
+        "id": 300,
+        "category": "JLPT N5",
+        "kanji": "シャツ",
+        "kana": "シャツ",
+        "meaning": "셔츠"
+    },
+    {
+        "id": 301,
+        "category": "JLPT N5",
+        "kanji": "シャワー",
+        "kana": "シャワー",
+        "meaning": "샤워"
+    },
+    {
+        "id": 302,
+        "category": "JLPT N5",
+        "kanji": "十",
+        "kana": "じゅう",
+        "meaning": "십"
+    },
+    {
+        "id": 303,
+        "category": "JLPT N5",
+        "kanji": "授業",
+        "kana": "じゅぎょう",
+        "meaning": "수업"
+    },
+    {
+        "id": 304,
+        "category": "JLPT N5",
+        "kanji": "宿題",
+        "kana": "しゅくだい",
+        "meaning": "숙제"
+    },
+    {
+        "id": 305,
+        "category": "JLPT N5",
+        "kanji": "上手",
+        "kana": "じょうず",
+        "meaning": "잘"
+    },
+    {
+        "id": 306,
+        "category": "JLPT N5",
+        "kanji": "丈夫",
+        "kana": "じょうぶ",
+        "meaning": "건강함"
+    },
+    {
+        "id": 307,
+        "category": "JLPT N5",
+        "kanji": "しょうゆ",
+        "kana": "しょうゆ",
+        "meaning": "간장"
+    },
+    {
+        "id": 308,
+        "category": "JLPT N5",
+        "kanji": "食堂",
+        "kana": "しょくどう",
+        "meaning": "식당"
+    },
+    {
+        "id": 309,
+        "category": "JLPT N5",
+        "kanji": "知る",
+        "kana": "しる",
+        "meaning": "알"
+    },
+    {
+        "id": 310,
+        "category": "JLPT N5",
+        "kanji": "白い",
+        "kana": "しろい",
+        "meaning": "하얀"
+    },
+    {
+        "id": 311,
+        "category": "JLPT N5",
+        "kanji": "新聞",
+        "kana": "しんぶん",
+        "meaning": "신문"
+    },
+    {
+        "id": 312,
+        "category": "JLPT N5",
+        "kanji": "水曜日",
+        "kana": "すいようび",
+        "meaning": "수요일"
+    },
+    {
+        "id": 313,
+        "category": "JLPT N5",
+        "kanji": "吸う",
+        "kana": "すう",
+        "meaning": "들이마시다"
+    },
+    {
+        "id": 314,
+        "category": "JLPT N5",
+        "kanji": "スカート",
+        "kana": "スカート",
+        "meaning": "스커트"
+    },
+    {
+        "id": 315,
+        "category": "JLPT N5",
+        "kanji": "好き",
+        "kana": "すき",
+        "meaning": "좋아함"
+    },
+    {
+        "id": 316,
+        "category": "JLPT N5",
+        "kanji": "少ない",
+        "kana": "すくない",
+        "meaning": "적다"
+    },
+    {
+        "id": 317,
+        "category": "JLPT N5",
+        "kanji": "すぐに",
+        "kana": "すぐに",
+        "meaning": "즉시"
+    },
+    {
+        "id": 318,
+        "category": "JLPT N5",
+        "kanji": "少し",
+        "kana": "すこし",
+        "meaning": "조금"
+    },
+    {
+        "id": 319,
+        "category": "JLPT N5",
+        "kanji": "涼しい",
+        "kana": "すずしい",
+        "meaning": "차가운"
+    },
+    {
+        "id": 320,
+        "category": "JLPT N5",
+        "kanji": "ストーブ",
+        "kana": "ストーブ",
+        "meaning": "스토브"
+    },
+    {
+        "id": 321,
+        "category": "JLPT N5",
+        "kanji": "スプーン",
+        "kana": "スプーン",
+        "meaning": "숟가락"
+    },
+    {
+        "id": 322,
+        "category": "JLPT N5",
+        "kanji": "スポーツ",
+        "kana": "スポーツ",
+        "meaning": "스포츠"
+    },
+    {
+        "id": 323,
+        "category": "JLPT N5",
+        "kanji": "ズボン",
+        "kana": "ズボン",
+        "meaning": "바지"
+    },
+    {
+        "id": 324,
+        "category": "JLPT N5",
+        "kanji": "住む",
+        "kana": "すむ",
+        "meaning": "살다"
+    },
+    {
+        "id": 325,
+        "category": "JLPT N5",
+        "kanji": "スリッパ",
+        "kana": "スリッパ",
+        "meaning": "슬리퍼"
+    },
+    {
+        "id": 326,
+        "category": "JLPT N5",
+        "kanji": "する",
+        "kana": "する",
+        "meaning": "하다"
+    },
+    {
+        "id": 327,
+        "category": "JLPT N5",
+        "kanji": "座る",
+        "kana": "すわる",
+        "meaning": "앉다"
+    },
+    {
+        "id": 328,
+        "category": "JLPT N5",
+        "kanji": "背",
+        "kana": "せ",
+        "meaning": "키"
+    },
+    {
+        "id": 329,
+        "category": "JLPT N5",
+        "kanji": "生徒",
+        "kana": "せいと",
+        "meaning": "학생"
+    },
+    {
+        "id": 330,
+        "category": "JLPT N5",
+        "kanji": "セーター",
+        "kana": "セーター",
+        "meaning": "스웨터"
+    },
+    {
+        "id": 331,
+        "category": "JLPT N5",
+        "kanji": "せっけん",
+        "kana": "せっけん",
+        "meaning": "경제"
+    },
+    {
+        "id": 332,
+        "category": "JLPT N5",
+        "kanji": "背広",
+        "kana": "せびろ",
+        "meaning": "정장"
+    },
+    {
+        "id": 333,
+        "category": "JLPT N5",
+        "kanji": "狭い",
+        "kana": "せまい",
+        "meaning": "좁다"
+    },
+    {
+        "id": 334,
+        "category": "JLPT N5",
+        "kanji": "ゼロ",
+        "kana": "ゼロ",
+        "meaning": "제로"
+    },
+    {
+        "id": 335,
+        "category": "JLPT N5",
+        "kanji": "千",
+        "kana": "せん",
+        "meaning": "천"
+    },
+    {
+        "id": 336,
+        "category": "JLPT N5",
+        "kanji": "先月",
+        "kana": "せんげつ",
+        "meaning": "지난 달"
+    },
+    {
+        "id": 337,
+        "category": "JLPT N5",
+        "kanji": "先週",
+        "kana": "せんしゅう",
+        "meaning": "지난"
+    },
+    {
+        "id": 338,
+        "category": "JLPT N5",
+        "kanji": "先生",
+        "kana": "せんせい",
+        "meaning": "선생님"
+    },
+    {
+        "id": 339,
+        "category": "JLPT N5",
+        "kanji": "洗濯",
+        "kana": "せんたく",
+        "meaning": "세탁"
+    },
+    {
+        "id": 340,
+        "category": "JLPT N5",
+        "kanji": "全部",
+        "kana": "ぜんぶ",
+        "meaning": "전체"
+    },
+    {
+        "id": 341,
+        "category": "JLPT N5",
+        "kanji": "掃除する",
+        "kana": "そうじする",
+        "meaning": "청소하다"
+    },
+    {
+        "id": 342,
+        "category": "JLPT N5",
+        "kanji": "そうして",
+        "kana": "そうして",
+        "meaning": "그리고"
+    },
+    {
+        "id": 343,
+        "category": "JLPT N5",
+        "kanji": "そこ",
+        "kana": "そこ",
+        "meaning": "거기"
+    },
+    {
+        "id": 344,
+        "category": "JLPT N5",
+        "kanji": "そちら",
+        "kana": "そちら",
+        "meaning": "그 쪽"
+    },
+    {
+        "id": 345,
+        "category": "JLPT N5",
+        "kanji": "そっち",
+        "kana": "そっち",
+        "meaning": "그쪽"
+    },
+    {
+        "id": 346,
+        "category": "JLPT N5",
+        "kanji": "外",
+        "kana": "そと",
+        "meaning": "외부"
+    },
+    {
+        "id": 347,
+        "category": "JLPT N5",
+        "kanji": "その",
+        "kana": "その",
+        "meaning": "그"
+    },
+    {
+        "id": 348,
+        "category": "JLPT N5",
+        "kanji": "そば",
+        "kana": "そば",
+        "meaning": "옆"
+    },
+    {
+        "id": 349,
+        "category": "JLPT N5",
+        "kanji": "空",
+        "kana": "そら",
+        "meaning": "하늘"
+    },
+    {
+        "id": 350,
+        "category": "JLPT N5",
+        "kanji": "それ",
+        "kana": "それ",
+        "meaning": "그것"
+    },
+    {
+        "id": 351,
+        "category": "JLPT N5",
+        "kanji": "それから",
+        "kana": "それから",
+        "meaning": "그 다음에"
+    },
+    {
+        "id": 352,
+        "category": "JLPT N5",
+        "kanji": "それでは",
+        "kana": "それでは",
+        "meaning": "그러면"
+    },
+    {
+        "id": 353,
+        "category": "JLPT N5",
+        "kanji": "大学",
+        "kana": "だいがく",
+        "meaning": "대학"
+    },
+    {
+        "id": 354,
+        "category": "JLPT N5",
+        "kanji": "大使館",
+        "kana": "たいしかん",
+        "meaning": "대사관"
+    },
+    {
+        "id": 355,
+        "category": "JLPT N5",
+        "kanji": "大丈夫",
+        "kana": "だいじょうぶ",
+        "meaning": "괜찮아"
+    },
+    {
+        "id": 356,
+        "category": "JLPT N5",
+        "kanji": "大好き",
+        "kana": "だいすき",
+        "meaning": "매우 좋음"
+    },
+    {
+        "id": 357,
+        "category": "JLPT N5",
+        "kanji": "大切",
+        "kana": "たいせつ",
+        "meaning": "중요"
+    },
+    {
+        "id": 358,
+        "category": "JLPT N5",
+        "kanji": "台所",
+        "kana": "だいどころ",
+        "meaning": "부엌"
+    },
+    {
+        "id": 359,
+        "category": "JLPT N5",
+        "kanji": "たいへん",
+        "kana": "たいへん",
+        "meaning": "몹시"
+    },
+    {
+        "id": 360,
+        "category": "JLPT N5",
+        "kanji": "高い",
+        "kana": "たかい",
+        "meaning": "높다"
+    },
+    {
+        "id": 361,
+        "category": "JLPT N5",
+        "kanji": "たくさん",
+        "kana": "たくさん",
+        "meaning": "많음"
+    },
+    {
+        "id": 362,
+        "category": "JLPT N5",
+        "kanji": "タクシー",
+        "kana": "タクシー",
+        "meaning": "택시"
+    },
+    {
+        "id": 363,
+        "category": "JLPT N5",
+        "kanji": "出す",
+        "kana": "だす",
+        "meaning": "내다"
+    },
+    {
+        "id": 364,
+        "category": "JLPT N5",
+        "kanji": "立つ",
+        "kana": "たつ",
+        "meaning": "일어서다"
+    },
+    {
+        "id": 365,
+        "category": "JLPT N5",
+        "kanji": "たて",
+        "kana": "たて",
+        "meaning": "세로"
+    },
+    {
+        "id": 366,
+        "category": "JLPT N5",
+        "kanji": "建物",
+        "kana": "たてもの",
+        "meaning": "건물"
+    },
+    {
+        "id": 367,
+        "category": "JLPT N5",
+        "kanji": "楽しい",
+        "kana": "たのしい",
+        "meaning": "재미"
+    },
+    {
+        "id": 368,
+        "category": "JLPT N5",
+        "kanji": "頼む",
+        "kana": "たのむ",
+        "meaning": "부탁하다"
+    },
+    {
+        "id": 369,
+        "category": "JLPT N5",
+        "kanji": "たばこ",
+        "kana": "たばこ",
+        "meaning": "담배"
+    },
+    {
+        "id": 370,
+        "category": "JLPT N5",
+        "kanji": "たぶん",
+        "kana": "たぶん",
+        "meaning": "아마"
+    },
+    {
+        "id": 371,
+        "category": "JLPT N5",
+        "kanji": "食べ物",
+        "kana": "たべもの",
+        "meaning": "음식"
+    },
+    {
+        "id": 372,
+        "category": "JLPT N5",
+        "kanji": "食べる",
+        "kana": "たべる",
+        "meaning": "먹다"
+    },
+    {
+        "id": 373,
+        "category": "JLPT N5",
+        "kanji": "卵",
+        "kana": "たまご",
+        "meaning": "계란"
+    },
+    {
+        "id": 374,
+        "category": "JLPT N5",
+        "kanji": "誰",
+        "kana": "だれ",
+        "meaning": "누구"
+    },
+    {
+        "id": 375,
+        "category": "JLPT N5",
+        "kanji": "誰か",
+        "kana": "だれか",
+        "meaning": "누군가"
+    },
+    {
+        "id": 376,
+        "category": "JLPT N5",
+        "kanji": "誕生日",
+        "kana": "たんじょうび",
+        "meaning": "생일"
+    },
+    {
+        "id": 377,
+        "category": "JLPT N5",
+        "kanji": "だんだん",
+        "kana": "だんだん",
+        "meaning": "차차"
+    },
+    {
+        "id": 378,
+        "category": "JLPT N5",
+        "kanji": "小さい",
+        "kana": "ちいさい",
+        "meaning": "작은"
+    },
+    {
+        "id": 379,
+        "category": "JLPT N5",
+        "kanji": "小さな",
+        "kana": "ちいさな",
+        "meaning": "작은"
+    },
+    {
+        "id": 380,
+        "category": "JLPT N5",
+        "kanji": "近い",
+        "kana": "ちかい",
+        "meaning": "가깝다"
+    },
+    {
+        "id": 381,
+        "category": "JLPT N5",
+        "kanji": "違う",
+        "kana": "ちがう",
+        "meaning": "다른"
+    },
+    {
+        "id": 382,
+        "category": "JLPT N5",
+        "kanji": "近く",
+        "kana": "ちかく",
+        "meaning": "근처"
+    },
+    {
+        "id": 383,
+        "category": "JLPT N5",
+        "kanji": "地下鉄",
+        "kana": "ちかてつ",
+        "meaning": "지하철"
+    },
+    {
+        "id": 384,
+        "category": "JLPT N5",
+        "kanji": "地図",
+        "kana": "ちず",
+        "meaning": "지도"
+    },
+    {
+        "id": 385,
+        "category": "JLPT N5",
+        "kanji": "茶色",
+        "kana": "ちゃいろ",
+        "meaning": "갈색"
+    },
+    {
+        "id": 386,
+        "category": "JLPT N5",
+        "kanji": "ちゃわん",
+        "kana": "ちゃわん",
+        "meaning": "그릇"
+    },
+    {
+        "id": 387,
+        "category": "JLPT N5",
+        "kanji": "ちょうど",
+        "kana": "ちょうど",
+        "meaning": "꼭"
+    },
+    {
+        "id": 388,
+        "category": "JLPT N5",
+        "kanji": "ちょっと",
+        "kana": "ちょっと",
+        "meaning": "조금"
+    },
+    {
+        "id": 389,
+        "category": "JLPT N5",
+        "kanji": "使う",
+        "kana": "つかう",
+        "meaning": "쓰다"
+    },
+    {
+        "id": 390,
+        "category": "JLPT N5",
+        "kanji": "疲れる",
+        "kana": "つかれる",
+        "meaning": "피곤"
+    },
+    {
+        "id": 391,
+        "category": "JLPT N5",
+        "kanji": "次",
+        "kana": "つぎ",
+        "meaning": "다음"
+    },
+    {
+        "id": 392,
+        "category": "JLPT N5",
+        "kanji": "着く",
+        "kana": "つく",
+        "meaning": "도착"
+    },
+    {
+        "id": 393,
+        "category": "JLPT N5",
+        "kanji": "机",
+        "kana": "つくえ",
+        "meaning": "책상"
+    },
+    {
+        "id": 394,
+        "category": "JLPT N5",
+        "kanji": "作る",
+        "kana": "つくる",
+        "meaning": "만들다"
+    },
+    {
+        "id": 395,
+        "category": "JLPT N5",
+        "kanji": "つける",
+        "kana": "つける",
+        "meaning": "붙이다"
+    },
+    {
+        "id": 396,
+        "category": "JLPT N5",
+        "kanji": "勤める",
+        "kana": "つとめる",
+        "meaning": "근무하다"
+    },
+    {
+        "id": 397,
+        "category": "JLPT N5",
+        "kanji": "つまらない",
+        "kana": "つまらない",
+        "meaning": "시시하다"
+    },
+    {
+        "id": 398,
+        "category": "JLPT N5",
+        "kanji": "冷たい",
+        "kana": "つめたい",
+        "meaning": "차갑다"
+    },
+    {
+        "id": 399,
+        "category": "JLPT N5",
+        "kanji": "強い",
+        "kana": "つよい",
+        "meaning": "강한"
+    },
+    {
+        "id": 400,
+        "category": "JLPT N5",
+        "kanji": "手",
+        "kana": "て",
+        "meaning": "손"
+    },
+    {
+        "id": 401,
+        "category": "JLPT N5",
+        "kanji": "テープ",
+        "kana": "テープ",
+        "meaning": "테이프"
+    },
+    {
+        "id": 402,
+        "category": "JLPT N5",
+        "kanji": "テーブル",
+        "kana": "テーブル",
+        "meaning": "테이블"
+    },
+    {
+        "id": 403,
+        "category": "JLPT N5",
+        "kanji": "テープレコーダー",
+        "kana": "テープレコーダー",
+        "meaning": "테이프 레코더"
+    },
+    {
+        "id": 404,
+        "category": "JLPT N5",
+        "kanji": "出かける",
+        "kana": "でかける",
+        "meaning": "외출"
+    },
+    {
+        "id": 405,
+        "category": "JLPT N5",
+        "kanji": "手紙",
+        "kana": "てがみ",
+        "meaning": "편지"
+    },
+    {
+        "id": 406,
+        "category": "JLPT N5",
+        "kanji": "できる",
+        "kana": "できる",
+        "meaning": "할 수 있다"
+    },
+    {
+        "id": 407,
+        "category": "JLPT N5",
+        "kanji": "出口",
+        "kana": "でぐち",
+        "meaning": "출구"
+    },
+    {
+        "id": 408,
+        "category": "JLPT N5",
+        "kanji": "テスト",
+        "kana": "テスト",
+        "meaning": "테스트"
+    },
+    {
+        "id": 409,
+        "category": "JLPT N5",
+        "kanji": "では",
+        "kana": "では",
+        "meaning": "그러면"
+    },
+    {
+        "id": 410,
+        "category": "JLPT N5",
+        "kanji": "デパート",
+        "kana": "デパート",
+        "meaning": "백화점"
+    },
+    {
+        "id": 411,
+        "category": "JLPT N5",
+        "kanji": "でも",
+        "kana": "でも",
+        "meaning": "그러나"
+    },
+    {
+        "id": 412,
+        "category": "JLPT N5",
+        "kanji": "出る",
+        "kana": "でる",
+        "meaning": "나가다"
+    },
+    {
+        "id": 413,
+        "category": "JLPT N5",
+        "kanji": "テレビ",
+        "kana": "テレビ",
+        "meaning": "텔레비전"
+    },
+    {
+        "id": 414,
+        "category": "JLPT N5",
+        "kanji": "天気",
+        "kana": "てんき",
+        "meaning": "날씨"
+    },
+    {
+        "id": 415,
+        "category": "JLPT N5",
+        "kanji": "電気",
+        "kana": "でんき",
+        "meaning": "전기"
+    },
+    {
+        "id": 416,
+        "category": "JLPT N5",
+        "kanji": "電車",
+        "kana": "でんしゃ",
+        "meaning": "전차"
+    },
+    {
+        "id": 417,
+        "category": "JLPT N5",
+        "kanji": "電話",
+        "kana": "でんわ",
+        "meaning": "전화"
+    },
+    {
+        "id": 418,
+        "category": "JLPT N5",
+        "kanji": "戸",
+        "kana": "と",
+        "meaning": "문"
+    },
+    {
+        "id": 419,
+        "category": "JLPT N5",
+        "kanji": "ドア",
+        "kana": "ドア",
+        "meaning": "문"
+    },
+    {
+        "id": 420,
+        "category": "JLPT N5",
+        "kanji": "トイレ",
+        "kana": "トイレ",
+        "meaning": "화장실"
+    },
+    {
+        "id": 421,
+        "category": "JLPT N5",
+        "kanji": "どう",
+        "kana": "どう",
+        "meaning": "어떻게"
+    },
+    {
+        "id": 422,
+        "category": "JLPT N5",
+        "kanji": "どうして",
+        "kana": "どうして",
+        "meaning": "어떻게"
+    },
+    {
+        "id": 423,
+        "category": "JLPT N5",
+        "kanji": "どうぞ",
+        "kana": "どうぞ",
+        "meaning": "아무쪼록"
+    },
+    {
+        "id": 424,
+        "category": "JLPT N5",
+        "kanji": "動物",
+        "kana": "どうぶつ",
+        "meaning": "동물"
+    },
+    {
+        "id": 425,
+        "category": "JLPT N5",
+        "kanji": "どうも",
+        "kana": "どうも",
+        "meaning": "감사합니다"
+    },
+    {
+        "id": 426,
+        "category": "JLPT N5",
+        "kanji": "遠い",
+        "kana": "とおい",
+        "meaning": "멀다"
+    },
+    {
+        "id": 427,
+        "category": "JLPT N5",
+        "kanji": "十日",
+        "kana": "とおか",
+        "meaning": "열흘"
+    },
+    {
+        "id": 428,
+        "category": "JLPT N5",
+        "kanji": "時々",
+        "kana": "ときどき",
+        "meaning": "때때로"
+    },
+    {
+        "id": 429,
+        "category": "JLPT N5",
+        "kanji": "時計",
+        "kana": "とけい",
+        "meaning": "시계"
+    },
+    {
+        "id": 430,
+        "category": "JLPT N5",
+        "kanji": "どこ",
+        "kana": "どこ",
+        "meaning": "어디"
+    },
+    {
+        "id": 431,
+        "category": "JLPT N5",
+        "kanji": "所",
+        "kana": "ところ",
+        "meaning": "곳"
+    },
+    {
+        "id": 432,
+        "category": "JLPT N5",
+        "kanji": "年",
+        "kana": "とし",
+        "meaning": "년"
+    },
+    {
+        "id": 433,
+        "category": "JLPT N5",
+        "kanji": "図書館",
+        "kana": "としょかん",
+        "meaning": "도서관"
+    },
+    {
+        "id": 434,
+        "category": "JLPT N5",
+        "kanji": "どちら",
+        "kana": "どちら",
+        "meaning": "어느 쪽"
+    },
+    {
+        "id": 435,
+        "category": "JLPT N5",
+        "kanji": "どっち",
+        "kana": "どっち",
+        "meaning": "어느 쪽"
+    },
+    {
+        "id": 436,
+        "category": "JLPT N5",
+        "kanji": "とても",
+        "kana": "とても",
+        "meaning": "아무리 해도"
+    },
+    {
+        "id": 437,
+        "category": "JLPT N5",
+        "kanji": "どなた",
+        "kana": "どなた",
+        "meaning": "누구"
+    },
+    {
+        "id": 438,
+        "category": "JLPT N5",
+        "kanji": "隣",
+        "kana": "となり",
+        "meaning": "이웃"
+    },
+    {
+        "id": 439,
+        "category": "JLPT N5",
+        "kanji": "どの",
+        "kana": "どの",
+        "meaning": "어느"
+    },
+    {
+        "id": 440,
+        "category": "JLPT N5",
+        "kanji": "飛ぶ",
+        "kana": "とぶ",
+        "meaning": "날다"
+    },
+    {
+        "id": 441,
+        "category": "JLPT N5",
+        "kanji": "止まる",
+        "kana": "とまる",
+        "meaning": "멈추다"
+    },
+    {
+        "id": 442,
+        "category": "JLPT N5",
+        "kanji": "友達",
+        "kana": "ともだち",
+        "meaning": "친구"
+    },
+    {
+        "id": 443,
+        "category": "JLPT N5",
+        "kanji": "土曜日",
+        "kana": "どようび",
+        "meaning": "토요일"
+    },
+    {
+        "id": 444,
+        "category": "JLPT N5",
+        "kanji": "鳥",
+        "kana": "とり",
+        "meaning": "새"
+    },
+    {
+        "id": 445,
+        "category": "JLPT N5",
+        "kanji": "とり肉",
+        "kana": "とりにく",
+        "meaning": "닭고기"
+    },
+    {
+        "id": 446,
+        "category": "JLPT N5",
+        "kanji": "取る",
+        "kana": "とる",
+        "meaning": "가지고"
+    },
+    {
+        "id": 447,
+        "category": "JLPT N5",
+        "kanji": "撮る",
+        "kana": "とる",
+        "meaning": "찍다"
+    },
+    {
+        "id": 448,
+        "category": "JLPT N5",
+        "kanji": "どれ",
+        "kana": "どれ",
+        "meaning": "어느"
+    },
+    {
+        "id": 449,
+        "category": "JLPT N5",
+        "kanji": "ナイフ",
+        "kana": "ナイフ",
+        "meaning": "칼"
+    },
+    {
+        "id": 450,
+        "category": "JLPT N5",
+        "kanji": "中",
+        "kana": "なか",
+        "meaning": "가운데"
+    },
+    {
+        "id": 451,
+        "category": "JLPT N5",
+        "kanji": "長い",
+        "kana": "ながい",
+        "meaning": "긴"
+    },
+    {
+        "id": 452,
+        "category": "JLPT N5",
+        "kanji": "鳴く",
+        "kana": "なく",
+        "meaning": "울다"
+    },
+    {
+        "id": 453,
+        "category": "JLPT N5",
+        "kanji": "無くす",
+        "kana": "なくす",
+        "meaning": "없애다"
+    },
+    {
+        "id": 454,
+        "category": "JLPT N5",
+        "kanji": "なぜ",
+        "kana": "なぜ",
+        "meaning": "왜"
+    },
+    {
+        "id": 455,
+        "category": "JLPT N5",
+        "kanji": "夏",
+        "kana": "なつ",
+        "meaning": "여름"
+    },
+    {
+        "id": 456,
+        "category": "JLPT N5",
+        "kanji": "夏休み",
+        "kana": "なつやすみ",
+        "meaning": "여름 방학"
+    },
+    {
+        "id": 457,
+        "category": "JLPT N5",
+        "kanji": "など",
+        "kana": "など",
+        "meaning": "등"
+    },
+    {
+        "id": 458,
+        "category": "JLPT N5",
+        "kanji": "七つ",
+        "kana": "ななつ",
+        "meaning": "일곱"
+    },
+    {
+        "id": 459,
+        "category": "JLPT N5",
+        "kanji": "七日",
+        "kana": "なのか",
+        "meaning": "일곱째 날"
+    },
+    {
+        "id": 460,
+        "category": "JLPT N5",
+        "kanji": "名前",
+        "kana": "なまえ",
+        "meaning": "이름"
+    },
+    {
+        "id": 461,
+        "category": "JLPT N5",
+        "kanji": "習う",
+        "kana": "ならう",
+        "meaning": "배우"
+    },
+    {
+        "id": 462,
+        "category": "JLPT N5",
+        "kanji": "並ぶ",
+        "kana": "ならぶ",
+        "meaning": "늘어선"
+    },
+    {
+        "id": 463,
+        "category": "JLPT N5",
+        "kanji": "並べる",
+        "kana": "ならべる",
+        "meaning": "나란히"
+    },
+    {
+        "id": 464,
+        "category": "JLPT N5",
+        "kanji": "なる",
+        "kana": "なる",
+        "meaning": "되다"
+    },
+    {
+        "id": 465,
+        "category": "JLPT N5",
+        "kanji": "何",
+        "kana": "なに",
+        "meaning": "무엇"
+    },
+    {
+        "id": 466,
+        "category": "JLPT N5",
+        "kanji": "二",
+        "kana": "に",
+        "meaning": "둘"
+    },
+    {
+        "id": 467,
+        "category": "JLPT N5",
+        "kanji": "賑やか",
+        "kana": "にぎやか",
+        "meaning": "분주"
+    },
+    {
+        "id": 468,
+        "category": "JLPT N5",
+        "kanji": "肉",
+        "kana": "にく",
+        "meaning": "고기"
+    },
+    {
+        "id": 469,
+        "category": "JLPT N5",
+        "kanji": "西",
+        "kana": "にし",
+        "meaning": "서쪽"
+    },
+    {
+        "id": 470,
+        "category": "JLPT N5",
+        "kanji": "日曜日",
+        "kana": "にちようび",
+        "meaning": "일요일"
+    },
+    {
+        "id": 471,
+        "category": "JLPT N5",
+        "kanji": "荷物",
+        "kana": "にもつ",
+        "meaning": "짐"
+    },
+    {
+        "id": 472,
+        "category": "JLPT N5",
+        "kanji": "ニュース",
+        "kana": "ニュース",
+        "meaning": "뉴스"
+    },
+    {
+        "id": 473,
+        "category": "JLPT N5",
+        "kanji": "庭",
+        "kana": "にわ",
+        "meaning": "정원"
+    },
+    {
+        "id": 474,
+        "category": "JLPT N5",
+        "kanji": "脱ぐ",
+        "kana": "ぬぐ",
+        "meaning": "옷을 벗다"
+    },
+    {
+        "id": 475,
+        "category": "JLPT N5",
+        "kanji": "温い",
+        "kana": "ぬるい",
+        "meaning": "미지근한"
+    },
+    {
+        "id": 476,
+        "category": "JLPT N5",
+        "kanji": "ネクタイ",
+        "kana": "ネクタイ",
+        "meaning": "넥타이"
+    },
+    {
+        "id": 477,
+        "category": "JLPT N5",
+        "kanji": "猫",
+        "kana": "ねこ",
+        "meaning": "고양이"
+    },
+    {
+        "id": 478,
+        "category": "JLPT N5",
+        "kanji": "寝る",
+        "kana": "ねる",
+        "meaning": "자다"
+    },
+    {
+        "id": 479,
+        "category": "JLPT N5",
+        "kanji": "ノート",
+        "kana": "ノート",
+        "meaning": "노트"
+    },
+    {
+        "id": 480,
+        "category": "JLPT N5",
+        "kanji": "登る",
+        "kana": "のぼる",
+        "meaning": "등반"
+    },
+    {
+        "id": 481,
+        "category": "JLPT N5",
+        "kanji": "飲み物",
+        "kana": "のみもの",
+        "meaning": "음료"
+    },
+    {
+        "id": 482,
+        "category": "JLPT N5",
+        "kanji": "飲む",
+        "kana": "のむ",
+        "meaning": "마시다"
+    },
+    {
+        "id": 483,
+        "category": "JLPT N5",
+        "kanji": "乗る",
+        "kana": "のる",
+        "meaning": "타다"
+    },
+    {
+        "id": 484,
+        "category": "JLPT N5",
+        "kanji": "歯",
+        "kana": "は",
+        "meaning": "치아"
+    },
+    {
+        "id": 485,
+        "category": "JLPT N5",
+        "kanji": "パーティー",
+        "kana": "パーティー",
+        "meaning": "파티"
+    },
+    {
+        "id": 486,
+        "category": "JLPT N5",
+        "kanji": "はい",
+        "kana": "はい",
+        "meaning": "예"
+    },
+    {
+        "id": 487,
+        "category": "JLPT N5",
+        "kanji": "灰皿",
+        "kana": "はいざら",
+        "meaning": "재떨이"
+    },
+    {
+        "id": 488,
+        "category": "JLPT N5",
+        "kanji": "入る",
+        "kana": "はいる",
+        "meaning": "들어가다"
+    },
+    {
+        "id": 489,
+        "category": "JLPT N5",
+        "kanji": "葉書",
+        "kana": "はがき",
+        "meaning": "엽서"
+    },
+    {
+        "id": 490,
+        "category": "JLPT N5",
+        "kanji": "はく",
+        "kana": "はく",
+        "meaning": "입다"
+    },
+    {
+        "id": 491,
+        "category": "JLPT N5",
+        "kanji": "箱",
+        "kana": "はこ",
+        "meaning": "상자"
+    },
+    {
+        "id": 492,
+        "category": "JLPT N5",
+        "kanji": "橋",
+        "kana": "はし",
+        "meaning": "다리"
+    },
+    {
+        "id": 493,
+        "category": "JLPT N5",
+        "kanji": "はし",
+        "kana": "はし",
+        "meaning": "젓가락"
+    },
+    {
+        "id": 494,
+        "category": "JLPT N5",
+        "kanji": "始まる",
+        "kana": "はじまる",
+        "meaning": "시작"
+    },
+    {
+        "id": 495,
+        "category": "JLPT N5",
+        "kanji": "初め",
+        "kana": "はじめ",
+        "meaning": "처음"
+    },
+    {
+        "id": 496,
+        "category": "JLPT N5",
+        "kanji": "初めて",
+        "kana": "はじめて",
+        "meaning": "처음"
+    },
+    {
+        "id": 497,
+        "category": "JLPT N5",
+        "kanji": "走る",
+        "kana": "はしる",
+        "meaning": "달리다"
+    },
+    {
+        "id": 498,
+        "category": "JLPT N5",
+        "kanji": "バス",
+        "kana": "バス",
+        "meaning": "버스"
+    },
+    {
+        "id": 499,
+        "category": "JLPT N5",
+        "kanji": "バター",
+        "kana": "バター",
+        "meaning": "버터"
+    },
+    {
+        "id": 500,
+        "category": "JLPT N5",
+        "kanji": "二十歳",
+        "kana": "はたち",
+        "meaning": "스무 살"
+    },
+    {
+        "id": 501,
+        "category": "JLPT N5",
+        "kanji": "働く",
+        "kana": "はたらく",
+        "meaning": "일하다"
+    },
+    {
+        "id": 502,
+        "category": "JLPT N5",
+        "kanji": "八",
+        "kana": "はち",
+        "meaning": "여덟"
+    },
+    {
+        "id": 503,
+        "category": "JLPT N5",
+        "kanji": "二十日",
+        "kana": "はつか",
+        "meaning": "20일"
+    },
+    {
+        "id": 504,
+        "category": "JLPT N5",
+        "kanji": "花",
+        "kana": "はな",
+        "meaning": "꽃"
+    },
+    {
+        "id": 505,
+        "category": "JLPT N5",
+        "kanji": "鼻",
+        "kana": "はな",
+        "meaning": "코"
+    },
+    {
+        "id": 506,
+        "category": "JLPT N5",
+        "kanji": "話",
+        "kana": "はなし",
+        "meaning": "이야기"
+    },
+    {
+        "id": 507,
+        "category": "JLPT N5",
+        "kanji": "話す",
+        "kana": "はなす",
+        "meaning": "이야기하다"
+    },
+    {
+        "id": 508,
+        "category": "JLPT N5",
+        "kanji": "早い",
+        "kana": "はやい",
+        "meaning": "이르다"
+    },
+    {
+        "id": 509,
+        "category": "JLPT N5",
+        "kanji": "速い",
+        "kana": "はやい",
+        "meaning": "빠르다"
+    },
+    {
+        "id": 510,
+        "category": "JLPT N5",
+        "kanji": "春",
+        "kana": "はる",
+        "meaning": "봄"
+    },
+    {
+        "id": 511,
+        "category": "JLPT N5",
+        "kanji": "貼る",
+        "kana": "はる",
+        "meaning": "붙이다"
+    },
+    {
+        "id": 512,
+        "category": "JLPT N5",
+        "kanji": "晴れ",
+        "kana": "はれ",
+        "meaning": "맑음"
+    },
+    {
+        "id": 513,
+        "category": "JLPT N5",
+        "kanji": "晴れる",
+        "kana": "はれる",
+        "meaning": "맑은"
+    },
+    {
+        "id": 514,
+        "category": "JLPT N5",
+        "kanji": "半",
+        "kana": "はん",
+        "meaning": "반"
+    },
+    {
+        "id": 515,
+        "category": "JLPT N5",
+        "kanji": "晩",
+        "kana": "ばん",
+        "meaning": "저녁"
+    },
+    {
+        "id": 516,
+        "category": "JLPT N5",
+        "kanji": "パン",
+        "kana": "パン",
+        "meaning": "빵"
+    },
+    {
+        "id": 517,
+        "category": "JLPT N5",
+        "kanji": "ハンカチ",
+        "kana": "ハンカチ",
+        "meaning": "손수건"
+    },
+    {
+        "id": 518,
+        "category": "JLPT N5",
+        "kanji": "番号",
+        "kana": "ばんごう",
+        "meaning": "번호"
+    },
+    {
+        "id": 519,
+        "category": "JLPT N5",
+        "kanji": "晩御飯",
+        "kana": "ばんごはん",
+        "meaning": "저녁 식사"
+    },
+    {
+        "id": 520,
+        "category": "JLPT N5",
+        "kanji": "半分",
+        "kana": "はんぶん",
+        "meaning": "반"
+    },
+    {
+        "id": 521,
+        "category": "JLPT N5",
+        "kanji": "東",
+        "kana": "ひがし",
+        "meaning": "동쪽"
+    },
+    {
+        "id": 522,
+        "category": "JLPT N5",
+        "kanji": "引く",
+        "kana": "ひく",
+        "meaning": "끌다"
+    },
+    {
+        "id": 523,
+        "category": "JLPT N5",
+        "kanji": "弾く",
+        "kana": "ひく",
+        "meaning": "연주하다"
+    },
+    {
+        "id": 524,
+        "category": "JLPT N5",
+        "kanji": "低い",
+        "kana": "ひくい",
+        "meaning": "낮다"
+    },
+    {
+        "id": 525,
+        "category": "JLPT N5",
+        "kanji": "飛行機",
+        "kana": "ひこうき",
+        "meaning": "비행기"
+    },
+    {
+        "id": 526,
+        "category": "JLPT N5",
+        "kanji": "左",
+        "kana": "ひだり",
+        "meaning": "왼쪽"
+    },
+    {
+        "id": 527,
+        "category": "JLPT N5",
+        "kanji": "人",
+        "kana": "ひと",
+        "meaning": "사람"
+    },
+    {
+        "id": 528,
+        "category": "JLPT N5",
+        "kanji": "一つ",
+        "kana": "ひとつ",
+        "meaning": "하나"
+    },
+    {
+        "id": 529,
+        "category": "JLPT N5",
+        "kanji": "一月",
+        "kana": "ひとつき",
+        "meaning": "한달"
+    },
+    {
+        "id": 530,
+        "category": "JLPT N5",
+        "kanji": "一人",
+        "kana": "ひとり",
+        "meaning": "한 사람"
+    },
+    {
+        "id": 531,
+        "category": "JLPT N5",
+        "kanji": "暇",
+        "kana": "ひま",
+        "meaning": "자유 시간"
+    },
+    {
+        "id": 532,
+        "category": "JLPT N5",
+        "kanji": "百",
+        "kana": "ひゃく",
+        "meaning": "백"
+    },
+    {
+        "id": 533,
+        "category": "JLPT N5",
+        "kanji": "病院",
+        "kana": "びょういん",
+        "meaning": "병원"
+    },
+    {
+        "id": 534,
+        "category": "JLPT N5",
+        "kanji": "病気",
+        "kana": "びょうき",
+        "meaning": "질병"
+    },
+    {
+        "id": 535,
+        "category": "JLPT N5",
+        "kanji": "昼",
+        "kana": "ひる",
+        "meaning": "낮"
+    },
+    {
+        "id": 536,
+        "category": "JLPT N5",
+        "kanji": "昼御飯",
+        "kana": "ひるごはん",
+        "meaning": "점심"
+    },
+    {
+        "id": 537,
+        "category": "JLPT N5",
+        "kanji": "広い",
+        "kana": "ひろい",
+        "meaning": "넓은"
+    },
+    {
+        "id": 538,
+        "category": "JLPT N5",
+        "kanji": "フィルム",
+        "kana": "フィルム",
+        "meaning": "필름"
+    },
+    {
+        "id": 539,
+        "category": "JLPT N5",
+        "kanji": "封筒",
+        "kana": "ふうとう",
+        "meaning": "봉투"
+    },
+    {
+        "id": 540,
+        "category": "JLPT N5",
+        "kanji": "プール",
+        "kana": "プール",
+        "meaning": "수영장"
+    },
+    {
+        "id": 541,
+        "category": "JLPT N5",
+        "kanji": "フォーク",
+        "kana": "フォーク",
+        "meaning": "포크"
+    },
+    {
+        "id": 542,
+        "category": "JLPT N5",
+        "kanji": "吹く",
+        "kana": "ふく",
+        "meaning": "불다"
+    },
+    {
+        "id": 543,
+        "category": "JLPT N5",
+        "kanji": "服",
+        "kana": "ふく",
+        "meaning": "옷"
+    },
+    {
+        "id": 544,
+        "category": "JLPT N5",
+        "kanji": "二つ",
+        "kana": "ふたつ",
+        "meaning": "둘"
+    },
+    {
+        "id": 545,
+        "category": "JLPT N5",
+        "kanji": "豚肉",
+        "kana": "ぶたにく",
+        "meaning": "돼지 고기"
+    },
+    {
+        "id": 546,
+        "category": "JLPT N5",
+        "kanji": "二人",
+        "kana": "ふたり",
+        "meaning": "두 사람"
+    },
+    {
+        "id": 547,
+        "category": "JLPT N5",
+        "kanji": "二日",
+        "kana": "ふつか",
+        "meaning": "이틀"
+    },
+    {
+        "id": 548,
+        "category": "JLPT N5",
+        "kanji": "太い",
+        "kana": "ふとい",
+        "meaning": "굵다"
+    },
+    {
+        "id": 549,
+        "category": "JLPT N5",
+        "kanji": "冬",
+        "kana": "ふゆ",
+        "meaning": "겨울"
+    },
+    {
+        "id": 550,
+        "category": "JLPT N5",
+        "kanji": "降る",
+        "kana": "ふる",
+        "meaning": "내리다"
+    },
+    {
+        "id": 551,
+        "category": "JLPT N5",
+        "kanji": "古い",
+        "kana": "ふるい",
+        "meaning": "오래되다"
+    },
+    {
+        "id": 552,
+        "category": "JLPT N5",
+        "kanji": "ふろ",
+        "kana": "ふろ",
+        "meaning": "욕조"
+    },
+    {
+        "id": 553,
+        "category": "JLPT N5",
+        "kanji": "文章",
+        "kana": "ぶんしょう",
+        "meaning": "문장"
+    },
+    {
+        "id": 554,
+        "category": "JLPT N5",
+        "kanji": "ページ",
+        "kana": "ページ",
+        "meaning": "페이지"
+    },
+    {
+        "id": 555,
+        "category": "JLPT N5",
+        "kanji": "下手",
+        "kana": "へた",
+        "meaning": "어설픔"
+    },
+    {
+        "id": 556,
+        "category": "JLPT N5",
+        "kanji": "ベッド",
+        "kana": "ベッド",
+        "meaning": "침대"
+    },
+    {
+        "id": 557,
+        "category": "JLPT N5",
+        "kanji": "ペット",
+        "kana": "ペット",
+        "meaning": "애완 동물"
+    },
+    {
+        "id": 558,
+        "category": "JLPT N5",
+        "kanji": "部屋",
+        "kana": "へや",
+        "meaning": "방"
+    },
+    {
+        "id": 559,
+        "category": "JLPT N5",
+        "kanji": "辺",
+        "kana": "へん",
+        "meaning": "지역"
+    },
+    {
+        "id": 560,
+        "category": "JLPT N5",
+        "kanji": "ペン",
+        "kana": "ペン",
+        "meaning": "펜"
+    },
+    {
+        "id": 561,
+        "category": "JLPT N5",
+        "kanji": "勉強する",
+        "kana": "べんきょうする",
+        "meaning": "공부"
+    },
+    {
+        "id": 562,
+        "category": "JLPT N5",
+        "kanji": "便利",
+        "kana": "べんり",
+        "meaning": "편리"
+    },
+    {
+        "id": 563,
+        "category": "JLPT N5",
+        "kanji": "帽子",
+        "kana": "ぼうし",
+        "meaning": "모자"
+    },
+    {
+        "id": 564,
+        "category": "JLPT N5",
+        "kanji": "ボールペン",
+        "kana": "ボールペン",
+        "meaning": "볼펜"
+    },
+    {
+        "id": 565,
+        "category": "JLPT N5",
+        "kanji": "ほか",
+        "kana": "ほか",
+        "meaning": "다른 것"
+    },
+    {
+        "id": 566,
+        "category": "JLPT N5",
+        "kanji": "ポケット",
+        "kana": "ポケット",
+        "meaning": "포켓"
+    },
+    {
+        "id": 567,
+        "category": "JLPT N5",
+        "kanji": "欲しい",
+        "kana": "ほしい",
+        "meaning": "바라다"
+    },
+    {
+        "id": 568,
+        "category": "JLPT N5",
+        "kanji": "ポスト",
+        "kana": "ポスト",
+        "meaning": "우편"
+    },
+    {
+        "id": 569,
+        "category": "JLPT N5",
+        "kanji": "細い",
+        "kana": "ほそい",
+        "meaning": "얇은"
+    },
+    {
+        "id": 570,
+        "category": "JLPT N5",
+        "kanji": "ボタン",
+        "kana": "ボタン",
+        "meaning": "버튼"
+    },
+    {
+        "id": 571,
+        "category": "JLPT N5",
+        "kanji": "ホテル",
+        "kana": "ホテル",
+        "meaning": "호텔"
+    },
+    {
+        "id": 572,
+        "category": "JLPT N5",
+        "kanji": "本",
+        "kana": "ほん",
+        "meaning": "책"
+    },
+    {
+        "id": 573,
+        "category": "JLPT N5",
+        "kanji": "本棚",
+        "kana": "ほんだな",
+        "meaning": "책장"
+    },
+    {
+        "id": 574,
+        "category": "JLPT N5",
+        "kanji": "ほんとう",
+        "kana": "ほんとう",
+        "meaning": "진실"
+    },
+    {
+        "id": 575,
+        "category": "JLPT N5",
+        "kanji": "毎朝",
+        "kana": "まいあさ",
+        "meaning": "매일 아침"
+    },
+    {
+        "id": 576,
+        "category": "JLPT N5",
+        "kanji": "毎月",
+        "kana": "まいつき",
+        "meaning": "매월"
+    },
+    {
+        "id": 577,
+        "category": "JLPT N5",
+        "kanji": "毎週",
+        "kana": "まいしゅう",
+        "meaning": "매주"
+    },
+    {
+        "id": 578,
+        "category": "JLPT N5",
+        "kanji": "毎日",
+        "kana": "まいにち",
+        "meaning": "매일"
+    },
+    {
+        "id": 579,
+        "category": "JLPT N5",
+        "kanji": "毎年",
+        "kana": "まいとし",
+        "meaning": "매년"
+    },
+    {
+        "id": 580,
+        "category": "JLPT N5",
+        "kanji": "毎晩",
+        "kana": "まいばん",
+        "meaning": "매일 밤"
+    },
+    {
+        "id": 581,
+        "category": "JLPT N5",
+        "kanji": "前",
+        "kana": "まえ",
+        "meaning": "전"
+    },
+    {
+        "id": 582,
+        "category": "JLPT N5",
+        "kanji": "曲る",
+        "kana": "まがる",
+        "meaning": "구부리"
+    },
+    {
+        "id": 583,
+        "category": "JLPT N5",
+        "kanji": "まずい",
+        "kana": "まずい",
+        "meaning": "맛이 없다"
+    },
+    {
+        "id": 584,
+        "category": "JLPT N5",
+        "kanji": "また",
+        "kana": "また",
+        "meaning": "다른 때"
+    },
+    {
+        "id": 585,
+        "category": "JLPT N5",
+        "kanji": "まだ",
+        "kana": "まだ",
+        "meaning": "아직"
+    },
+    {
+        "id": 586,
+        "category": "JLPT N5",
+        "kanji": "町",
+        "kana": "まち",
+        "meaning": "마을"
+    },
+    {
+        "id": 587,
+        "category": "JLPT N5",
+        "kanji": "待つ",
+        "kana": "まつ",
+        "meaning": "기다리다"
+    },
+    {
+        "id": 588,
+        "category": "JLPT N5",
+        "kanji": "まっすぐ",
+        "kana": "まっすぐ",
+        "meaning": "똑바로"
+    },
+    {
+        "id": 589,
+        "category": "JLPT N5",
+        "kanji": "マッチ",
+        "kana": "マッチ",
+        "meaning": "경기"
+    },
+    {
+        "id": 590,
+        "category": "JLPT N5",
+        "kanji": "窓",
+        "kana": "まど",
+        "meaning": "창문"
+    },
+    {
+        "id": 591,
+        "category": "JLPT N5",
+        "kanji": "丸い",
+        "kana": "まるい",
+        "meaning": "둥글다"
+    },
+    {
+        "id": 592,
+        "category": "JLPT N5",
+        "kanji": "万",
+        "kana": "まん",
+        "meaning": "만"
+    },
+    {
+        "id": 593,
+        "category": "JLPT N5",
+        "kanji": "万年筆",
+        "kana": "まんねんひつ",
+        "meaning": "만년필"
+    },
+    {
+        "id": 594,
+        "category": "JLPT N5",
+        "kanji": "磨く",
+        "kana": "みがく",
+        "meaning": "연마"
+    },
+    {
+        "id": 595,
+        "category": "JLPT N5",
+        "kanji": "右",
+        "kana": "みぎ",
+        "meaning": "오른쪽"
+    },
+    {
+        "id": 596,
+        "category": "JLPT N5",
+        "kanji": "短い",
+        "kana": "みじかい",
+        "meaning": "짧다"
+    },
+    {
+        "id": 597,
+        "category": "JLPT N5",
+        "kanji": "水",
+        "kana": "みず",
+        "meaning": "물"
+    },
+    {
+        "id": 598,
+        "category": "JLPT N5",
+        "kanji": "店",
+        "kana": "みせ",
+        "meaning": "가게"
+    },
+    {
+        "id": 599,
+        "category": "JLPT N5",
+        "kanji": "見せる",
+        "kana": "みせる",
+        "meaning": "보이다"
+    },
+    {
+        "id": 600,
+        "category": "JLPT N5",
+        "kanji": "道",
+        "kana": "みち",
+        "meaning": "길"
+    },
+    {
+        "id": 601,
+        "category": "JLPT N5",
+        "kanji": "三日",
+        "kana": "みっか",
+        "meaning": "삼일"
+    },
+    {
+        "id": 602,
+        "category": "JLPT N5",
+        "kanji": "三つ",
+        "kana": "みっつ",
+        "meaning": "세"
+    },
+    {
+        "id": 603,
+        "category": "JLPT N5",
+        "kanji": "緑",
+        "kana": "みどり",
+        "meaning": "녹색"
+    },
+    {
+        "id": 604,
+        "category": "JLPT N5",
+        "kanji": "皆さん",
+        "kana": "みなさん",
+        "meaning": "여러분"
+    },
+    {
+        "id": 605,
+        "category": "JLPT N5",
+        "kanji": "南",
+        "kana": "みなみ",
+        "meaning": "남"
+    },
+    {
+        "id": 606,
+        "category": "JLPT N5",
+        "kanji": "耳",
+        "kana": "みみ",
+        "meaning": "귀"
+    },
+    {
+        "id": 607,
+        "category": "JLPT N5",
+        "kanji": "見る",
+        "kana": "みる",
+        "meaning": "보다"
+    },
+    {
+        "id": 608,
+        "category": "JLPT N5",
+        "kanji": "みんな",
+        "kana": "みんな",
+        "meaning": "모두"
+    },
+    {
+        "id": 609,
+        "category": "JLPT N5",
+        "kanji": "六日",
+        "kana": "むいか",
+        "meaning": "6일"
+    },
+    {
+        "id": 610,
+        "category": "JLPT N5",
+        "kanji": "向こう",
+        "kana": "むこう",
+        "meaning": "저쪽"
+    },
+    {
+        "id": 611,
+        "category": "JLPT N5",
+        "kanji": "難しい",
+        "kana": "むずかしい",
+        "meaning": "어렵다"
+    },
+    {
+        "id": 612,
+        "category": "JLPT N5",
+        "kanji": "六つ",
+        "kana": "むっつ",
+        "meaning": "여섯"
+    },
+    {
+        "id": 613,
+        "category": "JLPT N5",
+        "kanji": "村",
+        "kana": "むら",
+        "meaning": "마을"
+    },
+    {
+        "id": 614,
+        "category": "JLPT N5",
+        "kanji": "目",
+        "kana": "め",
+        "meaning": "눈"
+    },
+    {
+        "id": 615,
+        "category": "JLPT N5",
+        "kanji": "メートル",
+        "kana": "メートル",
+        "meaning": "미터"
+    },
+    {
+        "id": 616,
+        "category": "JLPT N5",
+        "kanji": "眼鏡",
+        "kana": "めがね",
+        "meaning": "안경"
+    },
+    {
+        "id": 617,
+        "category": "JLPT N5",
+        "kanji": "もう",
+        "kana": "もう",
+        "meaning": "벌써"
+    },
+    {
+        "id": 618,
+        "category": "JLPT N5",
+        "kanji": "もう一度",
+        "kana": "もういちど",
+        "meaning": "다시"
+    },
+    {
+        "id": 619,
+        "category": "JLPT N5",
+        "kanji": "木曜日",
+        "kana": "もくようび",
+        "meaning": "목요일"
+    },
+    {
+        "id": 620,
+        "category": "JLPT N5",
+        "kanji": "持つ",
+        "kana": "もつ",
+        "meaning": "쥐다"
+    },
+    {
+        "id": 621,
+        "category": "JLPT N5",
+        "kanji": "もっと",
+        "kana": "もっと",
+        "meaning": "더"
+    },
+    {
+        "id": 622,
+        "category": "JLPT N5",
+        "kanji": "物",
+        "kana": "もの",
+        "meaning": "물건"
+    },
+    {
+        "id": 623,
+        "category": "JLPT N5",
+        "kanji": "門",
+        "kana": "もん",
+        "meaning": "문"
+    },
+    {
+        "id": 624,
+        "category": "JLPT N5",
+        "kanji": "問題",
+        "kana": "もんだい",
+        "meaning": "문제"
+    },
+    {
+        "id": 625,
+        "category": "JLPT N5",
+        "kanji": "八百屋",
+        "kana": "やおや",
+        "meaning": "청과물"
+    },
+    {
+        "id": 626,
+        "category": "JLPT N5",
+        "kanji": "野菜",
+        "kana": "やさい",
+        "meaning": "야채"
+    },
+    {
+        "id": 627,
+        "category": "JLPT N5",
+        "kanji": "易しい",
+        "kana": "やさしい",
+        "meaning": "쉽다"
+    },
+    {
+        "id": 628,
+        "category": "JLPT N5",
+        "kanji": "安い",
+        "kana": "やすい",
+        "meaning": "싸다"
+    },
+    {
+        "id": 629,
+        "category": "JLPT N5",
+        "kanji": "休み",
+        "kana": "やすみ",
+        "meaning": "휴가"
+    },
+    {
+        "id": 630,
+        "category": "JLPT N5",
+        "kanji": "休む",
+        "kana": "やすむ",
+        "meaning": "쉬다"
+    },
+    {
+        "id": 631,
+        "category": "JLPT N5",
+        "kanji": "八つ",
+        "kana": "やっつ",
+        "meaning": "여덟"
+    },
+    {
+        "id": 632,
+        "category": "JLPT N5",
+        "kanji": "山",
+        "kana": "やま",
+        "meaning": "산"
+    },
+    {
+        "id": 633,
+        "category": "JLPT N5",
+        "kanji": "やる",
+        "kana": "やる",
+        "meaning": "하다"
+    },
+    {
+        "id": 634,
+        "category": "JLPT N5",
+        "kanji": "夕方",
+        "kana": "ゆうがた",
+        "meaning": "저녁"
+    },
+    {
+        "id": 635,
+        "category": "JLPT N5",
+        "kanji": "夕飯",
+        "kana": "ゆうはん",
+        "meaning": "저녁밥"
+    },
+    {
+        "id": 636,
+        "category": "JLPT N5",
+        "kanji": "郵便局",
+        "kana": "ゆうびんきょく",
+        "meaning": "우체국"
+    },
+    {
+        "id": 637,
+        "category": "JLPT N5",
+        "kanji": "昨夜",
+        "kana": "ゆうべ",
+        "meaning": "지난 밤"
+    },
+    {
+        "id": 638,
+        "category": "JLPT N5",
+        "kanji": "有名",
+        "kana": "ゆうめい",
+        "meaning": "유명"
+    },
+    {
+        "id": 639,
+        "category": "JLPT N5",
+        "kanji": "雪",
+        "kana": "ゆき",
+        "meaning": "눈"
+    },
+    {
+        "id": 640,
+        "category": "JLPT N5",
+        "kanji": "ゆっくりと",
+        "kana": "ゆっくりと",
+        "meaning": "천천히"
+    },
+    {
+        "id": 641,
+        "category": "JLPT N5",
+        "kanji": "八日",
+        "kana": "ようか",
+        "meaning": "8일"
+    },
+    {
+        "id": 642,
+        "category": "JLPT N5",
+        "kanji": "洋服",
+        "kana": "ようふく",
+        "meaning": "옷"
+    },
+    {
+        "id": 643,
+        "category": "JLPT N5",
+        "kanji": "よく",
+        "kana": "よく",
+        "meaning": "잘"
+    },
+    {
+        "id": 644,
+        "category": "JLPT N5",
+        "kanji": "横",
+        "kana": "よこ",
+        "meaning": "옆"
+    },
+    {
+        "id": 645,
+        "category": "JLPT N5",
+        "kanji": "四日",
+        "kana": "よっか",
+        "meaning": "4일"
+    },
+    {
+        "id": 646,
+        "category": "JLPT N5",
+        "kanji": "四つ",
+        "kana": "よっつ",
+        "meaning": "넷"
+    },
+    {
+        "id": 647,
+        "category": "JLPT N5",
+        "kanji": "呼ぶ",
+        "kana": "よぶ",
+        "meaning": "부르다"
+    },
+    {
+        "id": 648,
+        "category": "JLPT N5",
+        "kanji": "読む",
+        "kana": "よむ",
+        "meaning": "읽다"
+    },
+    {
+        "id": 649,
+        "category": "JLPT N5",
+        "kanji": "夜",
+        "kana": "よる",
+        "meaning": "밤"
+    },
+    {
+        "id": 650,
+        "category": "JLPT N5",
+        "kanji": "弱い",
+        "kana": "よわい",
+        "meaning": "약한"
+    },
+    {
+        "id": 651,
+        "category": "JLPT N5",
+        "kanji": "来月",
+        "kana": "らいげつ",
+        "meaning": "다음달"
+    },
+    {
+        "id": 652,
+        "category": "JLPT N5",
+        "kanji": "来週",
+        "kana": "らいしゅう",
+        "meaning": "다음주"
+    },
+    {
+        "id": 653,
+        "category": "JLPT N5",
+        "kanji": "来年",
+        "kana": "らいねん",
+        "meaning": "내년"
+    },
+    {
+        "id": 654,
+        "category": "JLPT N5",
+        "kanji": "ラジオ",
+        "kana": "ラジオ",
+        "meaning": "라디오"
+    },
+    {
+        "id": 655,
+        "category": "JLPT N5",
+        "kanji": "ラジカセ",
+        "kana": "ラジカセ",
+        "meaning": "카세트"
+    },
+    {
+        "id": 656,
+        "category": "JLPT N5",
+        "kanji": "りっぱ",
+        "kana": "りっぱ",
+        "meaning": "훌륭함"
+    },
+    {
+        "id": 657,
+        "category": "JLPT N5",
+        "kanji": "留学生",
+        "kana": "りゅうがくせい",
+        "meaning": "유학생"
+    },
+    {
+        "id": 658,
+        "category": "JLPT N5",
+        "kanji": "両親",
+        "kana": "りょうしん",
+        "meaning": "부모"
+    },
+    {
+        "id": 659,
+        "category": "JLPT N5",
+        "kanji": "料理",
+        "kana": "りょうり",
+        "meaning": "요리"
+    },
+    {
+        "id": 660,
+        "category": "JLPT N5",
+        "kanji": "旅行",
+        "kana": "りょこう",
+        "meaning": "여행"
+    },
+    {
+        "id": 661,
+        "category": "JLPT N5",
+        "kanji": "零",
+        "kana": "れい",
+        "meaning": "영"
+    },
+    {
+        "id": 662,
+        "category": "JLPT N5",
+        "kanji": "冷蔵庫",
+        "kana": "れいぞうこ",
+        "meaning": "냉장고"
+    },
+    {
+        "id": 663,
+        "category": "JLPT N5",
+        "kanji": "レコード",
+        "kana": "レコード",
+        "meaning": "기록"
+    },
+    {
+        "id": 664,
+        "category": "JLPT N5",
+        "kanji": "レストラン",
+        "kana": "レストラン",
+        "meaning": "레스토랑"
+    },
+    {
+        "id": 665,
+        "category": "JLPT N5",
+        "kanji": "練習する",
+        "kana": "れんしゅうする",
+        "meaning": "연습"
+    },
+    {
+        "id": 666,
+        "category": "JLPT N5",
+        "kanji": "廊下",
+        "kana": "ろうか",
+        "meaning": "복도"
+    },
+    {
+        "id": 667,
+        "category": "JLPT N5",
+        "kanji": "六",
+        "kana": "ろく",
+        "meaning": "육"
+    },
+    {
+        "id": 668,
+        "category": "JLPT N5",
+        "kanji": "ワイシャツ",
+        "kana": "ワイシャツ",
+        "meaning": "셔츠"
+    },
+    {
+        "id": 669,
+        "category": "JLPT N5",
+        "kanji": "若い",
+        "kana": "わかい",
+        "meaning": "젊은"
+    },
+    {
+        "id": 670,
+        "category": "JLPT N5",
+        "kanji": "分かる",
+        "kana": "わかる",
+        "meaning": "알다"
+    },
+    {
+        "id": 671,
+        "category": "JLPT N5",
+        "kanji": "忘れる",
+        "kana": "わすれる",
+        "meaning": "잊어 버리다"
+    },
+    {
+        "id": 672,
+        "category": "JLPT N5",
+        "kanji": "私",
+        "kana": "わたくし",
+        "meaning": "나"
+    },
+    {
+        "id": 673,
+        "category": "JLPT N5",
+        "kanji": "渡す",
+        "kana": "わたす",
+        "meaning": "건네주다"
+    },
+    {
+        "id": 674,
+        "category": "JLPT N5",
+        "kanji": "渡る",
+        "kana": "わたる",
+        "meaning": "건너다"
+    },
+    {
+        "id": 675,
+        "category": "JLPT N5",
+        "kanji": "悪い",
+        "kana": "わるい",
+        "meaning": "나쁘다"
+    }
+]

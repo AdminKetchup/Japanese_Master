@@ -1,0 +1,4426 @@
+[
+    {
+        "id": 122,
+        "category": "JLPT N4",
+        "kanji": "挨拶",
+        "kana": "あいさつ",
+        "meaning": "인사"
+    },
+    {
+        "id": 123,
+        "category": "JLPT N4",
+        "kanji": "間",
+        "kana": "あいだ",
+        "meaning": "사이 / 동안"
+    },
+    {
+        "id": 124,
+        "category": "JLPT N4",
+        "kanji": "合う",
+        "kana": "あう",
+        "meaning": "맞다 / 어울리다"
+    },
+    {
+        "id": 125,
+        "category": "JLPT N4",
+        "kanji": "赤ん坊",
+        "kana": "あかんぼう",
+        "meaning": "아기"
+    },
+    {
+        "id": 126,
+        "category": "JLPT N4",
+        "kanji": "空く",
+        "kana": "あく",
+        "meaning": "비다"
+    },
+    {
+        "id": 127,
+        "category": "JLPT N4",
+        "kanji": "アクセサリー",
+        "kana": "あくせさりー",
+        "meaning": "액세서리"
+    },
+    {
+        "id": 128,
+        "category": "JLPT N4",
+        "kanji": "浅い",
+        "kana": "あさい",
+        "meaning": "얕다"
+    },
+    {
+        "id": 129,
+        "category": "JLPT N4",
+        "kanji": "味",
+        "kana": "あじ",
+        "meaning": "맛"
+    },
+    {
+        "id": 130,
+        "category": "JLPT N4",
+        "kanji": "アジア",
+        "kana": "あじあ",
+        "meaning": "아시아"
+    },
+    {
+        "id": 131,
+        "category": "JLPT N4",
+        "kanji": "明日",
+        "kana": "あす",
+        "meaning": "내일 (격식)"
+    },
+    {
+        "id": 132,
+        "category": "JLPT N4",
+        "kanji": "遊び",
+        "kana": "あそび",
+        "meaning": "놀이"
+    },
+    {
+        "id": 133,
+        "category": "JLPT N4",
+        "kanji": "集まる",
+        "kana": "あつまる",
+        "meaning": "모이다"
+    },
+    {
+        "id": 134,
+        "category": "JLPT N4",
+        "kanji": "集める",
+        "kana": "あつめる",
+        "meaning": "모으다"
+    },
+    {
+        "id": 135,
+        "category": "JLPT N4",
+        "kanji": "アナウンサー",
+        "kana": "あなうんさー",
+        "meaning": "아나운서"
+    },
+    {
+        "id": 136,
+        "category": "JLPT N4",
+        "kanji": "アフリカ",
+        "kana": "あふりか",
+        "meaning": "아프리카"
+    },
+    {
+        "id": 137,
+        "category": "JLPT N4",
+        "kanji": "アメリカ",
+        "kana": "あめりか",
+        "meaning": "미국"
+    },
+    {
+        "id": 138,
+        "category": "JLPT N4",
+        "kanji": "謝る",
+        "kana": "あやまる",
+        "meaning": "사과하다"
+    },
+    {
+        "id": 139,
+        "category": "JLPT N4",
+        "kanji": "アルコール",
+        "kana": "あるこーる",
+        "meaning": "알코올"
+    },
+    {
+        "id": 140,
+        "category": "JLPT N4",
+        "kanji": "アルバイト",
+        "kana": "あるばいと",
+        "meaning": "아르바이트"
+    },
+    {
+        "id": 141,
+        "category": "JLPT N4",
+        "kanji": "安心",
+        "kana": "あんしん",
+        "meaning": "안심"
+    },
+    {
+        "id": 142,
+        "category": "JLPT N4",
+        "kanji": "あいさつする",
+        "kana": "あいさつする",
+        "meaning": "인사하다 / to greet"
+    },
+    {
+        "id": 143,
+        "category": "JLPT N4",
+        "kanji": "あかちゃん",
+        "kana": "あかちゃん",
+        "meaning": "아기 / infant"
+    },
+    {
+        "id": 144,
+        "category": "JLPT N4",
+        "kanji": "上がる",
+        "kana": "あがる",
+        "meaning": "오르다 / to rise"
+    },
+    {
+        "id": 145,
+        "category": "JLPT N4",
+        "kanji": "あげる",
+        "kana": "あげる",
+        "meaning": "주다 / to give"
+    },
+    {
+        "id": 146,
+        "category": "JLPT N4",
+        "kanji": "集る",
+        "kana": "たかる",
+        "meaning": "모이다 / to gather"
+    },
+    {
+        "id": 147,
+        "category": "JLPT N4",
+        "kanji": "安全",
+        "kana": "あんぜん",
+        "meaning": "안전 / safety"
+    },
+    {
+        "id": 148,
+        "category": "JLPT N4",
+        "kanji": "あんな",
+        "kana": "あんな",
+        "meaning": "저런 / such"
+    },
+    {
+        "id": 149,
+        "category": "JLPT N4",
+        "kanji": "案内する",
+        "kana": "あんないする",
+        "meaning": "안내하다 / to guide"
+    },
+    {
+        "id": 150,
+        "category": "JLPT N4",
+        "kanji": "以下",
+        "kana": "いか",
+        "meaning": "이하 / less than"
+    },
+    {
+        "id": 151,
+        "category": "JLPT N4",
+        "kanji": "以外",
+        "kana": "いがい",
+        "meaning": "이외 / with the exception of"
+    },
+    {
+        "id": 152,
+        "category": "JLPT N4",
+        "kanji": "医学",
+        "kana": "いがく",
+        "meaning": "의학 / medical science"
+    },
+    {
+        "id": 153,
+        "category": "JLPT N4",
+        "kanji": "生きる",
+        "kana": "いきる",
+        "meaning": "살다 / to live"
+    },
+    {
+        "id": 154,
+        "category": "JLPT N4",
+        "kanji": "意見",
+        "kana": "いけん",
+        "meaning": "의견 / opinion"
+    },
+    {
+        "id": 155,
+        "category": "JLPT N4",
+        "kanji": "石",
+        "kana": "いし",
+        "meaning": "돌 / stone"
+    },
+    {
+        "id": 156,
+        "category": "JLPT N4",
+        "kanji": "いじめる",
+        "kana": "いじめる",
+        "meaning": "애타게하다 / to tease"
+    },
+    {
+        "id": 157,
+        "category": "JLPT N4",
+        "kanji": "以上",
+        "kana": "いじょう",
+        "meaning": "이상 / more than,this is all"
+    },
+    {
+        "id": 158,
+        "category": "JLPT N4",
+        "kanji": "急ぐ",
+        "kana": "いそぐ",
+        "meaning": "서두르다 / to hurry"
+    },
+    {
+        "id": 159,
+        "category": "JLPT N4",
+        "kanji": "致す",
+        "kana": "いたす",
+        "meaning": "가져오다 / to do"
+    },
+    {
+        "id": 160,
+        "category": "JLPT N4",
+        "kanji": "いただく",
+        "kana": "いただく",
+        "meaning": "받다 / to receive"
+    },
+    {
+        "id": 161,
+        "category": "JLPT N4",
+        "kanji": "一度",
+        "kana": "いちど",
+        "meaning": "일단 / once"
+    },
+    {
+        "id": 162,
+        "category": "JLPT N4",
+        "kanji": "一生懸命",
+        "kana": "いっしょうけんめい",
+        "meaning": "목숨 걸고 일함 / with utmost effort"
+    },
+    {
+        "id": 163,
+        "category": "JLPT N4",
+        "kanji": "いっぱい",
+        "kana": "いっぱい",
+        "meaning": "가득 / full"
+    },
+    {
+        "id": 164,
+        "category": "JLPT N4",
+        "kanji": "糸",
+        "kana": "いと",
+        "meaning": "실 / thread"
+    },
+    {
+        "id": 165,
+        "category": "JLPT N4",
+        "kanji": "以内",
+        "kana": "いない",
+        "meaning": "이내 / within"
+    },
+    {
+        "id": 166,
+        "category": "JLPT N4",
+        "kanji": "田舎",
+        "kana": "いなか",
+        "meaning": "시골 / countryside"
+    },
+    {
+        "id": 167,
+        "category": "JLPT N4",
+        "kanji": "祈る",
+        "kana": "いのる",
+        "meaning": "빌다 / to pray"
+    },
+    {
+        "id": 168,
+        "category": "JLPT N4",
+        "kanji": "いらっしゃる",
+        "kana": "いらっしゃる",
+        "meaning": "오시다 / to be,to come or to go"
+    },
+    {
+        "id": 169,
+        "category": "JLPT N4",
+        "kanji": "植える",
+        "kana": "うえる",
+        "meaning": "심다 / to plant,to grow"
+    },
+    {
+        "id": 170,
+        "category": "JLPT N4",
+        "kanji": "うかがう",
+        "kana": "うかがう",
+        "meaning": "방문하다 / to visit"
+    },
+    {
+        "id": 171,
+        "category": "JLPT N4",
+        "kanji": "受付",
+        "kana": "うけつけ",
+        "meaning": "접수 / receipt"
+    },
+    {
+        "id": 172,
+        "category": "JLPT N4",
+        "kanji": "受ける",
+        "kana": "うける",
+        "meaning": "받다 / to take a lesson or test"
+    },
+    {
+        "id": 173,
+        "category": "JLPT N4",
+        "kanji": "動く",
+        "kana": "うごく",
+        "meaning": "움직이다 / to move"
+    },
+    {
+        "id": 174,
+        "category": "JLPT N4",
+        "kanji": "うそ",
+        "kana": "うそ",
+        "meaning": "거짓말 / a lie"
+    },
+    {
+        "id": 175,
+        "category": "JLPT N4",
+        "kanji": "うち",
+        "kana": "うち",
+        "meaning": "안쪽 / within"
+    },
+    {
+        "id": 176,
+        "category": "JLPT N4",
+        "kanji": "打つ",
+        "kana": "うつ",
+        "meaning": "때리다 / to hit"
+    },
+    {
+        "id": 177,
+        "category": "JLPT N4",
+        "kanji": "美しい",
+        "kana": "うつくしい",
+        "meaning": "아름다운 / beautiful"
+    },
+    {
+        "id": 178,
+        "category": "JLPT N4",
+        "kanji": "写す",
+        "kana": "うつす",
+        "meaning": "찍다 / to copy or photograph"
+    },
+    {
+        "id": 179,
+        "category": "JLPT N4",
+        "kanji": "移る",
+        "kana": "うつる",
+        "meaning": "이동하다 / to move house or transfer"
+    },
+    {
+        "id": 180,
+        "category": "JLPT N4",
+        "kanji": "腕",
+        "kana": "うで",
+        "meaning": "팔 / arm"
+    },
+    {
+        "id": 181,
+        "category": "JLPT N4",
+        "kanji": "うまい",
+        "kana": "うまい",
+        "meaning": "맛있는 / delicious"
+    },
+    {
+        "id": 182,
+        "category": "JLPT N4",
+        "kanji": "裏",
+        "kana": "うら",
+        "meaning": "뒷면 / reverse side"
+    },
+    {
+        "id": 183,
+        "category": "JLPT N4",
+        "kanji": "売り場",
+        "kana": "うりば",
+        "meaning": "매장 / place where things are sold"
+    },
+    {
+        "id": 184,
+        "category": "JLPT N4",
+        "kanji": "うれしい",
+        "kana": "うれしい",
+        "meaning": "기쁜 / glad"
+    },
+    {
+        "id": 185,
+        "category": "JLPT N4",
+        "kanji": "うん",
+        "kana": "うん",
+        "meaning": "예 / yes"
+    },
+    {
+        "id": 186,
+        "category": "JLPT N4",
+        "kanji": "運転する",
+        "kana": "うんてんする",
+        "meaning": "운전하다 / to drive"
+    },
+    {
+        "id": 187,
+        "category": "JLPT N4",
+        "kanji": "運転手",
+        "kana": "うんてんしゅ",
+        "meaning": "운전수 / driver"
+    },
+    {
+        "id": 188,
+        "category": "JLPT N4",
+        "kanji": "運動する",
+        "kana": "うんどうする",
+        "meaning": "운동하다 / to exercise"
+    },
+    {
+        "id": 189,
+        "category": "JLPT N4",
+        "kanji": "エスカレーター",
+        "kana": "エスカレーター",
+        "meaning": "에스컬레이터 / escalator"
+    },
+    {
+        "id": 190,
+        "category": "JLPT N4",
+        "kanji": "枝",
+        "kana": "えだ",
+        "meaning": "나뭇 가지 / branch, twig"
+    },
+    {
+        "id": 191,
+        "category": "JLPT N4",
+        "kanji": "選ぶ",
+        "kana": "えらぶ",
+        "meaning": "선택하다 / to choose"
+    },
+    {
+        "id": 192,
+        "category": "JLPT N4",
+        "kanji": "遠慮する",
+        "kana": "えんりょする",
+        "meaning": "사양하다 / to be restrained"
+    },
+    {
+        "id": 193,
+        "category": "JLPT N4",
+        "kanji": "おいでになる",
+        "kana": "おいでになる",
+        "meaning": "오시다 / to be"
+    },
+    {
+        "id": 194,
+        "category": "JLPT N4",
+        "kanji": "お祝い",
+        "kana": "おいわい",
+        "meaning": "축하 / congratulation"
+    },
+    {
+        "id": 195,
+        "category": "JLPT N4",
+        "kanji": "オートバイ",
+        "kana": "オートバイ",
+        "meaning": "오토바이 / motorcycle"
+    },
+    {
+        "id": 196,
+        "category": "JLPT N4",
+        "kanji": "おかげ",
+        "kana": "おかげ",
+        "meaning": "덕분 / owing to"
+    },
+    {
+        "id": 197,
+        "category": "JLPT N4",
+        "kanji": "おかしい",
+        "kana": "おかしい",
+        "meaning": "재미있는 / strange or funny"
+    },
+    {
+        "id": 198,
+        "category": "JLPT N4",
+        "kanji": "億",
+        "kana": "おく",
+        "meaning": "일억 / one hundred million"
+    },
+    {
+        "id": 199,
+        "category": "JLPT N4",
+        "kanji": "屋上",
+        "kana": "おくじょう",
+        "meaning": "옥상 / rooftop"
+    },
+    {
+        "id": 200,
+        "category": "JLPT N4",
+        "kanji": "贈り物",
+        "kana": "おくりもの",
+        "meaning": "선물 / gift"
+    },
+    {
+        "id": 201,
+        "category": "JLPT N4",
+        "kanji": "送る",
+        "kana": "おくる",
+        "meaning": "보내다 / to send"
+    },
+    {
+        "id": 202,
+        "category": "JLPT N4",
+        "kanji": "遅れる",
+        "kana": "おくれる",
+        "meaning": "늦다 / to be late"
+    },
+    {
+        "id": 203,
+        "category": "JLPT N4",
+        "kanji": "起す",
+        "kana": "おこす",
+        "meaning": "깨우다 / to wake"
+    },
+    {
+        "id": 204,
+        "category": "JLPT N4",
+        "kanji": "行う",
+        "kana": "おこなう",
+        "meaning": "하다 / to do"
+    },
+    {
+        "id": 205,
+        "category": "JLPT N4",
+        "kanji": "怒る",
+        "kana": "おこる",
+        "meaning": "화내다 / to get angry,to be angry"
+    },
+    {
+        "id": 206,
+        "category": "JLPT N4",
+        "kanji": "押し入れ",
+        "kana": "おしいれ",
+        "meaning": "옷장 / closet"
+    },
+    {
+        "id": 207,
+        "category": "JLPT N4",
+        "kanji": "お嬢さん",
+        "kana": "おじょうさん",
+        "meaning": "아가씨 / young lady"
+    },
+    {
+        "id": 208,
+        "category": "JLPT N4",
+        "kanji": "お宅",
+        "kana": "おたく",
+        "meaning": "댁 / your house"
+    },
+    {
+        "id": 209,
+        "category": "JLPT N4",
+        "kanji": "落ちる",
+        "kana": "おちる",
+        "meaning": "떨어지다 / to fall or drop"
+    },
+    {
+        "id": 210,
+        "category": "JLPT N4",
+        "kanji": "おっしゃる",
+        "kana": "おっしゃる",
+        "meaning": "말씀하시다 / to say"
+    },
+    {
+        "id": 211,
+        "category": "JLPT N4",
+        "kanji": "夫",
+        "kana": "おっと",
+        "meaning": "남편 / husband"
+    },
+    {
+        "id": 212,
+        "category": "JLPT N4",
+        "kanji": "おつり",
+        "kana": "おつり",
+        "meaning": "잔돈 / change from purchase, balance"
+    },
+    {
+        "id": 213,
+        "category": "JLPT N4",
+        "kanji": "音",
+        "kana": "おと",
+        "meaning": "소리 / sound,note"
+    },
+    {
+        "id": 214,
+        "category": "JLPT N4",
+        "kanji": "落す",
+        "kana": "おとす",
+        "meaning": "떨어 뜨리다 / to drop"
+    },
+    {
+        "id": 215,
+        "category": "JLPT N4",
+        "kanji": "踊り",
+        "kana": "おどり",
+        "meaning": "춤 / a dance"
+    },
+    {
+        "id": 216,
+        "category": "JLPT N4",
+        "kanji": "踊る",
+        "kana": "おどる",
+        "meaning": "춤추다 / to dance"
+    },
+    {
+        "id": 217,
+        "category": "JLPT N4",
+        "kanji": "驚く",
+        "kana": "おどろく",
+        "meaning": "놀라다 / to be surprised"
+    },
+    {
+        "id": 218,
+        "category": "JLPT N4",
+        "kanji": "お祭り",
+        "kana": "おまつり",
+        "meaning": "축제 / festival"
+    },
+    {
+        "id": 219,
+        "category": "JLPT N4",
+        "kanji": "お見舞い",
+        "kana": "おみまい",
+        "meaning": "병문안 / calling on someone who is ill,enquiry"
+    },
+    {
+        "id": 220,
+        "category": "JLPT N4",
+        "kanji": "お土産",
+        "kana": "おみやげ",
+        "meaning": "기념품 / souvenir"
+    },
+    {
+        "id": 221,
+        "category": "JLPT N4",
+        "kanji": "思い出す",
+        "kana": "おもいだす",
+        "meaning": "기억하다 / to remember"
+    },
+    {
+        "id": 222,
+        "category": "JLPT N4",
+        "kanji": "思う",
+        "kana": "おもう",
+        "meaning": "생각하다 / to think,to feel"
+    },
+    {
+        "id": 223,
+        "category": "JLPT N4",
+        "kanji": "おもちゃ",
+        "kana": "おもちゃ",
+        "meaning": "장난감 / toy"
+    },
+    {
+        "id": 224,
+        "category": "JLPT N4",
+        "kanji": "表",
+        "kana": "ひょう",
+        "meaning": "표면 / the front"
+    },
+    {
+        "id": 225,
+        "category": "JLPT N4",
+        "kanji": "親",
+        "kana": "おや",
+        "meaning": "부모 / parents"
+    },
+    {
+        "id": 226,
+        "category": "JLPT N4",
+        "kanji": "下りる",
+        "kana": "おりる",
+        "meaning": "내리다 / to get off"
+    },
+    {
+        "id": 227,
+        "category": "JLPT N4",
+        "kanji": "折る",
+        "kana": "おる",
+        "meaning": "접다 / to fold"
+    },
+    {
+        "id": 228,
+        "category": "JLPT N4",
+        "kanji": "お礼",
+        "kana": "おれい",
+        "meaning": "사례 / expression of gratitude"
+    },
+    {
+        "id": 229,
+        "category": "JLPT N4",
+        "kanji": "折れる",
+        "kana": "おれる",
+        "meaning": "접히다 / to be folded"
+    },
+    {
+        "id": 230,
+        "category": "JLPT N4",
+        "kanji": "終わり",
+        "kana": "おわり",
+        "meaning": "끝 / the end"
+    },
+    {
+        "id": 231,
+        "category": "JLPT N4",
+        "kanji": "カーテン",
+        "kana": "カーテン",
+        "meaning": "커튼 / curtain"
+    },
+    {
+        "id": 232,
+        "category": "JLPT N4",
+        "kanji": "海岸",
+        "kana": "かいがん",
+        "meaning": "해안 / coast"
+    },
+    {
+        "id": 233,
+        "category": "JLPT N4",
+        "kanji": "会議",
+        "kana": "かいぎ",
+        "meaning": "회의 / meeting"
+    },
+    {
+        "id": 234,
+        "category": "JLPT N4",
+        "kanji": "会議室",
+        "kana": "かいぎしつ",
+        "meaning": "회의실 / meeting room"
+    },
+    {
+        "id": 235,
+        "category": "JLPT N4",
+        "kanji": "会場",
+        "kana": "かいじょう",
+        "meaning": "회의장 / meeting place"
+    },
+    {
+        "id": 236,
+        "category": "JLPT N4",
+        "kanji": "会話",
+        "kana": "かいわ",
+        "meaning": "대화 / conversation"
+    },
+    {
+        "id": 237,
+        "category": "JLPT N4",
+        "kanji": "帰り",
+        "kana": "かえり",
+        "meaning": "귀가 / return"
+    },
+    {
+        "id": 238,
+        "category": "JLPT N4",
+        "kanji": "変える",
+        "kana": "かえる",
+        "meaning": "바꾸다 / to change"
+    },
+    {
+        "id": 239,
+        "category": "JLPT N4",
+        "kanji": "科学",
+        "kana": "かがく",
+        "meaning": "과학 / science"
+    },
+    {
+        "id": 240,
+        "category": "JLPT N4",
+        "kanji": "鏡",
+        "kana": "かがみ",
+        "meaning": "거울 / mirror"
+    },
+    {
+        "id": 241,
+        "category": "JLPT N4",
+        "kanji": "掛ける",
+        "kana": "かける",
+        "meaning": "걸다 / to hang something"
+    },
+    {
+        "id": 242,
+        "category": "JLPT N4",
+        "kanji": "飾る",
+        "kana": "かざる",
+        "meaning": "꾸미다 / to decorate"
+    },
+    {
+        "id": 243,
+        "category": "JLPT N4",
+        "kanji": "火事",
+        "kana": "かじ",
+        "meaning": "화재 / fire"
+    },
+    {
+        "id": 244,
+        "category": "JLPT N4",
+        "kanji": "ガス",
+        "kana": "ガス",
+        "meaning": "가스 / petrol"
+    },
+    {
+        "id": 245,
+        "category": "JLPT N4",
+        "kanji": "ガソリン",
+        "kana": "ガソリン",
+        "meaning": "가솔린 / petrol"
+    },
+    {
+        "id": 246,
+        "category": "JLPT N4",
+        "kanji": "ガソリンスタンド",
+        "kana": "ガソリンスタンド",
+        "meaning": "주유소 / petrol station"
+    },
+    {
+        "id": 247,
+        "category": "JLPT N4",
+        "kanji": "堅い",
+        "kana": "かたい",
+        "meaning": "단단한 / hard"
+    },
+    {
+        "id": 248,
+        "category": "JLPT N4",
+        "kanji": "形",
+        "kana": "かたち",
+        "meaning": "형태 / shape"
+    },
+    {
+        "id": 249,
+        "category": "JLPT N4",
+        "kanji": "片付ける",
+        "kana": "かたづける",
+        "meaning": "정리하다 / to tidy up"
+    },
+    {
+        "id": 250,
+        "category": "JLPT N4",
+        "kanji": "課長",
+        "kana": "かちょう",
+        "meaning": "과장 / section manager"
+    },
+    {
+        "id": 251,
+        "category": "JLPT N4",
+        "kanji": "勝つ",
+        "kana": "かつ",
+        "meaning": "이기다 / to win"
+    },
+    {
+        "id": 252,
+        "category": "JLPT N4",
+        "kanji": "かっこう",
+        "kana": "かっこう",
+        "meaning": "모습 / appearance"
+    },
+    {
+        "id": 253,
+        "category": "JLPT N4",
+        "kanji": "家内",
+        "kana": "かない",
+        "meaning": "아내 / housewife"
+    },
+    {
+        "id": 254,
+        "category": "JLPT N4",
+        "kanji": "悲しい",
+        "kana": "かなしい",
+        "meaning": "슬픈 / sad"
+    },
+    {
+        "id": 255,
+        "category": "JLPT N4",
+        "kanji": "必ず",
+        "kana": "かならず",
+        "meaning": "반드시 / certainly"
+    },
+    {
+        "id": 256,
+        "category": "JLPT N4",
+        "kanji": "お金持ち",
+        "kana": "おかねもち",
+        "meaning": "부자 / rich man"
+    },
+    {
+        "id": 257,
+        "category": "JLPT N4",
+        "kanji": "彼女",
+        "kana": "かのじょ",
+        "meaning": "그녀 / she"
+    },
+    {
+        "id": 258,
+        "category": "JLPT N4",
+        "kanji": "壁",
+        "kana": "かべ",
+        "meaning": "벽 / wall"
+    },
+    {
+        "id": 259,
+        "category": "JLPT N4",
+        "kanji": "かまう",
+        "kana": "かまう",
+        "meaning": "마음을 쓰다 / to mind"
+    },
+    {
+        "id": 260,
+        "category": "JLPT N4",
+        "kanji": "髪",
+        "kana": "かみ",
+        "meaning": "머리 / hair"
+    },
+    {
+        "id": 261,
+        "category": "JLPT N4",
+        "kanji": "噛む",
+        "kana": "かむ",
+        "meaning": "씹다 / to chew"
+    },
+    {
+        "id": 262,
+        "category": "JLPT N4",
+        "kanji": "通う",
+        "kana": "かよう",
+        "meaning": "다니다 / to commute"
+    },
+    {
+        "id": 263,
+        "category": "JLPT N4",
+        "kanji": "ガラス",
+        "kana": "ガラス",
+        "meaning": "유리 / a glass pane"
+    },
+    {
+        "id": 264,
+        "category": "JLPT N4",
+        "kanji": "彼",
+        "kana": "かれ",
+        "meaning": "그 / he,boyfriend"
+    },
+    {
+        "id": 265,
+        "category": "JLPT N4",
+        "kanji": "彼ら",
+        "kana": "かれら",
+        "meaning": "그들 / they"
+    },
+    {
+        "id": 266,
+        "category": "JLPT N4",
+        "kanji": "乾く",
+        "kana": "かわく",
+        "meaning": "건조하다 / to get dry"
+    },
+    {
+        "id": 267,
+        "category": "JLPT N4",
+        "kanji": "代わり",
+        "kana": "かわり",
+        "meaning": "대신 / substitute"
+    },
+    {
+        "id": 268,
+        "category": "JLPT N4",
+        "kanji": "変わる",
+        "kana": "かわる",
+        "meaning": "바꾸다 / to change"
+    },
+    {
+        "id": 269,
+        "category": "JLPT N4",
+        "kanji": "考える",
+        "kana": "かんがえる",
+        "meaning": "고려하다 / to consider"
+    },
+    {
+        "id": 270,
+        "category": "JLPT N4",
+        "kanji": "関係",
+        "kana": "かんけい",
+        "meaning": "관계 / relationship"
+    },
+    {
+        "id": 271,
+        "category": "JLPT N4",
+        "kanji": "看護婦",
+        "kana": "かんごふ",
+        "meaning": "간호사 / female nurse"
+    },
+    {
+        "id": 272,
+        "category": "JLPT N4",
+        "kanji": "簡単",
+        "kana": "かんたん",
+        "meaning": "간단 / simple"
+    },
+    {
+        "id": 273,
+        "category": "JLPT N4",
+        "kanji": "気",
+        "kana": "き",
+        "meaning": "신경 / spirit,mood"
+    },
+    {
+        "id": 274,
+        "category": "JLPT N4",
+        "kanji": "機会",
+        "kana": "きかい",
+        "meaning": "기회 / opportunity"
+    },
+    {
+        "id": 275,
+        "category": "JLPT N4",
+        "kanji": "危険",
+        "kana": "きけん",
+        "meaning": "위험 / danger"
+    },
+    {
+        "id": 276,
+        "category": "JLPT N4",
+        "kanji": "聞こえる",
+        "kana": "きこえる",
+        "meaning": "들리다 / to be heard"
+    },
+    {
+        "id": 277,
+        "category": "JLPT N4",
+        "kanji": "汽車",
+        "kana": "きしゃ",
+        "meaning": "기차 / steam train"
+    },
+    {
+        "id": 278,
+        "category": "JLPT N4",
+        "kanji": "技術",
+        "kana": "ぎじゅつ",
+        "meaning": "기술 / art,technology,skill"
+    },
+    {
+        "id": 279,
+        "category": "JLPT N4",
+        "kanji": "季節",
+        "kana": "きせつ",
+        "meaning": "계절 / season"
+    },
+    {
+        "id": 280,
+        "category": "JLPT N4",
+        "kanji": "規則",
+        "kana": "きそく",
+        "meaning": "규칙 / regulations"
+    },
+    {
+        "id": 281,
+        "category": "JLPT N4",
+        "kanji": "きっと",
+        "kana": "きっと",
+        "meaning": "반드시 / surely"
+    },
+    {
+        "id": 282,
+        "category": "JLPT N4",
+        "kanji": "絹",
+        "kana": "きぬ",
+        "meaning": "실크 / silk"
+    },
+    {
+        "id": 283,
+        "category": "JLPT N4",
+        "kanji": "厳しい",
+        "kana": "きびしい",
+        "meaning": "엄격한 / strict"
+    },
+    {
+        "id": 284,
+        "category": "JLPT N4",
+        "kanji": "気分",
+        "kana": "きぶん",
+        "meaning": "기분 / mood"
+    },
+    {
+        "id": 285,
+        "category": "JLPT N4",
+        "kanji": "決る",
+        "kana": "きまる",
+        "meaning": "결정되다 / to be decided"
+    },
+    {
+        "id": 286,
+        "category": "JLPT N4",
+        "kanji": "君",
+        "kana": "きみ",
+        "meaning": "너 / You"
+    },
+    {
+        "id": 287,
+        "category": "JLPT N4",
+        "kanji": "決める",
+        "kana": "きめる",
+        "meaning": "결정하다 / to decide"
+    },
+    {
+        "id": 288,
+        "category": "JLPT N4",
+        "kanji": "気持ち",
+        "kana": "きもち",
+        "meaning": "마음 / feeling,mood"
+    },
+    {
+        "id": 289,
+        "category": "JLPT N4",
+        "kanji": "着物",
+        "kana": "きもの",
+        "meaning": "일본 옷 / kimono"
+    },
+    {
+        "id": 290,
+        "category": "JLPT N4",
+        "kanji": "客",
+        "kana": "きゃく",
+        "meaning": "고객 / guest,customer"
+    },
+    {
+        "id": 291,
+        "category": "JLPT N4",
+        "kanji": "急",
+        "kana": "きゅう",
+        "meaning": "갑자기 / urgent, steep"
+    },
+    {
+        "id": 292,
+        "category": "JLPT N4",
+        "kanji": "急行",
+        "kana": "きゅうこう",
+        "meaning": "급행 / speedy, express"
+    },
+    {
+        "id": 293,
+        "category": "JLPT N4",
+        "kanji": "教育",
+        "kana": "きょういく",
+        "meaning": "교육 / education"
+    },
+    {
+        "id": 294,
+        "category": "JLPT N4",
+        "kanji": "教会",
+        "kana": "きょうかい",
+        "meaning": "교회 / church"
+    },
+    {
+        "id": 295,
+        "category": "JLPT N4",
+        "kanji": "競争",
+        "kana": "きょうそう",
+        "meaning": "경쟁 / competition"
+    },
+    {
+        "id": 296,
+        "category": "JLPT N4",
+        "kanji": "興味",
+        "kana": "きょうみ",
+        "meaning": "흥미 / an interest"
+    },
+    {
+        "id": 297,
+        "category": "JLPT N4",
+        "kanji": "近所",
+        "kana": "きんじょ",
+        "meaning": "인근 / neighbourhood"
+    },
+    {
+        "id": 298,
+        "category": "JLPT N4",
+        "kanji": "具合",
+        "kana": "ぐあい",
+        "meaning": "상태 / condition,health"
+    },
+    {
+        "id": 299,
+        "category": "JLPT N4",
+        "kanji": "空気",
+        "kana": "くうき",
+        "meaning": "공기 / air,atmosphere"
+    },
+    {
+        "id": 300,
+        "category": "JLPT N4",
+        "kanji": "空港",
+        "kana": "くうこう",
+        "meaning": "공항 / airport"
+    },
+    {
+        "id": 301,
+        "category": "JLPT N4",
+        "kanji": "草",
+        "kana": "くさ",
+        "meaning": "잔디 / grass"
+    },
+    {
+        "id": 302,
+        "category": "JLPT N4",
+        "kanji": "くださる",
+        "kana": "くださる",
+        "meaning": "주시다 / to give"
+    },
+    {
+        "id": 303,
+        "category": "JLPT N4",
+        "kanji": "首",
+        "kana": "くび",
+        "meaning": "목 / neck"
+    },
+    {
+        "id": 304,
+        "category": "JLPT N4",
+        "kanji": "雲",
+        "kana": "くも",
+        "meaning": "구름 / cloud"
+    },
+    {
+        "id": 305,
+        "category": "JLPT N4",
+        "kanji": "比べる",
+        "kana": "くらべる",
+        "meaning": "비교하다 / to compare"
+    },
+    {
+        "id": 306,
+        "category": "JLPT N4",
+        "kanji": "くれる",
+        "kana": "くれる",
+        "meaning": "주다 / to give"
+    },
+    {
+        "id": 307,
+        "category": "JLPT N4",
+        "kanji": "暮れる",
+        "kana": "くれる",
+        "meaning": "저물다 / to get dark,to come to an end"
+    },
+    {
+        "id": 308,
+        "category": "JLPT N4",
+        "kanji": "毛",
+        "kana": "もう",
+        "meaning": "머리카락 / hair or fur"
+    },
+    {
+        "id": 309,
+        "category": "JLPT N4",
+        "kanji": "計画する",
+        "kana": "けいかくする",
+        "meaning": "계획하다 / to plan"
+    },
+    {
+        "id": 310,
+        "category": "JLPT N4",
+        "kanji": "経験する",
+        "kana": "けいけんする",
+        "meaning": "경험하다 / to experience"
+    },
+    {
+        "id": 311,
+        "category": "JLPT N4",
+        "kanji": "経済",
+        "kana": "けいざい",
+        "meaning": "경제 / finance,economy"
+    },
+    {
+        "id": 312,
+        "category": "JLPT N4",
+        "kanji": "警察",
+        "kana": "けいさつ",
+        "meaning": "경찰 / police"
+    },
+    {
+        "id": 313,
+        "category": "JLPT N4",
+        "kanji": "ケーキ",
+        "kana": "ケーキ",
+        "meaning": "케이크 / cake"
+    },
+    {
+        "id": 314,
+        "category": "JLPT N4",
+        "kanji": "けがする",
+        "kana": "けがする",
+        "meaning": "다치다 / to injure"
+    },
+    {
+        "id": 315,
+        "category": "JLPT N4",
+        "kanji": "景色",
+        "kana": "けしき",
+        "meaning": "전망 / scene,landscape"
+    },
+    {
+        "id": 316,
+        "category": "JLPT N4",
+        "kanji": "消しゴム",
+        "kana": "けしごむ",
+        "meaning": "지우개 / eraser"
+    },
+    {
+        "id": 317,
+        "category": "JLPT N4",
+        "kanji": "下宿",
+        "kana": "げしゅく",
+        "meaning": "하숙 / lodging"
+    },
+    {
+        "id": 318,
+        "category": "JLPT N4",
+        "kanji": "決して",
+        "kana": "けっして",
+        "meaning": "결코 / never"
+    },
+    {
+        "id": 319,
+        "category": "JLPT N4",
+        "kanji": "けれど",
+        "kana": "けれど",
+        "meaning": "그렇지만 / however"
+    },
+    {
+        "id": 320,
+        "category": "JLPT N4",
+        "kanji": "原因",
+        "kana": "げんいん",
+        "meaning": "원인 / cause,source"
+    },
+    {
+        "id": 321,
+        "category": "JLPT N4",
+        "kanji": "けんかする",
+        "kana": "けんかする",
+        "meaning": "싸움하다 / to quarrel"
+    },
+    {
+        "id": 322,
+        "category": "JLPT N4",
+        "kanji": "研究",
+        "kana": "けんきゅう",
+        "meaning": "연구 / research"
+    },
+    {
+        "id": 323,
+        "category": "JLPT N4",
+        "kanji": "研究室",
+        "kana": "けんきゅうしつ",
+        "meaning": "연구실 / study room,laboratory"
+    },
+    {
+        "id": 324,
+        "category": "JLPT N4",
+        "kanji": "見物",
+        "kana": "けんぶつ",
+        "meaning": "구경 / sightseeing"
+    },
+    {
+        "id": 325,
+        "category": "JLPT N4",
+        "kanji": "子",
+        "kana": "こ",
+        "meaning": "아이 / child"
+    },
+    {
+        "id": 326,
+        "category": "JLPT N4",
+        "kanji": "こう",
+        "kana": "こう",
+        "meaning": "이렇게 / this way"
+    },
+    {
+        "id": 327,
+        "category": "JLPT N4",
+        "kanji": "郊外",
+        "kana": "こうがい",
+        "meaning": "교외 / outskirts"
+    },
+    {
+        "id": 328,
+        "category": "JLPT N4",
+        "kanji": "講義",
+        "kana": "こうぎ",
+        "meaning": "강의 / lecture"
+    },
+    {
+        "id": 329,
+        "category": "JLPT N4",
+        "kanji": "工業",
+        "kana": "こうぎょう",
+        "meaning": "공업 / the manufacturing industry"
+    },
+    {
+        "id": 330,
+        "category": "JLPT N4",
+        "kanji": "高校",
+        "kana": "こうこう",
+        "meaning": "고등학교 / high school"
+    },
+    {
+        "id": 331,
+        "category": "JLPT N4",
+        "kanji": "高校生",
+        "kana": "こうこうせい",
+        "meaning": "고교생 / high school student"
+    },
+    {
+        "id": 332,
+        "category": "JLPT N4",
+        "kanji": "工場",
+        "kana": "こうじょう",
+        "meaning": "공장 / factory"
+    },
+    {
+        "id": 333,
+        "category": "JLPT N4",
+        "kanji": "校長",
+        "kana": "こうちょう",
+        "meaning": "교장 / headmaster"
+    },
+    {
+        "id": 334,
+        "category": "JLPT N4",
+        "kanji": "交通",
+        "kana": "こうつう",
+        "meaning": "교통 / traffic,transportation"
+    },
+    {
+        "id": 335,
+        "category": "JLPT N4",
+        "kanji": "講堂",
+        "kana": "こうどう",
+        "meaning": "강당 / auditorium"
+    },
+    {
+        "id": 336,
+        "category": "JLPT N4",
+        "kanji": "高等学校",
+        "kana": "こうとうがっこう",
+        "meaning": "고등학교 / high school"
+    },
+    {
+        "id": 337,
+        "category": "JLPT N4",
+        "kanji": "公務員",
+        "kana": "こうむいん",
+        "meaning": "공무원 / government worker"
+    },
+    {
+        "id": 338,
+        "category": "JLPT N4",
+        "kanji": "国際",
+        "kana": "こくさい",
+        "meaning": "국제 / international"
+    },
+    {
+        "id": 339,
+        "category": "JLPT N4",
+        "kanji": "心",
+        "kana": "こころ",
+        "meaning": "마음 / core,heart"
+    },
+    {
+        "id": 340,
+        "category": "JLPT N4",
+        "kanji": "御主人",
+        "kana": "ごしゅじん",
+        "meaning": "주인님 / your husband"
+    },
+    {
+        "id": 341,
+        "category": "JLPT N4",
+        "kanji": "故障する",
+        "kana": "こしょうする",
+        "meaning": "고장나다 / to break-down"
+    },
+    {
+        "id": 342,
+        "category": "JLPT N4",
+        "kanji": "ご存じ",
+        "kana": "ごぞんじ",
+        "meaning": "알고 계심 / knowing,acquaintance"
+    },
+    {
+        "id": 343,
+        "category": "JLPT N4",
+        "kanji": "答",
+        "kana": "こたえ",
+        "meaning": "답 / response"
+    },
+    {
+        "id": 344,
+        "category": "JLPT N4",
+        "kanji": "ごちそう",
+        "kana": "ごちそう",
+        "meaning": "잔치 / a feast"
+    },
+    {
+        "id": 345,
+        "category": "JLPT N4",
+        "kanji": "こと",
+        "kana": "こと",
+        "meaning": "일 / thing,matter"
+    },
+    {
+        "id": 346,
+        "category": "JLPT N4",
+        "kanji": "小鳥",
+        "kana": "ことり",
+        "meaning": "작은 새 / small bird"
+    },
+    {
+        "id": 347,
+        "category": "JLPT N4",
+        "kanji": "このあいだ",
+        "kana": "このあいだ",
+        "meaning": "전날 / the other day,recently"
+    },
+    {
+        "id": 348,
+        "category": "JLPT N4",
+        "kanji": "このごろ",
+        "kana": "このごろ",
+        "meaning": "요즈음 / these days,nowadays"
+    },
+    {
+        "id": 349,
+        "category": "JLPT N4",
+        "kanji": "細かい",
+        "kana": "こまかい",
+        "meaning": "미세한 / small, fine"
+    },
+    {
+        "id": 350,
+        "category": "JLPT N4",
+        "kanji": "ごみ",
+        "kana": "ごみ",
+        "meaning": "쓰레기 / rubbish"
+    },
+    {
+        "id": 351,
+        "category": "JLPT N4",
+        "kanji": "込む",
+        "kana": "こむ",
+        "meaning": "혼잡하다 / to be crowded"
+    },
+    {
+        "id": 352,
+        "category": "JLPT N4",
+        "kanji": "米",
+        "kana": "べい",
+        "meaning": "쌀 / uncooked rice"
+    },
+    {
+        "id": 353,
+        "category": "JLPT N4",
+        "kanji": "ごらんになる",
+        "kana": "ごらんになる",
+        "meaning": "보시다 / to see"
+    },
+    {
+        "id": 354,
+        "category": "JLPT N4",
+        "kanji": "これから",
+        "kana": "これから",
+        "meaning": "앞으로 / after this"
+    },
+    {
+        "id": 355,
+        "category": "JLPT N4",
+        "kanji": "怖い",
+        "kana": "こわい",
+        "meaning": "무서운 / frightening"
+    },
+    {
+        "id": 356,
+        "category": "JLPT N4",
+        "kanji": "壊す",
+        "kana": "こわす",
+        "meaning": "부수다 / to break"
+    },
+    {
+        "id": 357,
+        "category": "JLPT N4",
+        "kanji": "壊れる",
+        "kana": "こわれる",
+        "meaning": "깨지다 / to be broken"
+    },
+    {
+        "id": 358,
+        "category": "JLPT N4",
+        "kanji": "コンサート",
+        "kana": "コンサート",
+        "meaning": "콘서트 / concert"
+    },
+    {
+        "id": 359,
+        "category": "JLPT N4",
+        "kanji": "今度",
+        "kana": "こんど",
+        "meaning": "이번 / now,next time"
+    },
+    {
+        "id": 360,
+        "category": "JLPT N4",
+        "kanji": "コンピュータ",
+        "kana": "コンピュータ",
+        "meaning": "컴퓨터 / computer"
+    },
+    {
+        "id": 361,
+        "category": "JLPT N4",
+        "kanji": "今夜",
+        "kana": "こんや",
+        "meaning": "오늘 밤 / tonight"
+    },
+    {
+        "id": 362,
+        "category": "JLPT N4",
+        "kanji": "最近",
+        "kana": "さいきん",
+        "meaning": "최근 / latest,nowadays"
+    },
+    {
+        "id": 363,
+        "category": "JLPT N4",
+        "kanji": "最後",
+        "kana": "さいご",
+        "meaning": "마지막 / last,end"
+    },
+    {
+        "id": 364,
+        "category": "JLPT N4",
+        "kanji": "最初",
+        "kana": "さいしょ",
+        "meaning": "처음 / beginning,first"
+    },
+    {
+        "id": 365,
+        "category": "JLPT N4",
+        "kanji": "坂",
+        "kana": "さか",
+        "meaning": "비탈길 / slope,hill"
+    },
+    {
+        "id": 366,
+        "category": "JLPT N4",
+        "kanji": "探す",
+        "kana": "さがす",
+        "meaning": "찾다 / to look for"
+    },
+    {
+        "id": 367,
+        "category": "JLPT N4",
+        "kanji": "下がる",
+        "kana": "さがる",
+        "meaning": "내리다 / to get down"
+    },
+    {
+        "id": 368,
+        "category": "JLPT N4",
+        "kanji": "盛ん",
+        "kana": "さかん",
+        "meaning": "활발 / popularity,prosperous"
+    },
+    {
+        "id": 369,
+        "category": "JLPT N4",
+        "kanji": "下げる",
+        "kana": "さげる",
+        "meaning": "내리다 / to lower"
+    },
+    {
+        "id": 370,
+        "category": "JLPT N4",
+        "kanji": "差し上げる",
+        "kana": "さしあげる",
+        "meaning": "드리다 / to give"
+    },
+    {
+        "id": 371,
+        "category": "JLPT N4",
+        "kanji": "さっき",
+        "kana": "さっき",
+        "meaning": "아까 / some time ago"
+    },
+    {
+        "id": 372,
+        "category": "JLPT N4",
+        "kanji": "寂しい",
+        "kana": "さびしい",
+        "meaning": "외로운 / lonely"
+    },
+    {
+        "id": 373,
+        "category": "JLPT N4",
+        "kanji": "さ来月",
+        "kana": "さらいげつ",
+        "meaning": "다음 달 / the month after next"
+    },
+    {
+        "id": 374,
+        "category": "JLPT N4",
+        "kanji": "さ来週",
+        "kana": "さらいしゅう",
+        "meaning": "다음주 / the week after next"
+    },
+    {
+        "id": 375,
+        "category": "JLPT N4",
+        "kanji": "サラダ",
+        "kana": "サラダ",
+        "meaning": "샐러드 / salad"
+    },
+    {
+        "id": 376,
+        "category": "JLPT N4",
+        "kanji": "騒ぐ",
+        "kana": "さわぐ",
+        "meaning": "떠들다 / to make noise,to be excited"
+    },
+    {
+        "id": 377,
+        "category": "JLPT N4",
+        "kanji": "触る",
+        "kana": "さわる",
+        "meaning": "만지다 / to touch"
+    },
+    {
+        "id": 378,
+        "category": "JLPT N4",
+        "kanji": "産業",
+        "kana": "さんぎょう",
+        "meaning": "산업 / industry"
+    },
+    {
+        "id": 379,
+        "category": "JLPT N4",
+        "kanji": "サンダル",
+        "kana": "サンダル",
+        "meaning": "샌들 / sandal"
+    },
+    {
+        "id": 380,
+        "category": "JLPT N4",
+        "kanji": "サンドイッチ",
+        "kana": "サンドイッチ",
+        "meaning": "샌드위치 / sandwich"
+    },
+    {
+        "id": 381,
+        "category": "JLPT N4",
+        "kanji": "残念",
+        "kana": "ざんねん",
+        "meaning": "유감 / disappointment"
+    },
+    {
+        "id": 382,
+        "category": "JLPT N4",
+        "kanji": "市",
+        "kana": "し",
+        "meaning": "도시 / city"
+    },
+    {
+        "id": 383,
+        "category": "JLPT N4",
+        "kanji": "字",
+        "kana": "じ",
+        "meaning": "글자 / character"
+    },
+    {
+        "id": 384,
+        "category": "JLPT N4",
+        "kanji": "試合",
+        "kana": "しあい",
+        "meaning": "시합 / match,game"
+    },
+    {
+        "id": 385,
+        "category": "JLPT N4",
+        "kanji": "仕方",
+        "kana": "しかた",
+        "meaning": "방법 / method"
+    },
+    {
+        "id": 386,
+        "category": "JLPT N4",
+        "kanji": "しかる",
+        "kana": "しかる",
+        "meaning": "꾸짖다 / to scold"
+    },
+    {
+        "id": 387,
+        "category": "JLPT N4",
+        "kanji": "試験",
+        "kana": "しけん",
+        "meaning": "시험 / examination"
+    },
+    {
+        "id": 388,
+        "category": "JLPT N4",
+        "kanji": "事故",
+        "kana": "じこ",
+        "meaning": "사고 / accident"
+    },
+    {
+        "id": 389,
+        "category": "JLPT N4",
+        "kanji": "地震",
+        "kana": "じしん",
+        "meaning": "지진 / earthquake"
+    },
+    {
+        "id": 390,
+        "category": "JLPT N4",
+        "kanji": "時代",
+        "kana": "じだい",
+        "meaning": "시대 / era"
+    },
+    {
+        "id": 391,
+        "category": "JLPT N4",
+        "kanji": "下着",
+        "kana": "したぎ",
+        "meaning": "속옷 / underwear"
+    },
+    {
+        "id": 392,
+        "category": "JLPT N4",
+        "kanji": "支度する",
+        "kana": "したくする",
+        "meaning": "준비하다 / to prepare"
+    },
+    {
+        "id": 393,
+        "category": "JLPT N4",
+        "kanji": "しっかり",
+        "kana": "しっかり",
+        "meaning": "제대로 / firmly,steadily"
+    },
+    {
+        "id": 394,
+        "category": "JLPT N4",
+        "kanji": "失敗",
+        "kana": "しっぱい",
+        "meaning": "실패 / failure,mistake"
+    },
+    {
+        "id": 395,
+        "category": "JLPT N4",
+        "kanji": "辞典",
+        "kana": "じてん",
+        "meaning": "사전 / dictionary"
+    },
+    {
+        "id": 396,
+        "category": "JLPT N4",
+        "kanji": "品物",
+        "kana": "しなもの",
+        "meaning": "물건 / goods"
+    },
+    {
+        "id": 397,
+        "category": "JLPT N4",
+        "kanji": "しばらく",
+        "kana": "しばらく",
+        "meaning": "잠깐 / little while"
+    },
+    {
+        "id": 398,
+        "category": "JLPT N4",
+        "kanji": "島",
+        "kana": "しま",
+        "meaning": "섬 / island"
+    },
+    {
+        "id": 399,
+        "category": "JLPT N4",
+        "kanji": "市民",
+        "kana": "しみん",
+        "meaning": "시민 / citizen"
+    },
+    {
+        "id": 400,
+        "category": "JLPT N4",
+        "kanji": "事務所",
+        "kana": "じむしょ",
+        "meaning": "사무실 / office"
+    },
+    {
+        "id": 401,
+        "category": "JLPT N4",
+        "kanji": "社会",
+        "kana": "しゃかい",
+        "meaning": "사회 / society,public"
+    },
+    {
+        "id": 402,
+        "category": "JLPT N4",
+        "kanji": "社長",
+        "kana": "しゃちょう",
+        "meaning": "사장 / company president"
+    },
+    {
+        "id": 403,
+        "category": "JLPT N4",
+        "kanji": "じゃま",
+        "kana": "じゃま",
+        "meaning": "방해 / hindrance,intrusion"
+    },
+    {
+        "id": 404,
+        "category": "JLPT N4",
+        "kanji": "ジャム",
+        "kana": "ジャム",
+        "meaning": "잼 / jam"
+    },
+    {
+        "id": 405,
+        "category": "JLPT N4",
+        "kanji": "自由",
+        "kana": "じゆう",
+        "meaning": "자유 / freedom"
+    },
+    {
+        "id": 406,
+        "category": "JLPT N4",
+        "kanji": "習慣",
+        "kana": "しゅうかん",
+        "meaning": "습관 / custom,manners"
+    },
+    {
+        "id": 407,
+        "category": "JLPT N4",
+        "kanji": "住所",
+        "kana": "じゅうしょ",
+        "meaning": "주소 / an address,a residence"
+    },
+    {
+        "id": 408,
+        "category": "JLPT N4",
+        "kanji": "柔道",
+        "kana": "じゅうどう",
+        "meaning": "유도 / judo"
+    },
+    {
+        "id": 409,
+        "category": "JLPT N4",
+        "kanji": "十分",
+        "kana": "じゅうふん",
+        "meaning": "충분히 / enough"
+    },
+    {
+        "id": 410,
+        "category": "JLPT N4",
+        "kanji": "出席する",
+        "kana": "しゅっせきする",
+        "meaning": "참석하다 / to attend"
+    },
+    {
+        "id": 411,
+        "category": "JLPT N4",
+        "kanji": "出発する",
+        "kana": "しゅっぱつする",
+        "meaning": "출발하다 / to depart"
+    },
+    {
+        "id": 412,
+        "category": "JLPT N4",
+        "kanji": "趣味",
+        "kana": "しゅみ",
+        "meaning": "취미 / hobby"
+    },
+    {
+        "id": 413,
+        "category": "JLPT N4",
+        "kanji": "準備する",
+        "kana": "じゅんびする",
+        "meaning": "준비하다 / to prepare"
+    },
+    {
+        "id": 414,
+        "category": "JLPT N4",
+        "kanji": "紹介",
+        "kana": "しょうかい",
+        "meaning": "소개 / introduction"
+    },
+    {
+        "id": 415,
+        "category": "JLPT N4",
+        "kanji": "小学校",
+        "kana": "しょうがっこう",
+        "meaning": "초등학교 / elementary school"
+    },
+    {
+        "id": 416,
+        "category": "JLPT N4",
+        "kanji": "小説",
+        "kana": "しょうせつ",
+        "meaning": "소설 / novel"
+    },
+    {
+        "id": 417,
+        "category": "JLPT N4",
+        "kanji": "招待する",
+        "kana": "しょうたいする",
+        "meaning": "초대하다 / to invite"
+    },
+    {
+        "id": 418,
+        "category": "JLPT N4",
+        "kanji": "承知する",
+        "kana": "しょうちする",
+        "meaning": "승낙하다 / to consent"
+    },
+    {
+        "id": 419,
+        "category": "JLPT N4",
+        "kanji": "将来",
+        "kana": "しょうらい",
+        "meaning": "장래 / future,prospects"
+    },
+    {
+        "id": 420,
+        "category": "JLPT N4",
+        "kanji": "食事する",
+        "kana": "しょくじする",
+        "meaning": "식사하다 / to have a meal"
+    },
+    {
+        "id": 421,
+        "category": "JLPT N4",
+        "kanji": "食料品",
+        "kana": "しょくりょうひん",
+        "meaning": "식료품 / groceries"
+    },
+    {
+        "id": 422,
+        "category": "JLPT N4",
+        "kanji": "女性",
+        "kana": "じょせい",
+        "meaning": "여성 / woman"
+    },
+    {
+        "id": 423,
+        "category": "JLPT N4",
+        "kanji": "知らせる",
+        "kana": "しらせる",
+        "meaning": "알리다 / to notify"
+    },
+    {
+        "id": 424,
+        "category": "JLPT N4",
+        "kanji": "調べる",
+        "kana": "しらべる",
+        "meaning": "조사하다 / to investigate"
+    },
+    {
+        "id": 425,
+        "category": "JLPT N4",
+        "kanji": "人口",
+        "kana": "じんこう",
+        "meaning": "인구 / population"
+    },
+    {
+        "id": 426,
+        "category": "JLPT N4",
+        "kanji": "神社",
+        "kana": "じんじゃ",
+        "meaning": "신사 / Shinto shrine"
+    },
+    {
+        "id": 427,
+        "category": "JLPT N4",
+        "kanji": "親切",
+        "kana": "しんせつ",
+        "meaning": "친절 / kindness"
+    },
+    {
+        "id": 428,
+        "category": "JLPT N4",
+        "kanji": "心配する",
+        "kana": "しんぱいする",
+        "meaning": "걱정하다 / to worry"
+    },
+    {
+        "id": 429,
+        "category": "JLPT N4",
+        "kanji": "新聞社",
+        "kana": "しんぶんしゃ",
+        "meaning": "신문사 / newspaper company"
+    },
+    {
+        "id": 430,
+        "category": "JLPT N4",
+        "kanji": "水泳",
+        "kana": "すいえい",
+        "meaning": "수영 / swimming"
+    },
+    {
+        "id": 431,
+        "category": "JLPT N4",
+        "kanji": "水道",
+        "kana": "すいどう",
+        "meaning": "수도 / water supply"
+    },
+    {
+        "id": 432,
+        "category": "JLPT N4",
+        "kanji": "ずいぶん",
+        "kana": "ずいぶん",
+        "meaning": "대단히 / extremely"
+    },
+    {
+        "id": 433,
+        "category": "JLPT N4",
+        "kanji": "数学",
+        "kana": "すうがく",
+        "meaning": "수학 / mathematics,arithmetic"
+    },
+    {
+        "id": 434,
+        "category": "JLPT N4",
+        "kanji": "スーツ",
+        "kana": "スーツ",
+        "meaning": "정장 / suit"
+    },
+    {
+        "id": 435,
+        "category": "JLPT N4",
+        "kanji": "スーツケース",
+        "kana": "スーツケース",
+        "meaning": "가방 / suitcase"
+    },
+    {
+        "id": 436,
+        "category": "JLPT N4",
+        "kanji": "過ぎる",
+        "kana": "よぎる",
+        "meaning": "지나다 / to exceed"
+    },
+    {
+        "id": 437,
+        "category": "JLPT N4",
+        "kanji": "すく",
+        "kana": "すく",
+        "meaning": "속이 비다 / to become empty"
+    },
+    {
+        "id": 438,
+        "category": "JLPT N4",
+        "kanji": "スクリーン",
+        "kana": "スクリーン",
+        "meaning": "스크린 / screen"
+    },
+    {
+        "id": 439,
+        "category": "JLPT N4",
+        "kanji": "凄い",
+        "kana": "すごい",
+        "meaning": "굉장한 / terrific"
+    },
+    {
+        "id": 440,
+        "category": "JLPT N4",
+        "kanji": "進む",
+        "kana": "すすむ",
+        "meaning": "진행하다 / to make progress"
+    },
+    {
+        "id": 441,
+        "category": "JLPT N4",
+        "kanji": "すっかり",
+        "kana": "すっかり",
+        "meaning": "완전히 / completely"
+    },
+    {
+        "id": 442,
+        "category": "JLPT N4",
+        "kanji": "すっと",
+        "kana": "すっと",
+        "meaning": "갑자기 / all of a sudden"
+    },
+    {
+        "id": 443,
+        "category": "JLPT N4",
+        "kanji": "ステーキ",
+        "kana": "ステーキ",
+        "meaning": "스테이크 / steak"
+    },
+    {
+        "id": 444,
+        "category": "JLPT N4",
+        "kanji": "捨てる",
+        "kana": "すてる",
+        "meaning": "버리다 / to throw away"
+    },
+    {
+        "id": 445,
+        "category": "JLPT N4",
+        "kanji": "ステレオ",
+        "kana": "ステレオ",
+        "meaning": "스테레오 / stereo"
+    },
+    {
+        "id": 446,
+        "category": "JLPT N4",
+        "kanji": "砂",
+        "kana": "すな",
+        "meaning": "모래 / sand"
+    },
+    {
+        "id": 447,
+        "category": "JLPT N4",
+        "kanji": "すばらしい",
+        "kana": "すばらしい",
+        "meaning": "훌륭한 / wonderful"
+    },
+    {
+        "id": 448,
+        "category": "JLPT N4",
+        "kanji": "滑る",
+        "kana": "すべる",
+        "meaning": "미끄러지다 / to slide,to slip"
+    },
+    {
+        "id": 449,
+        "category": "JLPT N4",
+        "kanji": "隅",
+        "kana": "すみ",
+        "meaning": "모서리 / corner,nook"
+    },
+    {
+        "id": 450,
+        "category": "JLPT N4",
+        "kanji": "済む",
+        "kana": "すむ",
+        "meaning": "끝나다 / to finish"
+    },
+    {
+        "id": 451,
+        "category": "JLPT N4",
+        "kanji": "すり",
+        "kana": "すり",
+        "meaning": "소매치기 / pickpocket"
+    },
+    {
+        "id": 452,
+        "category": "JLPT N4",
+        "kanji": "すると",
+        "kana": "すると",
+        "meaning": "그러자 / then"
+    },
+    {
+        "id": 453,
+        "category": "JLPT N4",
+        "kanji": "生活する",
+        "kana": "せいかつする",
+        "meaning": "생활하다 / to live"
+    },
+    {
+        "id": 454,
+        "category": "JLPT N4",
+        "kanji": "生産する",
+        "kana": "せいさんする",
+        "meaning": "생산하다 / to produce"
+    },
+    {
+        "id": 455,
+        "category": "JLPT N4",
+        "kanji": "政治",
+        "kana": "せいじ",
+        "meaning": "정치 / politics,government"
+    },
+    {
+        "id": 456,
+        "category": "JLPT N4",
+        "kanji": "西洋",
+        "kana": "せいよう",
+        "meaning": "서양 / western countries"
+    },
+    {
+        "id": 457,
+        "category": "JLPT N4",
+        "kanji": "世界",
+        "kana": "せかい",
+        "meaning": "세계 / the world"
+    },
+    {
+        "id": 458,
+        "category": "JLPT N4",
+        "kanji": "席",
+        "kana": "せき",
+        "meaning": "좌석 / seat"
+    },
+    {
+        "id": 459,
+        "category": "JLPT N4",
+        "kanji": "説明",
+        "kana": "せつめい",
+        "meaning": "설명 / explanation"
+    },
+    {
+        "id": 460,
+        "category": "JLPT N4",
+        "kanji": "背中",
+        "kana": "せなか",
+        "meaning": "등 / back of the body"
+    },
+    {
+        "id": 461,
+        "category": "JLPT N4",
+        "kanji": "ぜひ",
+        "kana": "ぜひ",
+        "meaning": "꼭 / without fail"
+    },
+    {
+        "id": 462,
+        "category": "JLPT N4",
+        "kanji": "世話する",
+        "kana": "せわする",
+        "meaning": "돌보다 / to look after"
+    },
+    {
+        "id": 463,
+        "category": "JLPT N4",
+        "kanji": "線",
+        "kana": "せん",
+        "meaning": "선 / line"
+    },
+    {
+        "id": 464,
+        "category": "JLPT N4",
+        "kanji": "ぜんぜん",
+        "kana": "ぜんぜん",
+        "meaning": "전혀 / not entirely"
+    },
+    {
+        "id": 465,
+        "category": "JLPT N4",
+        "kanji": "戦争",
+        "kana": "せんそう",
+        "meaning": "전쟁 / war"
+    },
+    {
+        "id": 466,
+        "category": "JLPT N4",
+        "kanji": "先輩",
+        "kana": "せんぱい",
+        "meaning": "선배 / senior"
+    },
+    {
+        "id": 467,
+        "category": "JLPT N4",
+        "kanji": "そう",
+        "kana": "そう",
+        "meaning": "정말 / really"
+    },
+    {
+        "id": 468,
+        "category": "JLPT N4",
+        "kanji": "相談する",
+        "kana": "そうだんする",
+        "meaning": "상담하다 / to discuss"
+    },
+    {
+        "id": 469,
+        "category": "JLPT N4",
+        "kanji": "育てる",
+        "kana": "そだてる",
+        "meaning": "육성하다 / to rear,to bring up"
+    },
+    {
+        "id": 470,
+        "category": "JLPT N4",
+        "kanji": "卒業",
+        "kana": "そつぎょう",
+        "meaning": "졸업 / graduation"
+    },
+    {
+        "id": 471,
+        "category": "JLPT N4",
+        "kanji": "祖父",
+        "kana": "そふ",
+        "meaning": "할아버지 / grandfather"
+    },
+    {
+        "id": 472,
+        "category": "JLPT N4",
+        "kanji": "ソフト",
+        "kana": "ソフト",
+        "meaning": "소프트 / soft"
+    },
+    {
+        "id": 473,
+        "category": "JLPT N4",
+        "kanji": "祖母",
+        "kana": "そぼ",
+        "meaning": "할머니 / grandmother"
+    },
+    {
+        "id": 474,
+        "category": "JLPT N4",
+        "kanji": "それで",
+        "kana": "それで",
+        "meaning": "그래서 / because of that"
+    },
+    {
+        "id": 475,
+        "category": "JLPT N4",
+        "kanji": "それに",
+        "kana": "それに",
+        "meaning": "게다가 / moreover"
+    },
+    {
+        "id": 476,
+        "category": "JLPT N4",
+        "kanji": "それほど",
+        "kana": "それほど",
+        "meaning": "그 정도로 / to that extent"
+    },
+    {
+        "id": 477,
+        "category": "JLPT N4",
+        "kanji": "そろそろ",
+        "kana": "そろそろ",
+        "meaning": "슬슬 / gradually,soon"
+    },
+    {
+        "id": 478,
+        "category": "JLPT N4",
+        "kanji": "そんな",
+        "kana": "そんな",
+        "meaning": "그런 / that sort of"
+    },
+    {
+        "id": 479,
+        "category": "JLPT N4",
+        "kanji": "そんなに",
+        "kana": "そんなに",
+        "meaning": "그렇게 / so much,like that"
+    },
+    {
+        "id": 480,
+        "category": "JLPT N4",
+        "kanji": "退院する",
+        "kana": "たいいんする",
+        "meaning": "퇴원하다 / to leave hospital"
+    },
+    {
+        "id": 481,
+        "category": "JLPT N4",
+        "kanji": "大学生",
+        "kana": "だいがくせい",
+        "meaning": "대학생 / university student"
+    },
+    {
+        "id": 482,
+        "category": "JLPT N4",
+        "kanji": "大事",
+        "kana": "だいじ",
+        "meaning": "중요 / important,valuable,serious matter"
+    },
+    {
+        "id": 483,
+        "category": "JLPT N4",
+        "kanji": "大体",
+        "kana": "だいたい",
+        "meaning": "대략 / generally"
+    },
+    {
+        "id": 484,
+        "category": "JLPT N4",
+        "kanji": "たいてい",
+        "kana": "たいてい",
+        "meaning": "대부분 / usually"
+    },
+    {
+        "id": 485,
+        "category": "JLPT N4",
+        "kanji": "タイプ",
+        "kana": "タイプ",
+        "meaning": "유형 / type,style"
+    },
+    {
+        "id": 486,
+        "category": "JLPT N4",
+        "kanji": "大分",
+        "kana": "おおいた",
+        "meaning": "상당히 / greatly"
+    },
+    {
+        "id": 487,
+        "category": "JLPT N4",
+        "kanji": "台風",
+        "kana": "たいふう",
+        "meaning": "태풍 / typhoon"
+    },
+    {
+        "id": 488,
+        "category": "JLPT N4",
+        "kanji": "倒れる",
+        "kana": "たおれる",
+        "meaning": "쓰러지다 / to break down"
+    },
+    {
+        "id": 489,
+        "category": "JLPT N4",
+        "kanji": "だから",
+        "kana": "だから",
+        "meaning": "그래서 / so,therefore"
+    },
+    {
+        "id": 490,
+        "category": "JLPT N4",
+        "kanji": "確か",
+        "kana": "たしか",
+        "meaning": "확실함 / definite"
+    },
+    {
+        "id": 491,
+        "category": "JLPT N4",
+        "kanji": "足す",
+        "kana": "たす",
+        "meaning": "더하다 / to add a number"
+    },
+    {
+        "id": 492,
+        "category": "JLPT N4",
+        "kanji": "訪ねる",
+        "kana": "たずねる",
+        "meaning": "방문하다 / to visit"
+    },
+    {
+        "id": 493,
+        "category": "JLPT N4",
+        "kanji": "尋ねる",
+        "kana": "たずねる",
+        "meaning": "묻다 / to ask"
+    },
+    {
+        "id": 494,
+        "category": "JLPT N4",
+        "kanji": "正しい",
+        "kana": "ただしい",
+        "meaning": "올바른 / correct"
+    },
+    {
+        "id": 495,
+        "category": "JLPT N4",
+        "kanji": "畳",
+        "kana": "たたみ",
+        "meaning": "다다미 / Japanese straw mat"
+    },
+    {
+        "id": 496,
+        "category": "JLPT N4",
+        "kanji": "立てる",
+        "kana": "たてる",
+        "meaning": "세우다 / to stand something up"
+    },
+    {
+        "id": 497,
+        "category": "JLPT N4",
+        "kanji": "建てる",
+        "kana": "たてる",
+        "meaning": "짓다 / to build"
+    },
+    {
+        "id": 498,
+        "category": "JLPT N4",
+        "kanji": "例えば",
+        "kana": "たとえば",
+        "meaning": "예를 들어 / for example"
+    },
+    {
+        "id": 499,
+        "category": "JLPT N4",
+        "kanji": "棚",
+        "kana": "たな",
+        "meaning": "선반 / shelves"
+    },
+    {
+        "id": 500,
+        "category": "JLPT N4",
+        "kanji": "楽しみ",
+        "kana": "たのしみ",
+        "meaning": "즐거움 / joy"
+    },
+    {
+        "id": 501,
+        "category": "JLPT N4",
+        "kanji": "楽しむ",
+        "kana": "たのしむ",
+        "meaning": "즐기다 / to enjoy oneself"
+    },
+    {
+        "id": 502,
+        "category": "JLPT N4",
+        "kanji": "たまに",
+        "kana": "たまに",
+        "meaning": "가끔 / occasionally"
+    },
+    {
+        "id": 503,
+        "category": "JLPT N4",
+        "kanji": "為",
+        "kana": "ため",
+        "meaning": "위해 / in order to"
+    },
+    {
+        "id": 504,
+        "category": "JLPT N4",
+        "kanji": "だめ",
+        "kana": "だめ",
+        "meaning": "안돼 / no good"
+    },
+    {
+        "id": 505,
+        "category": "JLPT N4",
+        "kanji": "足りる",
+        "kana": "たりる",
+        "meaning": "충분하다 / to be enough"
+    },
+    {
+        "id": 506,
+        "category": "JLPT N4",
+        "kanji": "男性",
+        "kana": "だんせい",
+        "meaning": "남성 / male"
+    },
+    {
+        "id": 507,
+        "category": "JLPT N4",
+        "kanji": "暖房",
+        "kana": "だんぼう",
+        "meaning": "난방 / heating"
+    },
+    {
+        "id": 508,
+        "category": "JLPT N4",
+        "kanji": "血",
+        "kana": "ち",
+        "meaning": "피 / blood"
+    },
+    {
+        "id": 509,
+        "category": "JLPT N4",
+        "kanji": "チェックする",
+        "kana": "チェックする",
+        "meaning": "확인하다 / to check"
+    },
+    {
+        "id": 510,
+        "category": "JLPT N4",
+        "kanji": "力",
+        "kana": "ちから",
+        "meaning": "힘 / strength,power"
+    },
+    {
+        "id": 511,
+        "category": "JLPT N4",
+        "kanji": "ちっとも",
+        "kana": "ちっとも",
+        "meaning": "조금도 / not at all"
+    },
+    {
+        "id": 512,
+        "category": "JLPT N4",
+        "kanji": "ちゃん",
+        "kana": "ちゃん",
+        "meaning": "여성 호칭 / suffix for female"
+    },
+    {
+        "id": 513,
+        "category": "JLPT N4",
+        "kanji": "注意",
+        "kana": "ちゅうい",
+        "meaning": "주의 / caution"
+    },
+    {
+        "id": 514,
+        "category": "JLPT N4",
+        "kanji": "中学校",
+        "kana": "ちゅうがっこう",
+        "meaning": "중학교 / junior high school,middle school"
+    },
+    {
+        "id": 515,
+        "category": "JLPT N4",
+        "kanji": "注射",
+        "kana": "ちゅうしゃ",
+        "meaning": "주사 / injection"
+    },
+    {
+        "id": 516,
+        "category": "JLPT N4",
+        "kanji": "駐車場",
+        "kana": "ちゅうしゃじょう",
+        "meaning": "주차장 / parking lot"
+    },
+    {
+        "id": 517,
+        "category": "JLPT N4",
+        "kanji": "地理",
+        "kana": "ちり",
+        "meaning": "지리 / geography"
+    },
+    {
+        "id": 518,
+        "category": "JLPT N4",
+        "kanji": "捕まえる",
+        "kana": "つかまえる",
+        "meaning": "붙잡다 / to seize"
+    },
+    {
+        "id": 519,
+        "category": "JLPT N4",
+        "kanji": "つき",
+        "kana": "つき",
+        "meaning": "달 / moon"
+    },
+    {
+        "id": 520,
+        "category": "JLPT N4",
+        "kanji": "付く",
+        "kana": "つく",
+        "meaning": "달라붙다 / to be attached"
+    },
+    {
+        "id": 521,
+        "category": "JLPT N4",
+        "kanji": "漬ける",
+        "kana": "つける",
+        "meaning": "담그다 / to soak,to pickle"
+    },
+    {
+        "id": 522,
+        "category": "JLPT N4",
+        "kanji": "都合",
+        "kana": "つごう",
+        "meaning": "사정 / circumstances,convenience"
+    },
+    {
+        "id": 523,
+        "category": "JLPT N4",
+        "kanji": "伝える",
+        "kana": "つたえる",
+        "meaning": "전하다 / to report"
+    },
+    {
+        "id": 524,
+        "category": "JLPT N4",
+        "kanji": "続く",
+        "kana": "つづく",
+        "meaning": "계속되다 / to be continued"
+    },
+    {
+        "id": 525,
+        "category": "JLPT N4",
+        "kanji": "続ける",
+        "kana": "つづける",
+        "meaning": "계속하다 / to continue"
+    },
+    {
+        "id": 526,
+        "category": "JLPT N4",
+        "kanji": "包む",
+        "kana": "つつむ",
+        "meaning": "싸다 / to wrap"
+    },
+    {
+        "id": 527,
+        "category": "JLPT N4",
+        "kanji": "妻",
+        "kana": "つま",
+        "meaning": "아내 / wife"
+    },
+    {
+        "id": 528,
+        "category": "JLPT N4",
+        "kanji": "つもり",
+        "kana": "つもり",
+        "meaning": "의도 / intention"
+    },
+    {
+        "id": 529,
+        "category": "JLPT N4",
+        "kanji": "釣る",
+        "kana": "つる",
+        "meaning": "낚다 / to fish"
+    },
+    {
+        "id": 530,
+        "category": "JLPT N4",
+        "kanji": "連れる",
+        "kana": "つれる",
+        "meaning": "동행하다 / to lead"
+    },
+    {
+        "id": 531,
+        "category": "JLPT N4",
+        "kanji": "丁寧",
+        "kana": "ていねい",
+        "meaning": "친절 / polite"
+    },
+    {
+        "id": 532,
+        "category": "JLPT N4",
+        "kanji": "テキスト",
+        "kana": "テキスト",
+        "meaning": "텍스트 / text,text book"
+    },
+    {
+        "id": 533,
+        "category": "JLPT N4",
+        "kanji": "適当",
+        "kana": "てきとう",
+        "meaning": "적당 / suitability"
+    },
+    {
+        "id": 534,
+        "category": "JLPT N4",
+        "kanji": "できるだけ",
+        "kana": "できるだけ",
+        "meaning": "가능한 한 많이 / as much as possible"
+    },
+    {
+        "id": 535,
+        "category": "JLPT N4",
+        "kanji": "手伝う",
+        "kana": "てつだう",
+        "meaning": "돕다 / to assist"
+    },
+    {
+        "id": 536,
+        "category": "JLPT N4",
+        "kanji": "テニス",
+        "kana": "テニス",
+        "meaning": "테니스 / tennis"
+    },
+    {
+        "id": 537,
+        "category": "JLPT N4",
+        "kanji": "手袋",
+        "kana": "てぶくろ",
+        "meaning": "장갑 / glove"
+    },
+    {
+        "id": 538,
+        "category": "JLPT N4",
+        "kanji": "寺",
+        "kana": "てら",
+        "meaning": "사원 / temple"
+    },
+    {
+        "id": 539,
+        "category": "JLPT N4",
+        "kanji": "点",
+        "kana": "てん",
+        "meaning": "점 / point,dot"
+    },
+    {
+        "id": 540,
+        "category": "JLPT N4",
+        "kanji": "店員",
+        "kana": "てんいん",
+        "meaning": "점원 / shop assistant"
+    },
+    {
+        "id": 541,
+        "category": "JLPT N4",
+        "kanji": "天気予報",
+        "kana": "てんきよほう",
+        "meaning": "날씨 예보 / weather forecast"
+    },
+    {
+        "id": 542,
+        "category": "JLPT N4",
+        "kanji": "電灯",
+        "kana": "でんとう",
+        "meaning": "전등 / electric light"
+    },
+    {
+        "id": 543,
+        "category": "JLPT N4",
+        "kanji": "電報",
+        "kana": "でんぽう",
+        "meaning": "전보 / telegram"
+    },
+    {
+        "id": 544,
+        "category": "JLPT N4",
+        "kanji": "展覧会",
+        "kana": "てんらんかい",
+        "meaning": "전시회 / exhibition"
+    },
+    {
+        "id": 545,
+        "category": "JLPT N4",
+        "kanji": "都",
+        "kana": "と",
+        "meaning": "도시 / metropolitan"
+    },
+    {
+        "id": 546,
+        "category": "JLPT N4",
+        "kanji": "道具",
+        "kana": "どうぐ",
+        "meaning": "도구 / tool,means"
+    },
+    {
+        "id": 547,
+        "category": "JLPT N4",
+        "kanji": "とうとう",
+        "kana": "とうとう",
+        "meaning": "드디어 / finally, after all"
+    },
+    {
+        "id": 548,
+        "category": "JLPT N4",
+        "kanji": "動物園",
+        "kana": "どうぶつえん",
+        "meaning": "동물원 / zoo"
+    },
+    {
+        "id": 549,
+        "category": "JLPT N4",
+        "kanji": "遠く",
+        "kana": "とおく",
+        "meaning": "먼 / distant"
+    },
+    {
+        "id": 550,
+        "category": "JLPT N4",
+        "kanji": "通る",
+        "kana": "とおる",
+        "meaning": "지나다 / to go through"
+    },
+    {
+        "id": 551,
+        "category": "JLPT N4",
+        "kanji": "特に",
+        "kana": "とくに",
+        "meaning": "특히 / particularly,especially"
+    },
+    {
+        "id": 552,
+        "category": "JLPT N4",
+        "kanji": "特別",
+        "kana": "とくべつ",
+        "meaning": "특별 / special"
+    },
+    {
+        "id": 553,
+        "category": "JLPT N4",
+        "kanji": "とこや",
+        "kana": "とこや",
+        "meaning": "이발사 / barber"
+    },
+    {
+        "id": 554,
+        "category": "JLPT N4",
+        "kanji": "途中",
+        "kana": "とちゅう",
+        "meaning": "도중 / on the way"
+    },
+    {
+        "id": 555,
+        "category": "JLPT N4",
+        "kanji": "特急",
+        "kana": "とっきゅう",
+        "meaning": "특급 / limited express train"
+    },
+    {
+        "id": 556,
+        "category": "JLPT N4",
+        "kanji": "届ける",
+        "kana": "とどける",
+        "meaning": "닿다 / to reach"
+    },
+    {
+        "id": 557,
+        "category": "JLPT N4",
+        "kanji": "泊まる",
+        "kana": "とまる",
+        "meaning": "머물다 / to lodge at"
+    },
+    {
+        "id": 558,
+        "category": "JLPT N4",
+        "kanji": "止める",
+        "kana": "とめる",
+        "meaning": "중지하다 / to stop something"
+    },
+    {
+        "id": 559,
+        "category": "JLPT N4",
+        "kanji": "取り替える",
+        "kana": "とりかえる",
+        "meaning": "바꾸다 / to exchange"
+    },
+    {
+        "id": 560,
+        "category": "JLPT N4",
+        "kanji": "泥棒",
+        "kana": "どろぼう",
+        "meaning": "도둑 / thief"
+    },
+    {
+        "id": 561,
+        "category": "JLPT N4",
+        "kanji": "どんどん",
+        "kana": "どんどん",
+        "meaning": "점점 / more and more"
+    },
+    {
+        "id": 562,
+        "category": "JLPT N4",
+        "kanji": "直す",
+        "kana": "なおす",
+        "meaning": "고치다 / to fix,to repair"
+    },
+    {
+        "id": 563,
+        "category": "JLPT N4",
+        "kanji": "直る",
+        "kana": "なおる",
+        "meaning": "고쳐지다 / to be fixed,to be repaired"
+    },
+    {
+        "id": 564,
+        "category": "JLPT N4",
+        "kanji": "治る",
+        "kana": "なおる",
+        "meaning": "낫다 / to be cured,to heal"
+    },
+    {
+        "id": 565,
+        "category": "JLPT N4",
+        "kanji": "中々",
+        "kana": "なか々",
+        "meaning": "꽤 / considerably"
+    },
+    {
+        "id": 566,
+        "category": "JLPT N4",
+        "kanji": "泣く",
+        "kana": "なく",
+        "meaning": "울다 / to weep"
+    },
+    {
+        "id": 567,
+        "category": "JLPT N4",
+        "kanji": "無くなる",
+        "kana": "なくなる",
+        "meaning": "없어지다 / to disappear,to get lost"
+    },
+    {
+        "id": 568,
+        "category": "JLPT N4",
+        "kanji": "亡くなる",
+        "kana": "なくなる",
+        "meaning": "죽다 / to die"
+    },
+    {
+        "id": 569,
+        "category": "JLPT N4",
+        "kanji": "投げる",
+        "kana": "なげる",
+        "meaning": "던지다 / to throw or cast away"
+    },
+    {
+        "id": 570,
+        "category": "JLPT N4",
+        "kanji": "なさる",
+        "kana": "なさる",
+        "meaning": "하시다 / to do"
+    },
+    {
+        "id": 571,
+        "category": "JLPT N4",
+        "kanji": "鳴る",
+        "kana": "なる",
+        "meaning": "울리다 / to sound"
+    },
+    {
+        "id": 572,
+        "category": "JLPT N4",
+        "kanji": "なるべく",
+        "kana": "なるべく",
+        "meaning": "가급적 / as much as possible"
+    },
+    {
+        "id": 573,
+        "category": "JLPT N4",
+        "kanji": "なるほど",
+        "kana": "なるほど",
+        "meaning": "과연 / now I understand"
+    },
+    {
+        "id": 574,
+        "category": "JLPT N4",
+        "kanji": "慣れる",
+        "kana": "なれる",
+        "meaning": "익숙해지다 / to grow accustomed to"
+    },
+    {
+        "id": 575,
+        "category": "JLPT N4",
+        "kanji": "におい",
+        "kana": "におい",
+        "meaning": "냄새 / a smell"
+    },
+    {
+        "id": 576,
+        "category": "JLPT N4",
+        "kanji": "苦い",
+        "kana": "にがい",
+        "meaning": "쓴 / bitter"
+    },
+    {
+        "id": 577,
+        "category": "JLPT N4",
+        "kanji": "二階建て",
+        "kana": "にかいだて",
+        "meaning": "이층 / two storied"
+    },
+    {
+        "id": 578,
+        "category": "JLPT N4",
+        "kanji": "逃げる",
+        "kana": "にげる",
+        "meaning": "도망치다 / to escape"
+    },
+    {
+        "id": 579,
+        "category": "JLPT N4",
+        "kanji": "日記",
+        "kana": "にっき",
+        "meaning": "일기 / journal"
+    },
+    {
+        "id": 580,
+        "category": "JLPT N4",
+        "kanji": "入院する",
+        "kana": "にゅういんする",
+        "meaning": "입원하다 / to hospitalise"
+    },
+    {
+        "id": 581,
+        "category": "JLPT N4",
+        "kanji": "入学する",
+        "kana": "にゅうがくする",
+        "meaning": "입학하다 / to enter school or university"
+    },
+    {
+        "id": 582,
+        "category": "JLPT N4",
+        "kanji": "似る",
+        "kana": "にる",
+        "meaning": "비슷하다 / to be similar"
+    },
+    {
+        "id": 583,
+        "category": "JLPT N4",
+        "kanji": "人形",
+        "kana": "にんぎょう",
+        "meaning": "인형 / doll, figure"
+    },
+    {
+        "id": 584,
+        "category": "JLPT N4",
+        "kanji": "盗む",
+        "kana": "ぬすむ",
+        "meaning": "훔치다 / to steal"
+    },
+    {
+        "id": 585,
+        "category": "JLPT N4",
+        "kanji": "塗る",
+        "kana": "ぬる",
+        "meaning": "바르다 / to paint,to plaster"
+    },
+    {
+        "id": 586,
+        "category": "JLPT N4",
+        "kanji": "ぬれる",
+        "kana": "ぬれる",
+        "meaning": "젖다 / to get wet"
+    },
+    {
+        "id": 587,
+        "category": "JLPT N4",
+        "kanji": "ねだん",
+        "kana": "ねだん",
+        "meaning": "가격 / price"
+    },
+    {
+        "id": 588,
+        "category": "JLPT N4",
+        "kanji": "熱",
+        "kana": "ねつ",
+        "meaning": "열 / fever"
+    },
+    {
+        "id": 589,
+        "category": "JLPT N4",
+        "kanji": "ねっしん",
+        "kana": "ねっしん",
+        "meaning": "열심 / enthusiasm"
+    },
+    {
+        "id": 590,
+        "category": "JLPT N4",
+        "kanji": "寝坊",
+        "kana": "ねぼう",
+        "meaning": "늦잠 / sleeping in late"
+    },
+    {
+        "id": 591,
+        "category": "JLPT N4",
+        "kanji": "眠い",
+        "kana": "ねむい",
+        "meaning": "졸린 / sleepy"
+    },
+    {
+        "id": 592,
+        "category": "JLPT N4",
+        "kanji": "眠る",
+        "kana": "ねむる",
+        "meaning": "자다 / to sleep"
+    },
+    {
+        "id": 593,
+        "category": "JLPT N4",
+        "kanji": "残る",
+        "kana": "のこる",
+        "meaning": "남다 / to remain"
+    },
+    {
+        "id": 594,
+        "category": "JLPT N4",
+        "kanji": "のど",
+        "kana": "のど",
+        "meaning": "목 / throat"
+    },
+    {
+        "id": 595,
+        "category": "JLPT N4",
+        "kanji": "乗り換える",
+        "kana": "のりかえる",
+        "meaning": "환승하다 / to change between buses or trains"
+    },
+    {
+        "id": 596,
+        "category": "JLPT N4",
+        "kanji": "乗り物",
+        "kana": "のりもの",
+        "meaning": "놀이기구 / vehicle"
+    },
+    {
+        "id": 597,
+        "category": "JLPT N4",
+        "kanji": "葉",
+        "kana": "は",
+        "meaning": "잎 / leaf"
+    },
+    {
+        "id": 598,
+        "category": "JLPT N4",
+        "kanji": "場合",
+        "kana": "ばあい",
+        "meaning": "경우 / situation"
+    },
+    {
+        "id": 599,
+        "category": "JLPT N4",
+        "kanji": "パート",
+        "kana": "パート",
+        "meaning": "아르바이트 / part time"
+    },
+    {
+        "id": 600,
+        "category": "JLPT N4",
+        "kanji": "倍",
+        "kana": "ばい",
+        "meaning": "배 / double"
+    },
+    {
+        "id": 601,
+        "category": "JLPT N4",
+        "kanji": "拝見する",
+        "kana": "はいけんする",
+        "meaning": "보다 / to look at"
+    },
+    {
+        "id": 602,
+        "category": "JLPT N4",
+        "kanji": "歯医者",
+        "kana": "はいしゃ",
+        "meaning": "치과 / dentist"
+    },
+    {
+        "id": 603,
+        "category": "JLPT N4",
+        "kanji": "運ぶ",
+        "kana": "はこぶ",
+        "meaning": "운반하다 / to transport"
+    },
+    {
+        "id": 604,
+        "category": "JLPT N4",
+        "kanji": "始める",
+        "kana": "はじめる",
+        "meaning": "시작하다 / to begin"
+    },
+    {
+        "id": 605,
+        "category": "JLPT N4",
+        "kanji": "場所",
+        "kana": "ばしょ",
+        "meaning": "장소 / location"
+    },
+    {
+        "id": 606,
+        "category": "JLPT N4",
+        "kanji": "はず",
+        "kana": "はず",
+        "meaning": "할 것 / it should be so"
+    },
+    {
+        "id": 607,
+        "category": "JLPT N4",
+        "kanji": "恥ずかしい",
+        "kana": "はずかしい",
+        "meaning": "부끄러운 / embarrassed"
+    },
+    {
+        "id": 608,
+        "category": "JLPT N4",
+        "kanji": "パソコン",
+        "kana": "パソコン",
+        "meaning": "컴퓨터 / personal computer"
+    },
+    {
+        "id": 609,
+        "category": "JLPT N4",
+        "kanji": "発音",
+        "kana": "はつおん",
+        "meaning": "발음 / pronunciation"
+    },
+    {
+        "id": 610,
+        "category": "JLPT N4",
+        "kanji": "はっきり",
+        "kana": "はっきり",
+        "meaning": "분명히 / clearly"
+    },
+    {
+        "id": 611,
+        "category": "JLPT N4",
+        "kanji": "花見",
+        "kana": "はなみ",
+        "meaning": "꽃놀이 / cherry-blossom viewing"
+    },
+    {
+        "id": 612,
+        "category": "JLPT N4",
+        "kanji": "林",
+        "kana": "はやし",
+        "meaning": "숲 / woods,forester"
+    },
+    {
+        "id": 613,
+        "category": "JLPT N4",
+        "kanji": "払う",
+        "kana": "はらう",
+        "meaning": "지불하다 / to pay"
+    },
+    {
+        "id": 614,
+        "category": "JLPT N4",
+        "kanji": "番組",
+        "kana": "ばんぐみ",
+        "meaning": "프로그램 / television or radio program"
+    },
+    {
+        "id": 615,
+        "category": "JLPT N4",
+        "kanji": "反対",
+        "kana": "はんたい",
+        "meaning": "반대 / opposition"
+    },
+    {
+        "id": 616,
+        "category": "JLPT N4",
+        "kanji": "ハンドバッグ",
+        "kana": "ハンドバッグ",
+        "meaning": "핸드백 / handbag"
+    },
+    {
+        "id": 617,
+        "category": "JLPT N4",
+        "kanji": "日",
+        "kana": "ひ",
+        "meaning": "일 / day, sun"
+    },
+    {
+        "id": 618,
+        "category": "JLPT N4",
+        "kanji": "火",
+        "kana": "ひ",
+        "meaning": "불 / fire"
+    },
+    {
+        "id": 619,
+        "category": "JLPT N4",
+        "kanji": "ピアノ",
+        "kana": "ピアノ",
+        "meaning": "피아노 / piano"
+    },
+    {
+        "id": 620,
+        "category": "JLPT N4",
+        "kanji": "冷える",
+        "kana": "ひえる",
+        "meaning": "추워지다 / to grow cold"
+    },
+    {
+        "id": 621,
+        "category": "JLPT N4",
+        "kanji": "光",
+        "kana": "ひかり",
+        "meaning": "빛 / light"
+    },
+    {
+        "id": 622,
+        "category": "JLPT N4",
+        "kanji": "光る",
+        "kana": "ひかる",
+        "meaning": "빛나다 / to shine,to glitter"
+    },
+    {
+        "id": 623,
+        "category": "JLPT N4",
+        "kanji": "引き出し",
+        "kana": "ひきだし",
+        "meaning": "서랍 / drawer,drawing out"
+    },
+    {
+        "id": 624,
+        "category": "JLPT N4",
+        "kanji": "引き出す",
+        "kana": "ひきだす",
+        "meaning": "인출하다 / to withdraw"
+    },
+    {
+        "id": 625,
+        "category": "JLPT N4",
+        "kanji": "ひげ",
+        "kana": "ひげ",
+        "meaning": "수염 / beard"
+    },
+    {
+        "id": 626,
+        "category": "JLPT N4",
+        "kanji": "飛行場",
+        "kana": "ひこうじょう",
+        "meaning": "비행장 / airport"
+    },
+    {
+        "id": 627,
+        "category": "JLPT N4",
+        "kanji": "久しぶり",
+        "kana": "ひさしぶり",
+        "meaning": "오랜만에 / after a long time"
+    },
+    {
+        "id": 628,
+        "category": "JLPT N4",
+        "kanji": "美術館",
+        "kana": "びじゅつかん",
+        "meaning": "미술관 / art gallery"
+    },
+    {
+        "id": 629,
+        "category": "JLPT N4",
+        "kanji": "非常に",
+        "kana": "ひじょうに",
+        "meaning": "매우 / extremely"
+    },
+    {
+        "id": 630,
+        "category": "JLPT N4",
+        "kanji": "びっくりする",
+        "kana": "びっくりする",
+        "meaning": "깜짝 놀라다 / to be surprised"
+    },
+    {
+        "id": 631,
+        "category": "JLPT N4",
+        "kanji": "引っ越す",
+        "kana": "ひっこす",
+        "meaning": "이사하다 / to move house"
+    },
+    {
+        "id": 632,
+        "category": "JLPT N4",
+        "kanji": "必要",
+        "kana": "ひつよう",
+        "meaning": "필요 / necessary"
+    },
+    {
+        "id": 633,
+        "category": "JLPT N4",
+        "kanji": "ひどい",
+        "kana": "ひどい",
+        "meaning": "심한 / awful"
+    },
+    {
+        "id": 634,
+        "category": "JLPT N4",
+        "kanji": "開く",
+        "kana": "ひらく",
+        "meaning": "열다 / to open an event"
+    },
+    {
+        "id": 635,
+        "category": "JLPT N4",
+        "kanji": "ビル",
+        "kana": "ビル",
+        "meaning": "빌딩 / building or bill"
+    },
+    {
+        "id": 636,
+        "category": "JLPT N4",
+        "kanji": "昼間",
+        "kana": "ひるま",
+        "meaning": "주간 / daytime,during the day"
+    },
+    {
+        "id": 637,
+        "category": "JLPT N4",
+        "kanji": "昼休み",
+        "kana": "ひるやすみ",
+        "meaning": "점심 시간 / noon break"
+    },
+    {
+        "id": 638,
+        "category": "JLPT N4",
+        "kanji": "拾う",
+        "kana": "ひろう",
+        "meaning": "골라내다 / to pick up,to gather"
+    },
+    {
+        "id": 639,
+        "category": "JLPT N4",
+        "kanji": "ファックス",
+        "kana": "ファックス",
+        "meaning": "팩스 / fax"
+    },
+    {
+        "id": 640,
+        "category": "JLPT N4",
+        "kanji": "増える",
+        "kana": "ふえる",
+        "meaning": "증가하다 / to increase"
+    },
+    {
+        "id": 641,
+        "category": "JLPT N4",
+        "kanji": "深い",
+        "kana": "ふかい",
+        "meaning": "깊은 / deep"
+    },
+    {
+        "id": 642,
+        "category": "JLPT N4",
+        "kanji": "複雑",
+        "kana": "ふくざつ",
+        "meaning": "복잡 / complexity,complication"
+    },
+    {
+        "id": 643,
+        "category": "JLPT N4",
+        "kanji": "復習",
+        "kana": "ふくしゅう",
+        "meaning": "복습 / revision"
+    },
+    {
+        "id": 644,
+        "category": "JLPT N4",
+        "kanji": "部長",
+        "kana": "ぶちょう",
+        "meaning": "부장 / head of a section"
+    },
+    {
+        "id": 645,
+        "category": "JLPT N4",
+        "kanji": "普通",
+        "kana": "ふつう",
+        "meaning": "보통 / usually, or a train that stops at every station"
+    },
+    {
+        "id": 646,
+        "category": "JLPT N4",
+        "kanji": "ぶどう",
+        "kana": "ぶどう",
+        "meaning": "포도 / grapes"
+    },
+    {
+        "id": 647,
+        "category": "JLPT N4",
+        "kanji": "太る",
+        "kana": "ふとる",
+        "meaning": "살찌다 / to become fat"
+    },
+    {
+        "id": 648,
+        "category": "JLPT N4",
+        "kanji": "布団",
+        "kana": "ふとん",
+        "meaning": "이불 / Japanese bedding, futon"
+    },
+    {
+        "id": 649,
+        "category": "JLPT N4",
+        "kanji": "舟",
+        "kana": "ふね",
+        "meaning": "배 / ship"
+    },
+    {
+        "id": 650,
+        "category": "JLPT N4",
+        "kanji": "不便",
+        "kana": "ふべん",
+        "meaning": "불편 / inconvenience"
+    },
+    {
+        "id": 651,
+        "category": "JLPT N4",
+        "kanji": "踏む",
+        "kana": "ふむ",
+        "meaning": "밟다 / to step on"
+    },
+    {
+        "id": 652,
+        "category": "JLPT N4",
+        "kanji": "降り出す",
+        "kana": "ふりだす",
+        "meaning": "비가 오기 시작하다 / to start to rain"
+    },
+    {
+        "id": 653,
+        "category": "JLPT N4",
+        "kanji": "プレゼント",
+        "kana": "プレゼント",
+        "meaning": "선물 / present"
+    },
+    {
+        "id": 654,
+        "category": "JLPT N4",
+        "kanji": "文化",
+        "kana": "ぶんか",
+        "meaning": "문화 / culture"
+    },
+    {
+        "id": 655,
+        "category": "JLPT N4",
+        "kanji": "文学",
+        "kana": "ぶんがく",
+        "meaning": "문학 / literature"
+    },
+    {
+        "id": 656,
+        "category": "JLPT N4",
+        "kanji": "文法",
+        "kana": "ぶんぽう",
+        "meaning": "문법 / grammar"
+    },
+    {
+        "id": 657,
+        "category": "JLPT N4",
+        "kanji": "別",
+        "kana": "べつ",
+        "meaning": "차이 / different"
+    },
+    {
+        "id": 658,
+        "category": "JLPT N4",
+        "kanji": "ベル",
+        "kana": "ベル",
+        "meaning": "벨 / bell"
+    },
+    {
+        "id": 659,
+        "category": "JLPT N4",
+        "kanji": "変",
+        "kana": "へん",
+        "meaning": "이상함 / strange"
+    },
+    {
+        "id": 660,
+        "category": "JLPT N4",
+        "kanji": "返事",
+        "kana": "へんじ",
+        "meaning": "답변 / reply"
+    },
+    {
+        "id": 661,
+        "category": "JLPT N4",
+        "kanji": "貿易",
+        "kana": "ぼうえき",
+        "meaning": "무역 / trade"
+    },
+    {
+        "id": 662,
+        "category": "JLPT N4",
+        "kanji": "放送する",
+        "kana": "ほうそうする",
+        "meaning": "방송하다 / to broadcast"
+    },
+    {
+        "id": 663,
+        "category": "JLPT N4",
+        "kanji": "法律",
+        "kana": "ほうりつ",
+        "meaning": "법률 / law"
+    },
+    {
+        "id": 664,
+        "category": "JLPT N4",
+        "kanji": "僕",
+        "kana": "ぼく",
+        "meaning": "나 / I"
+    },
+    {
+        "id": 665,
+        "category": "JLPT N4",
+        "kanji": "星",
+        "kana": "ほし",
+        "meaning": "별 / star"
+    },
+    {
+        "id": 666,
+        "category": "JLPT N4",
+        "kanji": "ほど",
+        "kana": "ほど",
+        "meaning": "정도 / extent"
+    },
+    {
+        "id": 667,
+        "category": "JLPT N4",
+        "kanji": "ほとんど",
+        "kana": "ほとんど",
+        "meaning": "대부분 / mostly"
+    },
+    {
+        "id": 668,
+        "category": "JLPT N4",
+        "kanji": "ほめる",
+        "kana": "ほめる",
+        "meaning": "칭찬하다 / to praise"
+    },
+    {
+        "id": 669,
+        "category": "JLPT N4",
+        "kanji": "翻訳",
+        "kana": "ほんやく",
+        "meaning": "번역 / translation"
+    },
+    {
+        "id": 670,
+        "category": "JLPT N4",
+        "kanji": "参る",
+        "kana": "まいる",
+        "meaning": "가다,오다 / to go,to come"
+    },
+    {
+        "id": 671,
+        "category": "JLPT N4",
+        "kanji": "負ける",
+        "kana": "まける",
+        "meaning": "지다 / to lose"
+    },
+    {
+        "id": 672,
+        "category": "JLPT N4",
+        "kanji": "まじめ",
+        "kana": "まじめ",
+        "meaning": "진심 / serious"
+    },
+    {
+        "id": 673,
+        "category": "JLPT N4",
+        "kanji": "まず",
+        "kana": "まず",
+        "meaning": "우선 / first of all"
+    },
+    {
+        "id": 674,
+        "category": "JLPT N4",
+        "kanji": "または",
+        "kana": "または",
+        "meaning": "또는 / or,otherwise"
+    },
+    {
+        "id": 675,
+        "category": "JLPT N4",
+        "kanji": "間違える",
+        "kana": "まちがえる",
+        "meaning": "실수하다 / to make a mistake"
+    },
+    {
+        "id": 676,
+        "category": "JLPT N4",
+        "kanji": "間に合う",
+        "kana": "まにあう",
+        "meaning": "제시간에 대다 / to be in time for"
+    },
+    {
+        "id": 677,
+        "category": "JLPT N4",
+        "kanji": "周り",
+        "kana": "まわり",
+        "meaning": "주위 / surroundings"
+    },
+    {
+        "id": 678,
+        "category": "JLPT N4",
+        "kanji": "回る",
+        "kana": "まわる",
+        "meaning": "돌아가다 / to go around"
+    },
+    {
+        "id": 679,
+        "category": "JLPT N4",
+        "kanji": "漫画",
+        "kana": "まんが",
+        "meaning": "만화 / comic"
+    },
+    {
+        "id": 680,
+        "category": "JLPT N4",
+        "kanji": "真中",
+        "kana": "まんなか",
+        "meaning": "한가운데 / middle"
+    },
+    {
+        "id": 681,
+        "category": "JLPT N4",
+        "kanji": "見える",
+        "kana": "みえる",
+        "meaning": "보이다 / to be in sight"
+    },
+    {
+        "id": 682,
+        "category": "JLPT N4",
+        "kanji": "湖",
+        "kana": "みずうみ",
+        "meaning": "호수 / lake"
+    },
+    {
+        "id": 683,
+        "category": "JLPT N4",
+        "kanji": "味噌",
+        "kana": "みそ",
+        "meaning": "된장 / bean paste"
+    },
+    {
+        "id": 684,
+        "category": "JLPT N4",
+        "kanji": "見つかる",
+        "kana": "みつかる",
+        "meaning": "발견되다 / to be discovered"
+    },
+    {
+        "id": 685,
+        "category": "JLPT N4",
+        "kanji": "見つける",
+        "kana": "みつける",
+        "meaning": "발견하다 / to discover"
+    },
+    {
+        "id": 686,
+        "category": "JLPT N4",
+        "kanji": "皆",
+        "kana": "みな",
+        "meaning": "모두 / everybody"
+    },
+    {
+        "id": 687,
+        "category": "JLPT N4",
+        "kanji": "港",
+        "kana": "みなと",
+        "meaning": "항구 / harbour"
+    },
+    {
+        "id": 688,
+        "category": "JLPT N4",
+        "kanji": "向かう",
+        "kana": "むかう",
+        "meaning": "향하다 / to face"
+    },
+    {
+        "id": 689,
+        "category": "JLPT N4",
+        "kanji": "迎える",
+        "kana": "むかえる",
+        "meaning": "맞이하다 / to go out to meet"
+    },
+    {
+        "id": 690,
+        "category": "JLPT N4",
+        "kanji": "昔",
+        "kana": "むかし",
+        "meaning": "옛날 / olden days, former"
+    },
+    {
+        "id": 691,
+        "category": "JLPT N4",
+        "kanji": "虫",
+        "kana": "むし",
+        "meaning": "벌레 / insect"
+    },
+    {
+        "id": 692,
+        "category": "JLPT N4",
+        "kanji": "息子",
+        "kana": "むすこ",
+        "meaning": "아들 / son"
+    },
+    {
+        "id": 693,
+        "category": "JLPT N4",
+        "kanji": "娘",
+        "kana": "むすめ",
+        "meaning": "딸 / daughter"
+    },
+    {
+        "id": 694,
+        "category": "JLPT N4",
+        "kanji": "無理",
+        "kana": "むり",
+        "meaning": "무리 / impossible"
+    },
+    {
+        "id": 695,
+        "category": "JLPT N4",
+        "kanji": "召し上がる",
+        "kana": "めしあがる",
+        "meaning": "드시다 / to eat"
+    },
+    {
+        "id": 696,
+        "category": "JLPT N4",
+        "kanji": "珍しい",
+        "kana": "めずらしい",
+        "meaning": "드문 / rare"
+    },
+    {
+        "id": 697,
+        "category": "JLPT N4",
+        "kanji": "申し上げる",
+        "kana": "もうしあげる",
+        "meaning": "말씀드리다 / to say,to tell"
+    },
+    {
+        "id": 698,
+        "category": "JLPT N4",
+        "kanji": "申す",
+        "kana": "もうす",
+        "meaning": "말하다 / to be called,to say"
+    },
+    {
+        "id": 699,
+        "category": "JLPT N4",
+        "kanji": "もうすぐ",
+        "kana": "もうすぐ",
+        "meaning": "곧 / soon"
+    },
+    {
+        "id": 700,
+        "category": "JLPT N4",
+        "kanji": "もし",
+        "kana": "もし",
+        "meaning": "만약 / if"
+    },
+    {
+        "id": 701,
+        "category": "JLPT N4",
+        "kanji": "もちろん",
+        "kana": "もちろん",
+        "meaning": "물론 / of course"
+    },
+    {
+        "id": 702,
+        "category": "JLPT N4",
+        "kanji": "もっとも",
+        "kana": "もっとも",
+        "meaning": "가장 / extremely"
+    },
+    {
+        "id": 703,
+        "category": "JLPT N4",
+        "kanji": "戻る",
+        "kana": "もどる",
+        "meaning": "돌아 가다 / to turn back"
+    },
+    {
+        "id": 704,
+        "category": "JLPT N4",
+        "kanji": "木綿",
+        "kana": "こわた",
+        "meaning": "면직물 / cotton"
+    },
+    {
+        "id": 705,
+        "category": "JLPT N4",
+        "kanji": "もらう",
+        "kana": "もらう",
+        "meaning": "받다 / to receive"
+    },
+    {
+        "id": 706,
+        "category": "JLPT N4",
+        "kanji": "森",
+        "kana": "もり",
+        "meaning": "숲 / forest"
+    },
+    {
+        "id": 707,
+        "category": "JLPT N4",
+        "kanji": "焼く",
+        "kana": "やく",
+        "meaning": "굽다 / to bake,to grill"
+    },
+    {
+        "id": 708,
+        "category": "JLPT N4",
+        "kanji": "約束",
+        "kana": "やくそく",
+        "meaning": "약속 / promise"
+    },
+    {
+        "id": 709,
+        "category": "JLPT N4",
+        "kanji": "役に立つ",
+        "kana": "やくにたつ",
+        "meaning": "도움이 되다 / to be helpful"
+    },
+    {
+        "id": 710,
+        "category": "JLPT N4",
+        "kanji": "焼ける",
+        "kana": "やける",
+        "meaning": "구워지다 / to burn,to be roasted"
+    },
+    {
+        "id": 711,
+        "category": "JLPT N4",
+        "kanji": "優しい",
+        "kana": "やさしい",
+        "meaning": "부드러운 / kind"
+    },
+    {
+        "id": 712,
+        "category": "JLPT N4",
+        "kanji": "痩せる",
+        "kana": "やせる",
+        "meaning": "여위다 / to become thin"
+    },
+    {
+        "id": 713,
+        "category": "JLPT N4",
+        "kanji": "やっと",
+        "kana": "やっと",
+        "meaning": "겨우 / at last"
+    },
+    {
+        "id": 714,
+        "category": "JLPT N4",
+        "kanji": "やはり",
+        "kana": "やはり",
+        "meaning": "역시 / as I thought,absolutely"
+    },
+    {
+        "id": 715,
+        "category": "JLPT N4",
+        "kanji": "止む",
+        "kana": "やむ",
+        "meaning": "멈추다 / to stop"
+    },
+    {
+        "id": 716,
+        "category": "JLPT N4",
+        "kanji": "柔らかい",
+        "kana": "やわらかい",
+        "meaning": "부드러운 / soft"
+    },
+    {
+        "id": 717,
+        "category": "JLPT N4",
+        "kanji": "湯",
+        "kana": "ゆ",
+        "meaning": "뜨거운 물 / hot water"
+    },
+    {
+        "id": 718,
+        "category": "JLPT N4",
+        "kanji": "輸出する",
+        "kana": "ゆしゅつする",
+        "meaning": "수출하다 / to export"
+    },
+    {
+        "id": 719,
+        "category": "JLPT N4",
+        "kanji": "輸入する",
+        "kana": "ゆにゅうする",
+        "meaning": "수입하다 / to import"
+    },
+    {
+        "id": 720,
+        "category": "JLPT N4",
+        "kanji": "指",
+        "kana": "ゆび",
+        "meaning": "손가락 / finger"
+    },
+    {
+        "id": 721,
+        "category": "JLPT N4",
+        "kanji": "指輪",
+        "kana": "ゆびわ",
+        "meaning": "반지 / finger ring"
+    },
+    {
+        "id": 722,
+        "category": "JLPT N4",
+        "kanji": "夢",
+        "kana": "ゆめ",
+        "meaning": "꿈 / dream"
+    },
+    {
+        "id": 723,
+        "category": "JLPT N4",
+        "kanji": "揺れる",
+        "kana": "ゆれる",
+        "meaning": "흔들리다 / to shake,to sway"
+    },
+    {
+        "id": 724,
+        "category": "JLPT N4",
+        "kanji": "用",
+        "kana": "よう",
+        "meaning": "용도 / use"
+    },
+    {
+        "id": 725,
+        "category": "JLPT N4",
+        "kanji": "用意",
+        "kana": "ようい",
+        "meaning": "준비 / preparation"
+    },
+    {
+        "id": 726,
+        "category": "JLPT N4",
+        "kanji": "用事",
+        "kana": "ようじ",
+        "meaning": "용무 / things to do"
+    },
+    {
+        "id": 727,
+        "category": "JLPT N4",
+        "kanji": "汚れる",
+        "kana": "よごれる",
+        "meaning": "더러워지다 / to get dirty"
+    },
+    {
+        "id": 728,
+        "category": "JLPT N4",
+        "kanji": "予習",
+        "kana": "よしゅう",
+        "meaning": "예습 / preparation for a lesson"
+    },
+    {
+        "id": 729,
+        "category": "JLPT N4",
+        "kanji": "予定",
+        "kana": "よてい",
+        "meaning": "예정 / arrangement"
+    },
+    {
+        "id": 730,
+        "category": "JLPT N4",
+        "kanji": "予約",
+        "kana": "よやく",
+        "meaning": "예약 / reservation"
+    },
+    {
+        "id": 731,
+        "category": "JLPT N4",
+        "kanji": "寄る",
+        "kana": "よる",
+        "meaning": "들리다 / to visit"
+    },
+    {
+        "id": 732,
+        "category": "JLPT N4",
+        "kanji": "喜ぶ",
+        "kana": "よろこぶ",
+        "meaning": "기뻐하다 / to be delighted"
+    },
+    {
+        "id": 733,
+        "category": "JLPT N4",
+        "kanji": "よろしい",
+        "kana": "よろしい",
+        "meaning": "좋다 / OK,all right"
+    },
+    {
+        "id": 734,
+        "category": "JLPT N4",
+        "kanji": "理由",
+        "kana": "りゆう",
+        "meaning": "이유 / reason"
+    },
+    {
+        "id": 735,
+        "category": "JLPT N4",
+        "kanji": "利用",
+        "kana": "りよう",
+        "meaning": "이용 / utilization"
+    },
+    {
+        "id": 736,
+        "category": "JLPT N4",
+        "kanji": "両方",
+        "kana": "りょうほう",
+        "meaning": "모두 / both sides"
+    },
+    {
+        "id": 737,
+        "category": "JLPT N4",
+        "kanji": "旅館",
+        "kana": "りょかん",
+        "meaning": "여관 / Japanese hotel"
+    },
+    {
+        "id": 738,
+        "category": "JLPT N4",
+        "kanji": "留守",
+        "kana": "るす",
+        "meaning": "부재중 / absence"
+    },
+    {
+        "id": 739,
+        "category": "JLPT N4",
+        "kanji": "冷房",
+        "kana": "れいぼう",
+        "meaning": "냉방 / air conditioning"
+    },
+    {
+        "id": 740,
+        "category": "JLPT N4",
+        "kanji": "歴史",
+        "kana": "れきし",
+        "meaning": "역사 / history"
+    },
+    {
+        "id": 741,
+        "category": "JLPT N4",
+        "kanji": "レジ",
+        "kana": "レジ",
+        "meaning": "레지스터 / register"
+    },
+    {
+        "id": 742,
+        "category": "JLPT N4",
+        "kanji": "レポート",
+        "kana": "レポート",
+        "meaning": "보고서 / report"
+    },
+    {
+        "id": 743,
+        "category": "JLPT N4",
+        "kanji": "連絡",
+        "kana": "れんらく",
+        "meaning": "연락 / contact"
+    },
+    {
+        "id": 744,
+        "category": "JLPT N4",
+        "kanji": "ワープロ",
+        "kana": "ワープロ",
+        "meaning": "워드 프로세서 / word processor"
+    },
+    {
+        "id": 745,
+        "category": "JLPT N4",
+        "kanji": "沸かす",
+        "kana": "わかす",
+        "meaning": "끓이다 / to boil,to heat"
+    },
+    {
+        "id": 746,
+        "category": "JLPT N4",
+        "kanji": "別れる",
+        "kana": "わかれる",
+        "meaning": "헤어지다 / to separate"
+    },
+    {
+        "id": 747,
+        "category": "JLPT N4",
+        "kanji": "沸く",
+        "kana": "わく",
+        "meaning": "끓다 / to boil, to grow hot,to get excited"
+    },
+    {
+        "id": 748,
+        "category": "JLPT N4",
+        "kanji": "訳",
+        "kana": "わけ",
+        "meaning": "의미 / meaning,reason"
+    },
+    {
+        "id": 749,
+        "category": "JLPT N4",
+        "kanji": "忘れ物",
+        "kana": "わすれもの",
+        "meaning": "분실물 / lost article"
+    },
+    {
+        "id": 750,
+        "category": "JLPT N4",
+        "kanji": "笑う",
+        "kana": "わらう",
+        "meaning": "웃다 / to laugh,to smile"
+    },
+    {
+        "id": 751,
+        "category": "JLPT N4",
+        "kanji": "割合",
+        "kana": "わりあい",
+        "meaning": "비율 / rate,ratio,percentage"
+    },
+    {
+        "id": 752,
+        "category": "JLPT N4",
+        "kanji": "割れる",
+        "kana": "われる",
+        "meaning": "부수다 / to break"
+    },
+    {
+        "id": 753,
+        "category": "JLPT N4",
+        "kanji": "泳ぎ方",
+        "kana": "およぎかた",
+        "meaning": "수영하는 방법 / way of swimming"
+    }
+]
