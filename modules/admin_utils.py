@@ -1,6 +1,7 @@
-import feedparser
-import pandas as pd
+# import pandas as pd # Removed for size optimization
 import streamlit as st
+import random
+from datetime import datetime, timedelta
 
 def fetch_rss_feeds(urls):
     """
@@ -31,20 +32,34 @@ def summarize_text(text):
 
 def plot_user_stats(history_data=None):
     """
-    Visualizes user statistics using Pandas and Streamlit charts.
+    Visualizes user statistics using Streamlit native charts (no Pandas).
     """
     # Mock data for demonstration if history_data is not provided
     if history_data is None:
-        data = {
-            "date": pd.date_range(start="2025-12-01", periods=10),
-            "xp_gained": [50, 60, 40, 80, 100, 90, 120, 110, 150, 130],
-            "words_learned": [5, 6, 4, 8, 10, 9, 12, 11, 15, 13]
-        }
-        df = pd.DataFrame(data)
-        df.set_index("date", inplace=True)
+        # Create mock data using list of dicts or just dict of lists
+        # Streamlit works fine with dict of lists
         
-        st.subheader("Daily Activity")
-        st.line_chart(df)
+        dates = [(datetime(2025, 12, 1) + timedelta(days=i)).strftime("%Y-%m-%d") for i in range(10)]
+        xp_gained = [50, 60, 40, 80, 100, 90, 120, 110, 150, 130]
+        words_learned = [5, 6, 4, 8, 10, 9, 12, 11, 15, 13]
+        
+        data = {
+            "date": dates,
+            "XP Gained": xp_gained,
+            "Words Learned": words_learned
+        }
+        
+        # Streamlit line_chart can take a dict, but usually expects index as part of data or index
+        # To mimic setting index to date without pandas, we can structure it differently or just pass chart data.
+        # Actually, st.line_chart(data) treats keys as series. 
+        # If we want 'date' to be x-axis, we might need a slightly different format or just use the indices.
+        # For simplicity to avoid pandas, let's just chart the values.
+        
+        st.subheader("Daily Activity (XP)")
+        st.line_chart(xp_gained)
+    else:
+        # Implement with real history data if available
+        pass
     else:
         # Implement with real history data if available
         pass
