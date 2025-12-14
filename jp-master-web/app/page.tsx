@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { performDailyCheckIn, getUserProfile } from "@/lib/firestore";
 import Leaderboard from "@/components/Leaderboard";
+import StatsDashboard from "@/components/statistics/StatsDashboard";
 
 function ProtectedHome() {
   const { user, loading } = useAuth();
@@ -108,6 +109,12 @@ function ProtectedHome() {
         </div>
 
       </div>
+
+      {/* Stats Section */}
+      <div className="w-full max-w-6xl mt-12 px-4 mb-12">
+        <StatsDashboard uid={user.uid} />
+      </div>
+
     </div>
   );
 }
