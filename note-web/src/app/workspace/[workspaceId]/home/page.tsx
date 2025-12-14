@@ -114,7 +114,7 @@ export default function HomePage({ params }: { params: Promise<{ workspaceId: st
                         </div>
                         <div className="flex-1 text-center md:text-left">
                             <h3 className="font-semibold mb-1">Connect AI Meeting Notes</h3>
-                            <p className="text-sm text-gray-500 dark:text-gray-400">Join calls, transcribe audio, and summarize meetings all in Notion.</p>
+                            <p className="text-sm text-gray-500 dark:text-gray-400">Join calls, transcribe audio, and summarize meetings all in AI Dashboard.</p>
                             <button className="mt-3 text-blue-500 text-sm font-medium hover:underline flex items-center gap-1 justify-center md:justify-start">
                                 Connect Calendar <ArrowRight size={14} />
                             </button>

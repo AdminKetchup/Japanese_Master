@@ -229,7 +229,7 @@ export default function Sidebar({ workspaceId }: { workspaceId: string }) {
             {/* Workspace Switcher / User */}
             <div className="p-3 hover:bg-gray-200 dark:hover:bg-[#2C2C2C] m-2 rounded-md cursor-pointer transition flex items-center gap-2 mb-4">
                 <div className="w-5 h-5 bg-orange-500 rounded text-[10px] text-white flex items-center justify-center font-bold">J</div>
-                <span className="text-sm font-medium text-gray-700 dark:text-gray-200 truncate flex-1">Junsu's Notion</span>
+                <span className="text-sm font-medium text-gray-700 dark:text-gray-200 truncate flex-1">Junsu's Workspace</span>
                 <ChevronDown size={14} className="text-gray-400" />
             </div>
 
@@ -257,7 +257,7 @@ export default function Sidebar({ workspaceId }: { workspaceId: string }) {
                     href={`/workspace/${workspaceId}/ai`}
                     className="flex items-center gap-3 px-3 py-1.5 text-sm text-gray-600 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-[#2C2C2C] rounded-md transition"
                 >
-                    <Sparkles size={16} className="text-purple-500" /> <span className="font-medium text-gray-900 dark:text-gray-200">Notion AI</span>
+                    <Sparkles size={16} className="text-purple-500" /> <span className="font-medium text-gray-900 dark:text-gray-200">Ask AI</span>
                 </Link>
             </div>
 
