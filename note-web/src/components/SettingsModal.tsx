@@ -14,7 +14,7 @@ export default function SettingsModal({ isOpen, onClose, initialTab = 'general' 
 
     const [activeTab, setActiveTab] = useState<'general' | 'members'>(initialTab);
     const [apiKey, setApiKey] = useState("");
-    const [model, setModel] = useState("openai/gpt-3.5-turbo");
+    const [model, setModel] = useState("anthropic/claude-4.5-sonnet");
 
     // Members State
     const [email, setEmail] = useState("");
@@ -26,7 +26,7 @@ export default function SettingsModal({ isOpen, onClose, initialTab = 'general' 
         if (isOpen) {
             setActiveTab(initialTab); // Reset tab when opening
             const storedKey = localStorage.getItem("openrouter_api_key") || "";
-            const storedModel = localStorage.getItem("openrouter_model") || "openai/gpt-3.5-turbo";
+            const storedModel = localStorage.getItem("openrouter_model") || "anthropic/claude-4.5-sonnet";
             setApiKey(storedKey);
             setModel(storedModel);
             loadMembers();
@@ -138,9 +138,7 @@ export default function SettingsModal({ isOpen, onClose, initialTab = 'general' 
                                     onChange={(e) => setModel(e.target.value)}
                                     className="w-full p-2 border border-gray-300 dark:border-gray-700 bg-white dark:bg-[#111] rounded-lg focus:ring-2 focus:ring-black dark:focus:ring-white focus:outline-none"
                                 >
-                                    <option value="openai/gpt-3.5-turbo">GPT-3.5 Turbo (Default)</option>
-                                    <option value="openai/gpt-4o">GPT-4o</option>
-                                    <option value="anthropic/claude-3.5-sonnet">Claude 3.5 Sonnet</option>
+                                    <option value="anthropic/claude-4.5-sonnet">GPT-3.5 Turbo (Default)</option>
                                     <optgroup label="Advanced Models (2025)">
                                         <option value="anthropic/claude-4.5-sonnet">Claude 4.5 Sonnet</option>
                                         <option value="anthropic/claude-4.5-opus">Claude 4.5 Opus</option>
