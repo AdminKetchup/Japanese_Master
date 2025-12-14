@@ -27,7 +27,7 @@ export default function CalendarPage() {
     // Load events from LocalStorage on mount
     useEffect(() => {
         if (!workspaceId) return;
-        const savedEvents = localStorage.getItem(\`calendar_events_\${workspaceId}\`);
+        const savedEvents = localStorage.getItem(`calendar_events_${workspaceId}`);
         if (savedEvents) {
             setEvents(JSON.parse(savedEvents));
         }
@@ -35,7 +35,7 @@ export default function CalendarPage() {
 
     const saveEvents = (newEvents: CalendarEvent[]) => {
         setEvents(newEvents);
-        localStorage.setItem(\`calendar_events_\${workspaceId}\`, JSON.stringify(newEvents));
+        localStorage.setItem(`calendar_events_${workspaceId}`, JSON.stringify(newEvents));
     };
 
     const handlePrevMonth = () => {
@@ -56,14 +56,14 @@ export default function CalendarPage() {
     };
     
     const getEventsForDay = (day: number) => {
-        const dateStr = \`\${year}-\${String(month + 1).padStart(2, '0')}-\${String(day).padStart(2, '0')}\`;
+        const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
         return events.filter(e => e.date === dateStr);
     };
 
     const handleAddEvent = (day: number) => {
         const title = window.prompt("Enter event title:");
         if (title) {
-            const dateStr = \`\${year}-\${String(month + 1).padStart(2, '0')}-\${String(day).padStart(2, '0')}\`;
+            const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
             const newEvent: CalendarEvent = {
                 id: Date.now().toString(),
                 title,
