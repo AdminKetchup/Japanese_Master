@@ -1,8 +1,9 @@
-
-export async function generateAIContent(prompt: string, systemPrompt?: string): Promise<string> {
+export async function generateAIContent(prompt: string, systemPrompt?: string, modelOverride?: string): Promise<string> {
     try {
         const apiKey = localStorage.getItem("openrouter_api_key");
-        const model = localStorage.getItem("openrouter_model") || "openai/gpt-3.5-turbo";
+        const storedModel = localStorage.getItem("openrouter_model");
+        // Prefer override, then stored, then default
+        const model = modelOverride || storedModel || "anthropic/claude-4.5-sonnet";
 
         if (!apiKey) {
             return "Please set your OpenRouter API Key in Settings.";
