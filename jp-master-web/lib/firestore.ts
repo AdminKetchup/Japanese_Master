@@ -1,5 +1,5 @@
 import { db } from "./firebase";
-import { doc, getDoc, setDoc, updateDoc, collection, getDocs, query, orderBy, limit, addDoc, serverTimestamp, onSnapshot, where, deleteDoc } from "firebase/firestore";
+import { doc, getDoc, setDoc, updateDoc, collection, getDocs, query, orderBy, limit, addDoc, serverTimestamp, onSnapshot, where, deleteDoc, runTransaction, Timestamp } from "firebase/firestore";
 
 export interface UserProfile {
     uid: string;
@@ -34,7 +34,7 @@ export interface GameResult {
     id?: string;
     wpm: number;
     accuracy: number; // 0-100
-    timestamp: any; // Firestore Timestamp
+    timestamp: Timestamp; // Firestore Timestamp
     mode?: string;
     xpEarned?: number;
 }
@@ -45,7 +45,7 @@ export interface ChatMessage {
     senderId: string;
     senderName: string;
     senderPhoto?: string | null;
-    timestamp: any; // Firestore Timestamp
+    timestamp: Timestamp; // Firestore Timestamp
 }
 
 export interface FriendRequest {
@@ -83,22 +83,32 @@ export async function createUserProfile(uid: string, email: string | null) {
 
 export async function updateUserXP(uid: string, xpToAdd: number) {
     const userRef = doc(db, "users", uid);
-    const userSnap = await getDoc(userRef);
 
-    if (!userSnap.exists()) return;
+    try {
+        await runTransaction(db, async (transaction) => {
+            const userSnap = await transaction.get(userRef);
+            if (!userSnap.exists()) {
+                // Determine what to do if user doesn't exist? Throw or ignore?
+                // For now, throw to avoid silent fail logic updates
+                throw new Error("User does not exist!");
+            }
 
-    const data = userSnap.data() as UserProfile;
-    let { xp, level } = data;
+            const data = userSnap.data() as UserProfile;
+            let { xp, level } = data;
 
-    xp += xpToAdd;
+            xp += xpToAdd;
 
-    // Simple Level Up Logic: Level * 1000
-    if (xp >= level * 1000) {
-        level += 1;
-        xp = 0; // Reset XP or carry over? Python logic was reset.
+            // Simple Level Up Logic: Level * 1000
+            if (xp >= level * 1000) {
+                level += 1;
+                xp = 0; // Reset XP or carry over? Python logic was reset.
+            }
+
+            transaction.update(userRef, { xp, level });
+        });
+    } catch (e) {
+        console.error("Transaction failed: ", e);
     }
-
-    await updateDoc(userRef, { xp, level });
 }
 
 export async function performDailyCheckIn(uid: string): Promise<{ success: boolean; streak: number; message: string }> {
@@ -362,13 +372,9 @@ export async function getFriendsList(uid: string): Promise<UserProfile[]> {
 
     if (!user.friends || user.friends.length === 0) return [];
 
-    // Fetch up to 10 friends (Firestore 'in' query limit is 10)
-    // For MVP, we'll just fetch chunks or map.
-    // Let's just fetch individual docs for simplicity as friend list won't be huge yet.
-    const friends: UserProfile[] = [];
-    for (const friendId of user.friends) {
-        const fProfile = await getUserProfile(friendId);
-        if (fProfile) friends.push(fProfile);
-    }
-    return friends;
+    // Parallel Fetching using Promise.all
+    const friendPromises = user.friends.map(friendId => getUserProfile(friendId));
+    const friends = await Promise.all(friendPromises);
+
+    return friends.filter((profile): profile is UserProfile => profile !== null);
 }

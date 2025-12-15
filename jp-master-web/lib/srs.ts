@@ -1,3 +1,5 @@
+import { SRS_CONFIG, GRADE } from './srs-constants';
+
 export interface SRSResult {
     next_review: string; // ISO Date
     half_life: number;   // Hours
@@ -5,11 +7,6 @@ export interface SRSResult {
     lapses: number;
     interval_days: number; // For informational purposes
 }
-
-// Configuration
-const TARGET_PROBABILITY = 0.9; // 90% retention target
-const LN2 = Math.log(2);
-const MAX_HALF_LIFE = 24 * 365 * 10; // Cap at 10 years (in hours)
 
 // Helper: Calculate P(recall)
 export function calculateRecallProbability(halfLifeHours: number, elapsedHours: number): number {
@@ -31,77 +28,69 @@ export function calculateNextReview(
     grade: number, // 0-5
     currentHalfLife: number, // Hours, 0 if new
     repetitions: number,
-    lapses: number,
-    daysSinceLastReview: number = 0 // Used for 'actual' stability update if we were doing true FSRS, but simple version requested.
+    lapses: number
 ): SRSResult {
-    // 1. Initial State Handling
-    if (currentHalfLife <= 0) {
-        currentHalfLife = 12; // Start with 12 hours?? Or depends on grade.
-        // If it's a new card being reviewed for the first time:
-        // Grade 0-2: Fail immediately? 
-        // Let's assume this function is called AFTER the user rates a card.
-    }
-
     let nextHalfLife = currentHalfLife;
     let nextReps = repetitions;
     let nextLapses = lapses;
 
-    // 2. Algorithm Logic
-    if (grade < 3) {
-        // --- AGAIN / HARD (Fail) ---
-        nextReps = 0; // Reset consecutive reps (or keep count but punish HL?) -> Usually "streak" breaks.
-        nextLapses += 1;
+    // Handle first-time reviews (new cards)
+    if (currentHalfLife <= 0 && repetitions === 0) {
+        // Set initial Half-Life based on user's perceived difficulty
+        if (grade === GRADE.AGAIN) {
+            nextHalfLife = SRS_CONFIG.INITIAL_HL_AGAIN;
+        } else if (grade === GRADE.HARD) {
+            nextHalfLife = SRS_CONFIG.INITIAL_HL_HARD;
+        } else if (grade === GRADE.GOOD) {
+            nextHalfLife = SRS_CONFIG.INITIAL_HL_GOOD;
+        } else {
+            nextHalfLife = SRS_CONFIG.INITIAL_HL_EASY;
+        }
 
-        // Slash Half-Life
-        // Example: Drop to 40% of previous, or minimum 2 hours.
-        nextHalfLife = Math.max(2, currentHalfLife * 0.4);
+        // Set reps and lapses based on grade
+        if (grade < GRADE.GOOD) {
+            nextReps = 0;
+            nextLapses = 1;
+        } else {
+            nextReps = 1;
+            nextLapses = 0;
+        }
     } else {
-        // --- PASS (Good/Easy) ---
-        nextReps += 1;
+        // Normal review logic for established cards
+        if (grade < GRADE.GOOD) {
+            // --- FAIL (Again/Hard) ---
+            nextReps = 0;
+            nextLapses += 1;
+            nextHalfLife = Math.max(
+                SRS_CONFIG.MIN_HALF_LIFE_HOURS,
+                currentHalfLife * SRS_CONFIG.FAIL_DECAY_FACTOR
+            );
+        } else {
+            // --- PASS (Good/Easy) ---
+            nextReps += 1;
 
-        // Growth Factor
-        // We want growth to dampen as reps increase (log/root).
-        // basicMulti: Good=2.5x, Easy=4.0x?
-        let baseMultiplier = 2.0;
-        if (grade === 3) baseMultiplier = 2.5; // Good
-        if (grade === 4) baseMultiplier = 3.5; // Easy
-        if (grade === 5) baseMultiplier = 4.5; // Perfect
+            // Growth Factor with Damping
+            let baseMultiplier: number = SRS_CONFIG.MULTIPLIER_HARD;
+            if (grade === GRADE.GOOD) baseMultiplier = SRS_CONFIG.MULTIPLIER_GOOD;
+            if (grade === GRADE.EASY) baseMultiplier = SRS_CONFIG.MULTIPLIER_EASY;
+            if (grade === GRADE.PERFECT) baseMultiplier = SRS_CONFIG.MULTIPLIER_PERFECT;
 
-        // Damping: Multiplier decreases as Reps increase? 
-        // Actually, in SRS, stability usually grows EXPONENTIALLY if you keep recalling correctly. 
-        // But user asked: "reps가 쌓일수록 증가폭이 완만해지게(로그/루트 등)"
-        // This likely means the *multiplier* should decrease, or the *added* value?
-        // Let's assume they mean stability shouldn't explode too fast.
+            const damping = 1 + SRS_CONFIG.DAMPING_COEFFICIENT * Math.log(Math.max(1, nextReps));
+            const effectiveMultiplier = baseMultiplier / damping;
 
-        // Modifier = Base / (1 + decay * log(reps))
-        const damping = 1 + 0.1 * Math.log(Math.max(1, nextReps));
-        const effectiveMultiplier = baseMultiplier / damping;
-
-        nextHalfLife = currentHalfLife * effectiveMultiplier;
-
-        // If first successful review of a new item, set initial HL
-        if (repetitions === 0) {
-            // override calculated logic for first pass
-            if (grade === 3) nextHalfLife = 24 * 3; // 3 days
-            if (grade >= 4) nextHalfLife = 24 * 7; // 7 days
+            nextHalfLife = currentHalfLife * effectiveMultiplier;
         }
     }
 
     // Cap Max
-    nextHalfLife = Math.min(nextHalfLife, MAX_HALF_LIFE);
+    nextHalfLife = Math.min(nextHalfLife, SRS_CONFIG.MAX_HALF_LIFE_HOURS);
 
-    // 3. Calculate Due Date
-    // Hours until P drops to TARGET_PROBABILITY
-    const hoursToNextReview = calculateInterval(nextHalfLife, TARGET_PROBABILITY);
-
-    // Ensure we don't schedule "0 hours" if it's super short, minimum 1 hour?
-    // Actually if they failed, users usually want "1 min" or "10 min". 
-    // For this MVP, let's say minimum 4 hours if passed, or immediate if failed?
-    // User Requirement 5: "실패(Again)는 즉시 재출제" -> Implies dueAt = now
+    // Calculate Due Date
+    const hoursToNextReview = calculateInterval(nextHalfLife, SRS_CONFIG.TARGET_PROBABILITY);
 
     let dueOffsetHours = hoursToNextReview;
-    if (grade < 3) {
-        dueOffsetHours = 0; // Immediate
+    if (grade < GRADE.GOOD) {
+        dueOffsetHours = 0; // Immediate review for failures
     }
 
     const nextReviewDate = new Date();

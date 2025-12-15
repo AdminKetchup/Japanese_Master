@@ -36,6 +36,9 @@ export default function SRSPage() {
     const [options, setOptions] = useState<Vocab[]>([]);
     const [selectedOption, setSelectedOption] = useState<number | null>(null);
     const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
+    const [showRatingButtons, setShowRatingButtons] = useState(false);
+    const [pendingCardId, setPendingCardId] = useState<number | null>(null);
+    const [error, setError] = useState<string | null>(null);
 
     // Get unique categories
     const categories = Array.from(new Set(vocabData.map(v => v.category || "General")));
@@ -81,6 +84,8 @@ export default function SRSPage() {
         setSelectedOption(null);
         setIsCorrect(null);
         setShowBack(false);
+        setShowRatingButtons(false);
+        setPendingCardId(null);
     };
 
     const handleLimitChange = async (val: number) => {
@@ -174,7 +179,9 @@ export default function SRSPage() {
                 setFinished(true); // Nothing to review
             }
         } catch (e) {
-            console.error("Failed to load SRS session", e);
+            const message = e instanceof Error ? e.message : 'Unknown error occurred';
+            console.error("Failed to load SRS session:", message);
+            setError(`Failed to load session: ${message}`);
         } finally {
             setLoading(false);
         }
@@ -183,24 +190,35 @@ export default function SRSPage() {
     const handleOptionClick = async (option: Vocab) => {
         if (selectedOption !== null || !currentCard) return; // Prevent double click
 
+        // Capture card reference at click time to prevent race condition
+        const cardAtClickTime = currentCard;
+
         setSelectedOption(option.id);
-        const correct = option.id === currentCard.id;
+        const correct = option.id === cardAtClickTime.id;
         setIsCorrect(correct);
         setShowBack(true); // Reveal answer
+        setPendingCardId(cardAtClickTime.id);
 
-        // Auto-rate logic
-        // Correct -> Grade 3 (Good)
-        // Wrong -> Grade 1 (Again)
-        const quality = correct ? 3 : 1;
-
-        // Delay moving to next card to show feedback
+        // Show manual rating buttons instead of auto-rating
         setTimeout(() => {
-            handleRate(quality);
-        }, 1500);
+            setShowRatingButtons(true);
+        }, 500); // Brief delay to let user see answer first
     };
 
-    const handleRate = async (quality: number) => {
+    const handleManualRate = (grade: number) => {
+        if (pendingCardId === null) return;
+        setShowRatingButtons(false);
+        handleRate(grade, pendingCardId);
+    };
+
+    const handleRate = async (quality: number, cardIdAtClickTime?: number) => {
         if (!currentCard || !user) return;
+
+        // Verify card hasn't changed (race condition prevention)
+        if (cardIdAtClickTime !== undefined && cardIdAtClickTime !== currentCard.id) {
+            console.warn("Card changed during rating delay, ignoring stale rating");
+            return;
+        }
 
         // 1. Calculate new SRS state
         const oldProgress = progressMap[currentCard.id] || {
@@ -250,6 +268,32 @@ export default function SRSPage() {
     };
 
     if (loading) return <div className="text-center mt-20 text-white">Loading Reviews...</div>;
+
+    // Error Display
+    if (error) {
+        return (
+            <div className="flex flex-col items-center justify-center min-h-[80vh] px-4">
+                <div className="bg-red-900/30 border border-red-500/50 rounded-2xl p-8 max-w-md text-center">
+                    <h2 className="text-2xl font-bold text-red-400 mb-4">⚠️ Error</h2>
+                    <p className="text-gray-300 mb-6">{error}</p>
+                    <div className="flex gap-3 justify-center">
+                        <button
+                            onClick={() => setError(null)}
+                            className="px-6 py-3 bg-gray-700 hover:bg-gray-600 text-white rounded-lg font-semibold transition"
+                        >
+                            Dismiss
+                        </button>
+                        <button
+                            onClick={() => window.location.reload()}
+                            className="px-6 py-3 bg-red-600 hover:bg-red-700 text-white rounded-lg font-semibold transition"
+                        >
+                            Reload Page
+                        </button>
+                    </div>
+                </div>
+            </div>
+        );
+    }
 
     if (finished) return (
         <div className="flex flex-col items-center justify-center min-h-[80vh] text-center text-white">
@@ -360,6 +404,19 @@ export default function SRSPage() {
                         );
                     })}
                 </div>
+
+                {/* Manual Rating Buttons */}
+                {showRatingButtons && (
+                    <div className="mt-6 animate-fade-in">
+                        <p className="text-gray-400 text-sm mb-3">How difficult was this?</p>
+                        <div className="flex justify-center gap-2">
+                            <button onClick={() => handleManualRate(1)} className="px-4 py-2 bg-red-600 hover:bg-red-700 rounded-lg text-white font-semibold transition">Again</button>
+                            <button onClick={() => handleManualRate(2)} className="px-4 py-2 bg-yellow-600 hover:bg-yellow-700 rounded-lg text-white font-semibold transition">Hard</button>
+                            <button onClick={() => handleManualRate(3)} className="px-4 py-2 bg-green-600 hover:bg-green-700 rounded-lg text-white font-semibold transition">Good</button>
+                            <button onClick={() => handleManualRate(4)} className="px-4 py-2 bg-blue-600 hover:bg-blue-700 rounded-lg text-white font-semibold transition">Easy</button>
+                        </div>
+                    </div>
+                )}
 
             </div>
         </div>
