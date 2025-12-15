@@ -100,38 +100,76 @@ export default function SRSPage() {
                 import("@/lib/firestore").then(m => m.getUserProfile(user.uid))
             ]);
 
+            console.log("Loaded Progress items:", Object.keys(progress).length);
+
             setProgressMap(progress);
             // Use profile limit, or fallback to state limit, or default 20
             const limit = userProfile?.daily_limit || userLimit || 20;
 
             const now = new Date();
             const queue: Vocab[] = [];
+            const reviewedTodayCount = 0; // TODO: Track daily limit correctly
 
             // 1. Filter by Category
             const filteredVocab = vocabData.filter(v => (v.category || "General") === selectedCategory);
 
-            // 2. Find due items within category
+            // 2. Candidate List with Metrics
+            const candidates: { word: Vocab; p: number; due: boolean; next_review: Date }[] = [];
+
             filteredVocab.forEach((word) => {
                 const p = progress[word.id];
                 if (p) {
-                    // If exists, check if due
-                    if (new Date(p.next_review) <= now) {
-                        queue.push(word);
+                    const reviewDate = new Date(p.next_review);
+
+                    // Calculate P(recall)
+                    // Elapsed hours
+                    const lastReviewDate = p.last_review ? new Date(p.last_review) : new Date(p.next_review); // Fallback
+                    // Only use last_review if it exists and is valid, otherwise estimation might be off but acceptable for sorting
+                    // Actually, if we don't have last_review, we can't calculate exact P based on T - LastT.
+                    // But we can approximate or just rely on 'next_review <= now'.
+
+                    const timeDiff = now.getTime() - (p.last_review ? new Date(p.last_review).getTime() : now.getTime());
+                    const elapsedHours = Math.max(0, timeDiff / (1000 * 60 * 60));
+
+                    const prob = p.half_life ? calculateRecallProbability(p.half_life, elapsedHours) : 0; // 0 if new/no half_life
+
+                    if (reviewDate <= now) {
+                        candidates.push({ word, p: prob, due: true, next_review: reviewDate });
                     }
                 } else {
-                    // If new, add to queue
-                    if (queue.length < limit) {
-                        queue.push(word);
-                    }
+                    // New Card
+                    candidates.push({ word, p: 0, due: true, next_review: new Date(0) });
                 }
             });
 
-            // Shuffle queue
-            queue.sort(() => Math.random() - 0.5);
+            // 3. Sort: P(recall) Ascending (Low P first), then Overdue Descending? 
+            // User: "P(recall) 낮은 순 / overdue 큰 순"
+            candidates.sort((a, b) => {
+                // If both are new/p=0, stable sort?
+                // New items have p=0 usually (or undefined).
+                return a.p - b.p;
+            });
 
-            setSessionQueue(queue);
-            if (queue.length > 0) {
-                setCurrentCard(queue[0]);
+            console.log("Total Candidates (Due + New):", candidates.length);
+
+            // Apply Limit
+            // We should prioritize "Reviews" (Due) over "New"? Or mix? 
+            // Usually Review first.
+            const sessionCandidates = candidates.slice(0, limit);
+
+            // Generate Queue
+            const finalQueue = sessionCandidates.map(c => c.word);
+
+            console.log("Session Queue Length:", finalQueue.length);
+
+            // No random shuffle if we want to respect P sorting? 
+            // User said "Sort by P". So let's keep it sorted or maybe local shuffle for variety?
+            // "Sort by P" usually implies strictly showing hardest first.
+            // finalQueue.sort(() => Math.random() - 0.5); 
+
+            setSessionQueue(finalQueue);
+            if (finalQueue.length > 0) {
+                setCurrentCard(finalQueue[0]);
             } else {
                 setFinished(true); // Nothing to review
             }
@@ -151,8 +189,8 @@ export default function SRSPage() {
         setShowBack(true); // Reveal answer
 
         // Auto-rate logic
-        // If correct -> 3 (Good) or 5 (Easy - not implementing time tracking for MVP)
-        // If wrong -> 1 (Hard - reset)
+        // Correct -> Grade 3 (Good)
+        // Wrong -> Grade 1 (Again)
         const quality = correct ? 3 : 1;
 
         // Delay moving to next card to show feedback
@@ -167,30 +205,37 @@ export default function SRSPage() {
         // 1. Calculate new SRS state
         const oldProgress = progressMap[currentCard.id] || {
             word_id: currentCard.id,
-            next_review: new Date().toISOString().split('T')[0], // irrelevant, just need to init
+            next_review: new Date().toISOString(), // irrelevant, just need to init
             interval: 0,
             repetitions: 0,
-            easiness: 2.5
+            easiness: 2.5,
+            half_life: 0,
+            lapses: 0
         };
 
         const result = calculateNextReview(
             quality,
-            oldProgress.interval,
+            oldProgress.half_life || 0,
             oldProgress.repetitions,
-            oldProgress.easiness
+            oldProgress.lapses || 0
         );
 
         const newProgress: WordProgress = {
             word_id: currentCard.id,
-            ...result
+            next_review: result.next_review,
+            interval: result.interval_days, // Map days for info
+            repetitions: result.repetitions,
+            easiness: oldProgress.easiness, // Preserve or ignore
+            half_life: result.half_life,
+            lapses: result.lapses,
+            last_review: new Date().toISOString(),
+            last_grade: quality
         };
 
         // 2. Save to Firestore
         await saveWordProgress(user.uid, newProgress);
 
-        // 3. Update XP (10XP per correct answer, 0 for wrong maybe? Keeping 10 for effort for now as per prev design, but maybe reduce penalize? Let's keep 10)
-        // Actually for quiz, maybe only give XP for correct?
-        // Let's give 10 XP regardless for now to encourage study.
+        // 3. Update XP 
         await updateUserXP(user.uid, 10);
 
         // 4. Move to next card

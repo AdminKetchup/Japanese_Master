@@ -18,10 +18,16 @@ export interface UserProfile {
 
 export interface WordProgress {
     word_id: number;
-    next_review: string; // ISO Date string
-    interval: number;
-    repetitions: number;
-    easiness: number;
+    next_review: string; // ISO Date string (Full Timestamp) - effectively 'dueAt'
+    interval: number; // Kept for reference or backward compat
+    repetitions: number; // 'reps'
+    easiness: number; // Kept for reference (SM-2)
+
+    // Half-Life SRS New Fields
+    half_life: number; // in Hours
+    last_review?: string; // ISO Date of last review
+    lapses: number; // Count of times forgotten (Again)
+    last_grade?: number; // 0-5
 }
 
 export interface GameResult {
